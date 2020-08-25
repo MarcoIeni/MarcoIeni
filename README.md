@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 ➡️ [more blog posts...](https://marcoieni.com)
 
 ---
