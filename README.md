@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MarcoIeni | RSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][rss]
+[<img align="left" alt="MarcoIeni | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/dev-dot-to.svg" />][devto]
 
 <br />
 <br />
@@ -46,3 +47,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/MarcoIeni
 [linkedin]: https://linkedin.com/in/MarcoIeni
 [rss]: https://www.marcoieni.com/posts/index.xml
+[devto]: https://dev.to/marcoieni
