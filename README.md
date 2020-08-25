@@ -41,6 +41,12 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#152](https://github.com//ashleygwilliams/cargo-generate/issues/152) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
+2. 🗣 Commented on [#229](https://github.com//ashleygwilliams/cargo-generate/issues/229) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
+3. 🗣 Commented on [#45](https://github.com//VSpaceCode/VSpaceCode/issues/45) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#11](https://github.com//VSpaceCode/vscode-which-key/issues/11) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
+5. 🗣 Commented on [#11](https://github.com//VSpaceCode/vscode-which-key/issues/11) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
+<!--END_SECTION:activity-->
 </details>
 
 [website]: https://marcoieni.com
