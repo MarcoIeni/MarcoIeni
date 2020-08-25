@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
