@@ -69,6 +69,14 @@ Here are some ideas to get you started:
   
 </details>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoieni&show_icons=true" alt="marcoieni" /></p>
+
+
+</details>
+
 [website]: https://marcoieni.com
 [twitter]: https://twitter.com/MarcoIeni
 [linkedin]: https://linkedin.com/in/MarcoIeni
