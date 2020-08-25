@@ -1,4 +1,5 @@
-### Hi there, I'm Marco 👋
+<h1 align="center">Hi, I'm Marco 👋</h1>
+<h3 align="center">A passionate developer from Italy 🇮🇹</h3>
 
 [![Website](https://img.shields.io/website?label=marcoieni.com&style=for-the-badge&url=https%3A%2F%2Fmarcoieni.com)](https://marcoieni.com)
 
@@ -23,6 +24,16 @@ Here are some ideas to get you started:
 [<img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MarcoIeni | RSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][rss]
+
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+</details>
 
 [website]: https://marcoieni.com
 [twitter]: https://twitter.com/MarcoIeni
