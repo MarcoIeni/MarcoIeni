@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="cplusplus" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />](https://github.com/MarcoIeni/accelerometer_game)
 
 <img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
+
+[<img align="left" alt="Java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />](https://bitbucket.org/GabrieleIannone/ps04/src/master/)
 
 [<img align="left" alt="Python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />](https://github.com/MarcoIeni/walking-bus)
 
