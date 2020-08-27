@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#83](https://github.com//VSpaceCode/VSpaceCode/issues/83) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. ❗️ Opened issue [#1](https://github.com//MarcoIeni/MarcoIeni/issues/1) in [MarcoIeni/MarcoIeni](https://github.com//MarcoIeni/MarcoIeni)
+1. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#83](https://github.com//VSpaceCode/VSpaceCode/issues/83) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
