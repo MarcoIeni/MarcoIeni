@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13890](https://github.com//syl20bnr/spacemacs/pull/13890) in [syl20bnr/spacemacs](https://github.com//syl20bnr/spacemacs)
-2. 🗣 Commented on [#95](https://github.com//VSpaceCode/VSpaceCode/issues/95) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#96](https://github.com//VSpaceCode/VSpaceCode/issues/96) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#96](https://github.com//VSpaceCode/VSpaceCode/issues/96) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#1306](https://github.com//rust-lang/mdBook/issues/1306) in [rust-lang/mdBook](https://github.com//rust-lang/mdBook)
+2. 💪 Opened PR [#13890](https://github.com//syl20bnr/spacemacs/pull/13890) in [syl20bnr/spacemacs](https://github.com//syl20bnr/spacemacs)
+3. 🗣 Commented on [#95](https://github.com//VSpaceCode/VSpaceCode/issues/95) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#96](https://github.com//VSpaceCode/VSpaceCode/issues/96) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
