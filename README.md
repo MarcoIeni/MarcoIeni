@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
-2. 💪 Opened PR [#2448](https://github.com//nushell/nushell/pull/2448) in [nushell/nushell](https://github.com//nushell/nushell)
-3. 🗣 Commented on [#1306](https://github.com//rust-lang/mdBook/issues/1306) in [rust-lang/mdBook](https://github.com//rust-lang/mdBook)
-4. 🗣 Commented on [#1306](https://github.com//rust-lang/mdBook/issues/1306) in [rust-lang/mdBook](https://github.com//rust-lang/mdBook)
-5. 💪 Opened PR [#13890](https://github.com//syl20bnr/spacemacs/pull/13890) in [syl20bnr/spacemacs](https://github.com//syl20bnr/spacemacs)
+1. ❗️ Closed issue [#118](https://github.com//rust-embedded/svd/issues/118) in [rust-embedded/svd](https://github.com//rust-embedded/svd)
+2. 🗣 Commented on [#118](https://github.com//rust-embedded/svd/issues/118) in [rust-embedded/svd](https://github.com//rust-embedded/svd)
+3. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
+4. 💪 Opened PR [#2448](https://github.com//nushell/nushell/pull/2448) in [nushell/nushell](https://github.com//nushell/nushell)
+5. 🗣 Commented on [#1306](https://github.com//rust-lang/mdBook/issues/1306) in [rust-lang/mdBook](https://github.com//rust-lang/mdBook)
 <!--END_SECTION:activity-->
   
 </details>
