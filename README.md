@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
-2. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. ❗️ Closed issue [#118](https://github.com//rust-embedded/svd/issues/118) in [rust-embedded/svd](https://github.com//rust-embedded/svd)
-4. 🗣 Commented on [#118](https://github.com//rust-embedded/svd/issues/118) in [rust-embedded/svd](https://github.com//rust-embedded/svd)
-5. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
+2. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
+3. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. ❗️ Closed issue [#118](https://github.com//rust-embedded/svd/issues/118) in [rust-embedded/svd](https://github.com//rust-embedded/svd)
+5. 🗣 Commented on [#118](https://github.com//rust-embedded/svd/issues/118) in [rust-embedded/svd](https://github.com//rust-embedded/svd)
 <!--END_SECTION:activity-->
   
 </details>
