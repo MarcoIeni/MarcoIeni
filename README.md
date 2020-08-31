@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. ❗️ Opened issue [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
-4. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
-5. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. ❗️ Opened issue [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#204](https://github.com//ashleygwilliams/cargo-generate/issues/204) in [ashleygwilliams/cargo-generate](https://github.com//ashleygwilliams/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
