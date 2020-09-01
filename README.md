@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#14](https://github.com//VSpaceCode/vscode-which-key/issues/14) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
 2. 🗣 Commented on [#14](https://github.com//VSpaceCode/vscode-which-key/issues/14) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
 3. 🗣 Commented on [#14](https://github.com//VSpaceCode/vscode-which-key/issues/14) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#14](https://github.com//VSpaceCode/vscode-which-key/issues/14) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
 5. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
