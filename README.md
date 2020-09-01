@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 3. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 4. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. ❗️ Opened issue [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#97](https://github.com//VSpaceCode/VSpaceCode/issues/97) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
