@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an amazing Rust GitHub project in no time](https://www.marcoieni.com/2020/09/create-an-amazing-rust-github-project-in-no-time/)
 - [Continuous integration with VHDL](https://www.marcoieni.com/2020/04/continuous-integration-with-vhdl/)
 - [Doc-org: org-mode + latex + docker = pdf](https://www.marcoieni.com/2020/02/doc-org-org-mode-latex-docker-pdf/)
 - [Linux on my 32GB windows tablet is surprisingly good](https://www.marcoieni.com/2020/01/linux-on-my-32gb-windows-tablet-is-surprisingly-good/)
 - [Keep a changelog!](https://www.marcoieni.com/2019/12/keep-a-changelog/)
-- [Coderetreat is the funniest coding event I've ever attended](https://www.marcoieni.com/2019/11/coderetreat-is-the-funniest-coding-event-ive-ever-attended/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://marcoieni.com)
