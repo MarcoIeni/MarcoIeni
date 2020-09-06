@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. ❗️ Closed issue [#1](https://github.com//rust-github/template/issues/1) in [rust-github/template](https://github.com//rust-github/template)
-3. 🗣 Commented on [#1](https://github.com//rust-github/template/issues/1) in [rust-github/template](https://github.com//rust-github/template)
+1. ❗️ Closed issue [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. ❗️ Opened issue [#98](https://github.com//VSpaceCode/VSpaceCode/issues/98) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 4. 🗣 Commented on [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. ❗️ Closed issue [#1](https://github.com//rust-github/template/issues/1) in [rust-github/template](https://github.com//rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
