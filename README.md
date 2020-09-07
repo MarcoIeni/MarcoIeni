@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//MarcoIeni/marcoieni.com-comments/issues/2) in [MarcoIeni/marcoieni.com-comments](https://github.com//MarcoIeni/marcoieni.com-comments)
-2. 🗣 Commented on [#2](https://github.com//MarcoIeni/marcoieni.com-comments/issues/2) in [MarcoIeni/marcoieni.com-comments](https://github.com//MarcoIeni/marcoieni.com-comments)
-3. 💪 Opened PR [#1490](https://github.com//emberian/this-week-in-rust/pull/1490) in [emberian/this-week-in-rust](https://github.com//emberian/this-week-in-rust)
-4. ❗️ Closed issue [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#84](https://github.com//VSpaceCode/VSpaceCode/issues/84) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#2](https://github.com//rust-github/template/issues/2) in [rust-github/template](https://github.com//rust-github/template)
+3. 🎉 Merged PR [#2](https://github.com//rust-github/template/pull/2) in [rust-github/template](https://github.com//rust-github/template)
+4. 🗣 Commented on [#2](https://github.com//MarcoIeni/marcoieni.com-comments/issues/2) in [MarcoIeni/marcoieni.com-comments](https://github.com//MarcoIeni/marcoieni.com-comments)
+5. 🗣 Commented on [#2](https://github.com//MarcoIeni/marcoieni.com-comments/issues/2) in [MarcoIeni/marcoieni.com-comments](https://github.com//MarcoIeni/marcoieni.com-comments)
 <!--END_SECTION:activity-->
   
 </details>
