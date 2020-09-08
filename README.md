@@ -78,9 +78,9 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#2](https://github.com//rust-github/template/issues/2) in [rust-github/template](https://github.com//rust-github/template)
-3. 🎉 Merged PR [#2](https://github.com//rust-github/template/pull/2) in [rust-github/template](https://github.com//rust-github/template)
-4. 🗣 Commented on [#2](https://github.com//MarcoIeni/marcoieni.com-comments/issues/2) in [MarcoIeni/marcoieni.com-comments](https://github.com//MarcoIeni/marcoieni.com-comments)
+2. 🗣 Commented on [#91](https://github.com//VSpaceCode/VSpaceCode/issues/91) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#2](https://github.com//rust-github/template/issues/2) in [rust-github/template](https://github.com//rust-github/template)
+4. 🎉 Merged PR [#2](https://github.com//rust-github/template/pull/2) in [rust-github/template](https://github.com//rust-github/template)
 5. 🗣 Commented on [#2](https://github.com//MarcoIeni/marcoieni.com-comments/issues/2) in [MarcoIeni/marcoieni.com-comments](https://github.com//MarcoIeni/marcoieni.com-comments)
 <!--END_SECTION:activity-->
   
