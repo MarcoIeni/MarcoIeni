@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com//RustBeginners/awesome-rust-mentors/pull/141) in [RustBeginners/awesome-rust-mentors](https://github.com//RustBeginners/awesome-rust-mentors)
-2. ❗️ Opened issue [#99](https://github.com//VSpaceCode/VSpaceCode/issues/99) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. ❗️ Closed issue [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#15](https://github.com//VSpaceCode/vscode-which-key/issues/15) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
+1. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
+2. 💪 Opened PR [#141](https://github.com//RustBeginners/awesome-rust-mentors/pull/141) in [RustBeginners/awesome-rust-mentors](https://github.com//RustBeginners/awesome-rust-mentors)
+3. ❗️ Opened issue [#99](https://github.com//VSpaceCode/VSpaceCode/issues/99) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. ❗️ Closed issue [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
