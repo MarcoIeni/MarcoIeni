@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
-3. 💪 Opened PR [#141](https://github.com//RustBeginners/awesome-rust-mentors/pull/141) in [RustBeginners/awesome-rust-mentors](https://github.com//RustBeginners/awesome-rust-mentors)
-4. ❗️ Opened issue [#99](https://github.com//VSpaceCode/VSpaceCode/issues/99) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. ❗️ Closed issue [#82](https://github.com//VSpaceCode/VSpaceCode/issues/82) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. 💪 Opened PR [#1](https://github.com//tom-doerr/i3_workspace_toggle/pull/1) in [tom-doerr/i3_workspace_toggle](https://github.com//tom-doerr/i3_workspace_toggle)
+3. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
+4. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
+5. 💪 Opened PR [#141](https://github.com//RustBeginners/awesome-rust-mentors/pull/141) in [RustBeginners/awesome-rust-mentors](https://github.com//RustBeginners/awesome-rust-mentors)
 <!--END_SECTION:activity-->
   
 </details>
