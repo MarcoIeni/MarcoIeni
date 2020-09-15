@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. ❗️ Opened issue [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. 🎉 Merged PR [#2](https://github.com//VSpaceCode/vspacecode.github.io/pull/2) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
-4. 🗣 Commented on [#100](https://github.com//VSpaceCode/VSpaceCode/issues/100) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. ❌ Closed PR [#100](https://github.com//VSpaceCode/VSpaceCode/pull/100) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+1. 🎉 Merged PR [#102](https://github.com//VSpaceCode/VSpaceCode/pull/102) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. ❗️ Opened issue [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+4. 🎉 Merged PR [#2](https://github.com//VSpaceCode/vspacecode.github.io/pull/2) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#100](https://github.com//VSpaceCode/VSpaceCode/issues/100) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
