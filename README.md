@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#102](https://github.com//VSpaceCode/VSpaceCode/issues/102) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-3. 🎉 Merged PR [#102](https://github.com//VSpaceCode/VSpaceCode/pull/102) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+2. ❗️ Closed issue [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 4. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. ❗️ Opened issue [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#102](https://github.com//VSpaceCode/VSpaceCode/issues/102) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
