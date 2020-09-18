@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#15](https://github.com//VSpaceCode/vscode-which-key/issues/15) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
-3. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-4. ❗️ Closed issue [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#16](https://github.com//VSpaceCode/vscode-which-key/issues/16) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
+2. 🗣 Commented on [#90](https://github.com//VSpaceCode/VSpaceCode/issues/90) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#15](https://github.com//VSpaceCode/vscode-which-key/issues/15) in [VSpaceCode/vscode-which-key](https://github.com//VSpaceCode/vscode-which-key)
+4. 🗣 Commented on [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. ❗️ Closed issue [#101](https://github.com//VSpaceCode/VSpaceCode/issues/101) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
