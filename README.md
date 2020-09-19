@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com//VSpaceCode/vspacecode.github.io/issues/4) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#4](https://github.com//VSpaceCode/vspacecode.github.io/issues/4) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
-3. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
+2. ❗️ Closed issue [#4](https://github.com//VSpaceCode/vspacecode.github.io/issues/4) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
+3. 🗣 Commented on [#4](https://github.com//VSpaceCode/vspacecode.github.io/issues/4) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
 4. 🗣 Commented on [#4](https://github.com//VSpaceCode/vspacecode.github.io/issues/4) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
-5. 🗣 Commented on [#100](https://github.com//VSpaceCode/VSpaceCode/issues/100) in [VSpaceCode/VSpaceCode](https://github.com//VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#1](https://github.com//VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com//VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
