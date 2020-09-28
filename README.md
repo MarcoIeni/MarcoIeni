@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/VSpaceCode/VSpaceCode/issues/108) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#1](https://github.com/doc-org/doc-org/issues/1) in [doc-org/doc-org](https://github.com/doc-org/doc-org)
-3. 🗣 Commented on [#98](https://github.com/VSpaceCode/VSpaceCode/issues/98) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#106](https://github.com/VSpaceCode/VSpaceCode/issues/106) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#106](https://github.com/VSpaceCode/VSpaceCode/issues/106) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. ❗️ Opened issue [#109](https://github.com/VSpaceCode/VSpaceCode/issues/109) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 💪 Opened PR [#19](https://github.com/VSpaceCode/vscode-which-key/pull/19) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🗣 Commented on [#108](https://github.com/VSpaceCode/VSpaceCode/issues/108) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#1](https://github.com/doc-org/doc-org/issues/1) in [doc-org/doc-org](https://github.com/doc-org/doc-org)
+5. 🗣 Commented on [#98](https://github.com/VSpaceCode/VSpaceCode/issues/98) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
