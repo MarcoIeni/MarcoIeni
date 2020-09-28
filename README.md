@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/VSpaceCode/VSpaceCode/issues/106) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 💪 Opened PR [#106](https://github.com/VSpaceCode/VSpaceCode/pull/106) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#1](https://github.com/VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🗣 Commented on [#11](https://github.com/oss-italy/comments/issues/11) in [oss-italy/comments](https://github.com/oss-italy/comments)
-5. 🗣 Commented on [#99](https://github.com/VSpaceCode/VSpaceCode/issues/99) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#106](https://github.com/VSpaceCode/VSpaceCode/issues/106) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 💪 Opened PR [#106](https://github.com/VSpaceCode/VSpaceCode/pull/106) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#1](https://github.com/VSpaceCode/vspacecode.github.io/issues/1) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#11](https://github.com/oss-italy/comments/issues/11) in [oss-italy/comments](https://github.com/oss-italy/comments)
 <!--END_SECTION:activity-->
   
 </details>
