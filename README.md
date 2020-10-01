@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#111](https://github.com/VSpaceCode/VSpaceCode/issues/111) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 💪 Opened PR [#6](https://github.com/VSpaceCode/vspacecode.github.io/pull/6) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-3. 🗣 Commented on [#110](https://github.com/VSpaceCode/VSpaceCode/issues/110) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#111](https://github.com/VSpaceCode/VSpaceCode/issues/111) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 💪 Opened PR [#6](https://github.com/VSpaceCode/vspacecode.github.io/pull/6) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 4. 🗣 Commented on [#110](https://github.com/VSpaceCode/VSpaceCode/issues/110) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#109](https://github.com/VSpaceCode/VSpaceCode/issues/109) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#110](https://github.com/VSpaceCode/VSpaceCode/issues/110) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
