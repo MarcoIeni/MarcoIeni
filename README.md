@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
-2. 💪 Opened PR [#122](https://github.com/VSpaceCode/VSpaceCode/pull/122) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 💪 Opened PR [#1562](https://github.com/rust-lang/this-week-in-rust/pull/1562) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-4. 🗣 Commented on [#118](https://github.com/VSpaceCode/VSpaceCode/issues/118) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#118](https://github.com/VSpaceCode/VSpaceCode/issues/118) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#124](https://github.com/VSpaceCode/VSpaceCode/issues/124) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#118](https://github.com/VSpaceCode/VSpaceCode/issues/118) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+5. 💪 Opened PR [#122](https://github.com/VSpaceCode/VSpaceCode/pull/122) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
