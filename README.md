@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+1. 🗣 Commented on [#8](https://github.com/VSpaceCode/vspacecode.github.io/issues/8) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 2. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
-3. 🗣 Commented on [#8](https://github.com/VSpaceCode/vspacecode.github.io/issues/8) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+3. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+4. 🗣 Commented on [#8](https://github.com/VSpaceCode/vspacecode.github.io/issues/8) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
