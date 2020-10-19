@@ -78,10 +78,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#127](https://github.com/VSpaceCode/VSpaceCode/issues/127) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. ❗️ Opened issue [#3](https://github.com/rust-github/template/issues/3) in [rust-github/template](https://github.com/rust-github/template)
-3. 💪 Opened PR [#254](https://github.com/ashleygwilliams/cargo-generate/pull/254) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-4. 🗣 Commented on [#8](https://github.com/VSpaceCode/vspacecode.github.io/issues/8) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-5. 🗣 Commented on [#3](https://github.com/VSpaceCode/community-configs/issues/3) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+2. 🗣 Commented on [#20](https://github.com/VSpaceCode/vscode-which-key/issues/20) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🗣 Commented on [#127](https://github.com/VSpaceCode/VSpaceCode/issues/127) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. ❗️ Opened issue [#3](https://github.com/rust-github/template/issues/3) in [rust-github/template](https://github.com/rust-github/template)
+5. 💪 Opened PR [#254](https://github.com/ashleygwilliams/cargo-generate/pull/254) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
