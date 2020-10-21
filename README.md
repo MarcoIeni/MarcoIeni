@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#130](https://github.com/VSpaceCode/VSpaceCode/issues/130) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. ❗️ Closed issue [#11](https://github.com/VSpaceCode/vspacecode.github.io/issues/11) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-3. 🎉 Merged PR [#12](https://github.com/VSpaceCode/vspacecode.github.io/pull/12) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🎉 Merged PR [#1](https://github.com/VSpaceCode/.github/pull/1) in [VSpaceCode/.github](https://github.com/VSpaceCode/.github)
-5. 🗣 Commented on [#121](https://github.com/VSpaceCode/VSpaceCode/issues/121) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#130](https://github.com/VSpaceCode/VSpaceCode/issues/130) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🎉 Merged PR [#14](https://github.com/VSpaceCode/vspacecode.github.io/pull/14) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. 🎉 Merged PR [#15](https://github.com/VSpaceCode/vspacecode.github.io/pull/15) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+4. ❗️ Opened issue [#130](https://github.com/VSpaceCode/VSpaceCode/issues/130) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. ❗️ Closed issue [#11](https://github.com/VSpaceCode/vspacecode.github.io/issues/11) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
