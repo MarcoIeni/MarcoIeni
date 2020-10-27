@@ -77,11 +77,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/VSpaceCode/vspacecode.github.io/issues/3) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-2. ❗️ Closed issue [#18](https://github.com/VSpaceCode/vscode-which-key/issues/18) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-3. 🗣 Commented on [#18](https://github.com/VSpaceCode/vscode-which-key/issues/18) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#1](https://github.com/MarcoIeni/spaceclipse/issues/1) in [MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)
-5. ❗️ Closed issue [#1](https://github.com/MarcoIeni/spaceclipse/issues/1) in [MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)
+1. ❗️ Opened issue [#21](https://github.com/VSpaceCode/vscode-which-key/issues/21) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+2. ❗️ Closed issue [#130](https://github.com/VSpaceCode/VSpaceCode/issues/130) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#130](https://github.com/VSpaceCode/VSpaceCode/issues/130) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🎉 Merged PR [#18](https://github.com/VSpaceCode/vspacecode.github.io/pull/18) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#3](https://github.com/VSpaceCode/vspacecode.github.io/issues/3) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
