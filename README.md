@@ -73,6 +73,15 @@ Here are some ideas to get you started:
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/MarcoIeni)
+
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
