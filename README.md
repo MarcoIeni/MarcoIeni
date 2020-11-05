@@ -90,11 +90,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/htr3n/hyde-hyde/issues/124) in [htr3n/hyde-hyde](https://github.com/htr3n/hyde-hyde)
-2. ❗️ Opened issue [#130](https://github.com/htr3n/hyde-hyde/issues/130) in [htr3n/hyde-hyde](https://github.com/htr3n/hyde-hyde)
-3. ❗️ Closed issue [#20](https://github.com/VSpaceCode/vspacecode.github.io/issues/20) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🗣 Commented on [#20](https://github.com/VSpaceCode/vspacecode.github.io/issues/20) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-5. 🎉 Merged PR [#19](https://github.com/VSpaceCode/vspacecode.github.io/pull/19) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+1. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 🗣 Commented on [#124](https://github.com/htr3n/hyde-hyde/issues/124) in [htr3n/hyde-hyde](https://github.com/htr3n/hyde-hyde)
+3. ❗️ Opened issue [#130](https://github.com/htr3n/hyde-hyde/issues/130) in [htr3n/hyde-hyde](https://github.com/htr3n/hyde-hyde)
+4. ❗️ Closed issue [#20](https://github.com/VSpaceCode/vspacecode.github.io/issues/20) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#20](https://github.com/VSpaceCode/vspacecode.github.io/issues/20) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
