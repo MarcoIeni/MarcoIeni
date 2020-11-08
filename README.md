@@ -90,11 +90,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MarcoIeni/spaceclipse/issues/2) in [MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)
-2. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 🗣 Commented on [#2](https://github.com/MarcoIeni/spaceclipse/issues/2) in [MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)
 3. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
-4. 🗣 Commented on [#384](https://github.com/dandavison/delta/issues/384) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 💪 Opened PR [#385](https://github.com/dandavison/delta/pull/385) in [dandavison/delta](https://github.com/dandavison/delta)
+4. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 🗣 Commented on [#384](https://github.com/dandavison/delta/issues/384) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
