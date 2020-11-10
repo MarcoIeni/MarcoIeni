@@ -90,11 +90,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 🗣 Commented on [#2](https://github.com/MarcoIeni/spaceclipse/issues/2) in [MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)
-3. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 🗣 Commented on [#134](https://github.com/VSpaceCode/VSpaceCode/issues/134) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
+3. 🗣 Commented on [#2](https://github.com/MarcoIeni/spaceclipse/issues/2) in [MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)
 4. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 🗣 Commented on [#384](https://github.com/dandavison/delta/issues/384) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 🗣 Commented on [#116](https://github.com/dandavison/delta/issues/116) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
