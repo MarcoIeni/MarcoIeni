@@ -2,8 +2,8 @@ name: GitHub - Activity - Readme
 
 on:
   schedule:
-    # every hour
-    - cron: "0 * * * *"
+    # every 4 hours
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 jobs:
