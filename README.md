@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rust: How to create an awesome GitHub project! 🦀🦑](https://www.youtube.com/watch?v=meAz2RQMHvM)
 - [How to stop using the mouse: Vim, Spacemacs, VSpaceCode and i3wm](https://www.youtube.com/watch?v=0aQGy0sQiUU)
 - [Automatic Rust code coverage in VSCode 🦀📊 [follow up]](https://www.youtube.com/watch?v=JEgrkmEAHjA)
 - [Rust code coverage in VSCode 🦀📊](https://www.youtube.com/watch?v=6pDku63JNYQ)
