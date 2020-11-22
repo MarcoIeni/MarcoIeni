@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/enseadaio/enseada/issues/47) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
-2. 💪 Opened PR [#47](https://github.com/enseadaio/enseada/pull/47) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
-3. 🗣 Commented on [#46](https://github.com/enseadaio/enseada/issues/46) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
-4. 💪 Opened PR [#136](https://github.com/VSpaceCode/VSpaceCode/pull/136) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 💪 Opened PR [#1650](https://github.com/rust-lang/this-week-in-rust/pull/1650) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+1. 💪 Opened PR [#394](https://github.com/dandavison/delta/pull/394) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 💪 Opened PR [#393](https://github.com/dandavison/delta/pull/393) in [dandavison/delta](https://github.com/dandavison/delta)
+3. 🗣 Commented on [#47](https://github.com/enseadaio/enseada/issues/47) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+4. 💪 Opened PR [#47](https://github.com/enseadaio/enseada/pull/47) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+5. 🗣 Commented on [#46](https://github.com/enseadaio/enseada/issues/46) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
 <!--END_SECTION:activity-->
   
 </details>
