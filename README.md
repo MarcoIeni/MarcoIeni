@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#399](https://github.com/dandavison/delta/pull/399) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 🗣 Commented on [#395](https://github.com/dandavison/delta/issues/395) in [dandavison/delta](https://github.com/dandavison/delta)
-3. 💪 Opened PR [#397](https://github.com/dandavison/delta/pull/397) in [dandavison/delta](https://github.com/dandavison/delta)
-4. ❌ Closed PR [#395](https://github.com/dandavison/delta/pull/395) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 🗣 Commented on [#396](https://github.com/dandavison/delta/issues/396) in [dandavison/delta](https://github.com/dandavison/delta)
+1. ❗️ Opened issue [#401](https://github.com/dandavison/delta/issues/401) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 💪 Opened PR [#400](https://github.com/dandavison/delta/pull/400) in [dandavison/delta](https://github.com/dandavison/delta)
+3. 🗣 Commented on [#398](https://github.com/dandavison/delta/issues/398) in [dandavison/delta](https://github.com/dandavison/delta)
+4. 🗣 Commented on [#398](https://github.com/dandavison/delta/issues/398) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 🗣 Commented on [#399](https://github.com/dandavison/delta/issues/399) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
