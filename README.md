@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/oss-italy/oss-italy.github.io/issues/4) in [oss-italy/oss-italy.github.io](https://github.com/oss-italy/oss-italy.github.io)
-2. 💪 Opened PR [#411](https://github.com/dandavison/delta/pull/411) in [dandavison/delta](https://github.com/dandavison/delta)
-3. 🗣 Commented on [#396](https://github.com/dandavison/delta/issues/396) in [dandavison/delta](https://github.com/dandavison/delta)
-4. ❗️ Closed issue [#401](https://github.com/dandavison/delta/issues/401) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 🗣 Commented on [#401](https://github.com/dandavison/delta/issues/401) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 🗣 Commented on [#333](https://github.com/lotabout/skim/issues/333) in [lotabout/skim](https://github.com/lotabout/skim)
+2. 💪 Opened PR [#48](https://github.com/enseadaio/enseada/pull/48) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+3. 🗣 Commented on [#13](https://github.com/oss-italy/comments/issues/13) in [oss-italy/comments](https://github.com/oss-italy/comments)
+4. 🗣 Commented on [#12](https://github.com/oss-italy/comments/issues/12) in [oss-italy/comments](https://github.com/oss-italy/comments)
+5. 🗣 Commented on [#411](https://github.com/dandavison/delta/issues/411) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
