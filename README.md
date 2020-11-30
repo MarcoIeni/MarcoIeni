@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 💪 Opened PR [#413](https://github.com/dandavison/delta/pull/413) in [dandavison/delta](https://github.com/dandavison/delta)
-3. 🗣 Commented on [#1](https://github.com/rust-github/rust-github.github.io/issues/1) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
-4. 🗣 Commented on [#333](https://github.com/lotabout/skim/issues/333) in [lotabout/skim](https://github.com/lotabout/skim)
-5. 💪 Opened PR [#48](https://github.com/enseadaio/enseada/pull/48) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+2. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
+3. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
+4. 💪 Opened PR [#413](https://github.com/dandavison/delta/pull/413) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 🗣 Commented on [#1](https://github.com/rust-github/rust-github.github.io/issues/1) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
 <!--END_SECTION:activity-->
   
 </details>
