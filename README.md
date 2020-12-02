@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 💪 Opened PR [#417](https://github.com/dandavison/delta/pull/417) in [dandavison/delta](https://github.com/dandavison/delta)
 2. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
 3. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
-4. 💪 Opened PR [#413](https://github.com/dandavison/delta/pull/413) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 🗣 Commented on [#1](https://github.com/rust-github/rust-github.github.io/issues/1) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
+4. 🗣 Commented on [#413](https://github.com/dandavison/delta/issues/413) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 💪 Opened PR [#413](https://github.com/dandavison/delta/pull/413) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
