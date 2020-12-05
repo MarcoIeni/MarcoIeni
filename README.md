@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#421](https://github.com/dandavison/delta/issues/421) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 🗣 Commented on [#421](https://github.com/dandavison/delta/issues/421) in [dandavison/delta](https://github.com/dandavison/delta)
-3. 🗣 Commented on [#422](https://github.com/dandavison/delta/issues/422) in [dandavison/delta](https://github.com/dandavison/delta)
-4. ❗️ Opened issue [#424](https://github.com/dandavison/delta/issues/424) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 💪 Opened PR [#419](https://github.com/dandavison/delta/pull/419) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 💪 Opened PR [#673](https://github.com/Rigellute/spotify-tui/pull/673) in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
+2. 💪 Opened PR [#672](https://github.com/Rigellute/spotify-tui/pull/672) in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
+3. 🗣 Commented on [#421](https://github.com/dandavison/delta/issues/421) in [dandavison/delta](https://github.com/dandavison/delta)
+4. 🗣 Commented on [#421](https://github.com/dandavison/delta/issues/421) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 🗣 Commented on [#422](https://github.com/dandavison/delta/issues/422) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
