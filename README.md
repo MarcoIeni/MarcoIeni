@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/enseadaio/enseada/issues/46) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
-2. 💪 Opened PR [#49](https://github.com/enseadaio/enseada/pull/49) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
-3. 💪 Opened PR [#1671](https://github.com/rust-lang/this-week-in-rust/pull/1671) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-4. 💪 Opened PR [#673](https://github.com/Rigellute/spotify-tui/pull/673) in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
-5. 💪 Opened PR [#672](https://github.com/Rigellute/spotify-tui/pull/672) in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
+1. 🗣 Commented on [#138](https://github.com/VSpaceCode/VSpaceCode/issues/138) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#46](https://github.com/enseadaio/enseada/issues/46) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+3. 🗣 Commented on [#46](https://github.com/enseadaio/enseada/issues/46) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+4. 💪 Opened PR [#49](https://github.com/enseadaio/enseada/pull/49) in [enseadaio/enseada](https://github.com/enseadaio/enseada)
+5. 💪 Opened PR [#1671](https://github.com/rust-lang/this-week-in-rust/pull/1671) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
 <!--END_SECTION:activity-->
   
 </details>
