@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/VSpaceCode/vscode-which-key/issues/21) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. 🗣 Commented on [#140](https://github.com/VSpaceCode/VSpaceCode/issues/140) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. ❗️ Opened issue [#47](https://github.com/xdg-rs/dirs/issues/47) in [xdg-rs/dirs](https://github.com/xdg-rs/dirs)
-4. 💪 Opened PR [#4](https://github.com/tiborschneider/rofi-rs/pull/4) in [tiborschneider/rofi-rs](https://github.com/tiborschneider/rofi-rs)
-5. 💪 Opened PR [#3](https://github.com/tiborschneider/rofi-rs/pull/3) in [tiborschneider/rofi-rs](https://github.com/tiborschneider/rofi-rs)
+1. 💪 Opened PR [#143](https://github.com/VSpaceCode/VSpaceCode/pull/143) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#21](https://github.com/VSpaceCode/vscode-which-key/issues/21) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🗣 Commented on [#140](https://github.com/VSpaceCode/VSpaceCode/issues/140) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. ❗️ Opened issue [#47](https://github.com/xdg-rs/dirs/issues/47) in [xdg-rs/dirs](https://github.com/xdg-rs/dirs)
+5. 💪 Opened PR [#4](https://github.com/tiborschneider/rofi-rs/pull/4) in [tiborschneider/rofi-rs](https://github.com/tiborschneider/rofi-rs)
 <!--END_SECTION:activity-->
   
 </details>
