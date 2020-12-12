@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/VSpaceCode/vscode-which-key/issues/16) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. 🗣 Commented on [#16](https://github.com/VSpaceCode/vscode-which-key/issues/16) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-3. 🗣 Commented on [#16](https://github.com/VSpaceCode/vscode-which-key/issues/16) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 💪 Opened PR [#23](https://github.com/VSpaceCode/vscode-which-key/pull/23) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-5. 💪 Opened PR [#415](https://github.com/mitsuhiko/redis-rs/pull/415) in [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
+1. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#145](https://github.com/VSpaceCode/VSpaceCode/issues/145) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#16](https://github.com/VSpaceCode/vscode-which-key/issues/16) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
