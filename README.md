@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/kahole/edamagit/issues/93) in [kahole/edamagit](https://github.com/kahole/edamagit)
-2. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#17](https://github.com/bodil/vscode-file-browser/issues/17) in [bodil/vscode-file-browser](https://github.com/bodil/vscode-file-browser)
-4. ❗️ Opened issue [#13](https://github.com/jacobdufault/vscode-fuzzy-search/issues/13) in [jacobdufault/vscode-fuzzy-search](https://github.com/jacobdufault/vscode-fuzzy-search)
-5. ❗️ Opened issue [#93](https://github.com/kahole/edamagit/issues/93) in [kahole/edamagit](https://github.com/kahole/edamagit)
+1. 🗣 Commented on [#146](https://github.com/VSpaceCode/VSpaceCode/issues/146) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#25](https://github.com/VSpaceCode/vscode-which-key/issues/25) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🗣 Commented on [#93](https://github.com/kahole/edamagit/issues/93) in [kahole/edamagit](https://github.com/kahole/edamagit)
+4. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#17](https://github.com/bodil/vscode-file-browser/issues/17) in [bodil/vscode-file-browser](https://github.com/bodil/vscode-file-browser)
 <!--END_SECTION:activity-->
   
 </details>
