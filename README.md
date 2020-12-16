@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/VSpaceCode/VSpaceCode/issues/146) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#146](https://github.com/VSpaceCode/VSpaceCode/issues/146) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#25](https://github.com/VSpaceCode/vscode-which-key/issues/25) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#93](https://github.com/kahole/edamagit/issues/93) in [kahole/edamagit](https://github.com/kahole/edamagit)
-5. 🗣 Commented on [#125](https://github.com/VSpaceCode/VSpaceCode/issues/125) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#147](https://github.com/VSpaceCode/VSpaceCode/issues/147) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🎉 Merged PR [#147](https://github.com/VSpaceCode/VSpaceCode/pull/147) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#12](https://github.com/VSpaceCode/vscode-which-key/issues/12) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+4. 🗣 Commented on [#1306](https://github.com/rust-lang/mdBook/issues/1306) in [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+5. 🗣 Commented on [#146](https://github.com/VSpaceCode/VSpaceCode/issues/146) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
