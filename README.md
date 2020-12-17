@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#147](https://github.com/VSpaceCode/VSpaceCode/issues/147) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🎉 Merged PR [#147](https://github.com/VSpaceCode/VSpaceCode/pull/147) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#12](https://github.com/VSpaceCode/vscode-which-key/issues/12) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#1306](https://github.com/rust-lang/mdBook/issues/1306) in [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
-5. 🗣 Commented on [#146](https://github.com/VSpaceCode/VSpaceCode/issues/146) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#98](https://github.com/VSpaceCode/VSpaceCode/issues/98) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#147](https://github.com/VSpaceCode/VSpaceCode/issues/147) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🎉 Merged PR [#147](https://github.com/VSpaceCode/VSpaceCode/pull/147) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#12](https://github.com/VSpaceCode/vscode-which-key/issues/12) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
