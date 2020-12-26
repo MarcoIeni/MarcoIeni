@@ -93,9 +93,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
 2. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-3. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-4. 💪 Opened PR [#467](https://github.com/dandavison/delta/pull/467) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
+3. 🗣 Commented on [#382](https://github.com/rust-embedded/wg/issues/382) in [rust-embedded/wg](https://github.com/rust-embedded/wg)
+4. 🗣 Commented on [#468](https://github.com/dandavison/delta/issues/468) in [dandavison/delta](https://github.com/dandavison/delta)
+5. 💪 Opened PR [#43](https://github.com/LukeMathWalker/wiremock-rs/pull/43) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
 <!--END_SECTION:activity-->
   
 </details>
