@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/rust-embedded/svd/issues/137) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-2. 💪 Opened PR [#137](https://github.com/rust-embedded/svd/pull/137) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-3. 💪 Opened PR [#80410](https://github.com/rust-lang/rust/pull/80410) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#136](https://github.com/rust-embedded/svd/issues/136) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-5. 🗣 Commented on [#9](https://github.com/stm32-rs/svdtools/issues/9) in [stm32-rs/svdtools](https://github.com/stm32-rs/svdtools)
+1. 🗣 Commented on [#257](https://github.com/ashleygwilliams/cargo-generate/issues/257) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+2. 🗣 Commented on [#256](https://github.com/ashleygwilliams/cargo-generate/issues/256) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+3. 🗣 Commented on [#258](https://github.com/ashleygwilliams/cargo-generate/issues/258) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+4. ❌ Closed PR [#267](https://github.com/ashleygwilliams/cargo-generate/pull/267) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+5. 🗣 Commented on [#267](https://github.com/ashleygwilliams/cargo-generate/issues/267) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
