@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#135](https://github.com/rust-embedded/svd/issues/135) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-2. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-3. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-4. 🗣 Commented on [#382](https://github.com/rust-embedded/wg/issues/382) in [rust-embedded/wg](https://github.com/rust-embedded/wg)
-5. 🗣 Commented on [#468](https://github.com/dandavison/delta/issues/468) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 💪 Opened PR [#430](https://github.com/mitsuhiko/redis-rs/pull/430) in [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
+2. 🗣 Commented on [#458](https://github.com/dandavison/delta/issues/458) in [dandavison/delta](https://github.com/dandavison/delta)
+3. 🗣 Commented on [#469](https://github.com/dandavison/delta/issues/469) in [dandavison/delta](https://github.com/dandavison/delta)
+4. ❗️ Opened issue [#135](https://github.com/rust-embedded/svd/issues/135) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
+5. 🗣 Commented on [#133](https://github.com/rust-embedded/svd/issues/133) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
 <!--END_SECTION:activity-->
   
 </details>
