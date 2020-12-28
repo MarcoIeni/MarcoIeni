@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/ashleygwilliams/cargo-generate/issues/257) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-2. 🗣 Commented on [#256](https://github.com/ashleygwilliams/cargo-generate/issues/256) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-3. 🗣 Commented on [#258](https://github.com/ashleygwilliams/cargo-generate/issues/258) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-4. ❌ Closed PR [#267](https://github.com/ashleygwilliams/cargo-generate/pull/267) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
-5. 🗣 Commented on [#267](https://github.com/ashleygwilliams/cargo-generate/issues/267) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+1. ❗️ Opened issue [#268](https://github.com/ashleygwilliams/cargo-generate/issues/268) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+2. 🗣 Commented on [#164](https://github.com/ashleygwilliams/cargo-generate/issues/164) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+3. 🗣 Commented on [#114](https://github.com/ashleygwilliams/cargo-generate/issues/114) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+4. 🗣 Commented on [#14](https://github.com/ashleygwilliams/cargo-generate/issues/14) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+5. 🗣 Commented on [#40](https://github.com/ashleygwilliams/cargo-generate/issues/40) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
