@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#480](https://github.com/dandavison/delta/issues/480) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 💪 Opened PR [#480](https://github.com/dandavison/delta/pull/480) in [dandavison/delta](https://github.com/dandavison/delta)
-3. ❗️ Opened issue [#79](https://github.com/bikeshedder/deadpool/issues/79) in [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool)
-4. 🗣 Commented on [#27](https://github.com/VSpaceCode/vscode-which-key/issues/27) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-5. ❗️ Opened issue [#268](https://github.com/ashleygwilliams/cargo-generate/issues/268) in [ashleygwilliams/cargo-generate](https://github.com/ashleygwilliams/cargo-generate)
+1. 🗣 Commented on [#27](https://github.com/VSpaceCode/vscode-which-key/issues/27) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+2. 🗣 Commented on [#79](https://github.com/bikeshedder/deadpool/issues/79) in [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool)
+3. 🗣 Commented on [#480](https://github.com/dandavison/delta/issues/480) in [dandavison/delta](https://github.com/dandavison/delta)
+4. 💪 Opened PR [#480](https://github.com/dandavison/delta/pull/480) in [dandavison/delta](https://github.com/dandavison/delta)
+5. ❗️ Opened issue [#79](https://github.com/bikeshedder/deadpool/issues/79) in [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool)
 <!--END_SECTION:activity-->
   
 </details>
