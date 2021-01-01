@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#107](https://github.com/rust-unofficial/patterns/issues/107) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🗣 Commented on [#107](https://github.com/rust-unofficial/patterns/issues/107) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🗣 Commented on [#417](https://github.com/dandavison/delta/issues/417) in [dandavison/delta](https://github.com/dandavison/delta)
-4. 🗣 Commented on [#27](https://github.com/VSpaceCode/vscode-which-key/issues/27) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-5. 🗣 Commented on [#79](https://github.com/bikeshedder/deadpool/issues/79) in [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool)
+1. 🗣 Commented on [#35](https://github.com/rust-unofficial/patterns/issues/35) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#27](https://github.com/VSpaceCode/vscode-which-key/issues/27) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. ❗️ Closed issue [#107](https://github.com/rust-unofficial/patterns/issues/107) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🗣 Commented on [#107](https://github.com/rust-unofficial/patterns/issues/107) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#417](https://github.com/dandavison/delta/issues/417) in [dandavison/delta](https://github.com/dandavison/delta)
 <!--END_SECTION:activity-->
   
 </details>
