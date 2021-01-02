@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#119](https://github.com/rust-unofficial/patterns/issues/119) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. ❗️ Opened issue [#118](https://github.com/rust-unofficial/patterns/issues/118) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🗣 Commented on [#109](https://github.com/rust-unofficial/patterns/issues/109) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#109](https://github.com/rust-unofficial/patterns/issues/109) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🗣 Commented on [#484](https://github.com/dandavison/delta/issues/484) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 🎉 Merged PR [#121](https://github.com/rust-unofficial/patterns/pull/121) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. ❗️ Closed issue [#98](https://github.com/rust-unofficial/patterns/issues/98) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. ❗️ Opened issue [#126](https://github.com/rust-unofficial/patterns/issues/126) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🎉 Merged PR [#125](https://github.com/rust-unofficial/patterns/pull/125) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#150](https://github.com/VSpaceCode/VSpaceCode/issues/150) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
