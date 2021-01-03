@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/rust-unofficial/patterns/issues/148) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 💪 Opened PR [#148](https://github.com/rust-unofficial/patterns/pull/148) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🎉 Merged PR [#147](https://github.com/rust-unofficial/patterns/pull/147) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#147](https://github.com/rust-unofficial/patterns/issues/147) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🗣 Commented on [#29](https://github.com/rust-unofficial/patterns/issues/29) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#119](https://github.com/rust-unofficial/patterns/issues/119) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#119](https://github.com/rust-unofficial/patterns/issues/119) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#141](https://github.com/rust-unofficial/patterns/issues/141) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 💪 Opened PR [#151](https://github.com/rust-unofficial/patterns/pull/151) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#150](https://github.com/rust-unofficial/patterns/issues/150) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
