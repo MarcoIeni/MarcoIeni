@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/rust-unofficial/patterns/pull/188) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 💪 Opened PR [#187](https://github.com/rust-unofficial/patterns/pull/187) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#186](https://github.com/rust-unofficial/patterns/pull/186) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 💪 Opened PR [#1729](https://github.com/rust-lang/this-week-in-rust/pull/1729) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-5. ❗️ Opened issue [#185](https://github.com/rust-unofficial/patterns/issues/185) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. ❗️ Opened issue [#22](https://github.com/VSpaceCode/vspacecode.github.io/issues/22) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+2. 💪 Opened PR [#188](https://github.com/rust-unofficial/patterns/pull/188) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 💪 Opened PR [#187](https://github.com/rust-unofficial/patterns/pull/187) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 💪 Opened PR [#186](https://github.com/rust-unofficial/patterns/pull/186) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 💪 Opened PR [#1729](https://github.com/rust-lang/this-week-in-rust/pull/1729) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
 <!--END_SECTION:activity-->
   
 </details>
