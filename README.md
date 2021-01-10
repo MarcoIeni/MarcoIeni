@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/rust-unofficial/patterns/issues/146) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🗣 Commented on [#146](https://github.com/rust-unofficial/patterns/issues/146) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. ❗️ Opened issue [#22](https://github.com/VSpaceCode/vspacecode.github.io/issues/22) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 💪 Opened PR [#188](https://github.com/rust-unofficial/patterns/pull/188) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 💪 Opened PR [#187](https://github.com/rust-unofficial/patterns/pull/187) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#196](https://github.com/rust-unofficial/patterns/issues/196) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#197](https://github.com/rust-unofficial/patterns/issues/197) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#146](https://github.com/rust-unofficial/patterns/issues/146) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🗣 Commented on [#146](https://github.com/rust-unofficial/patterns/issues/146) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. ❗️ Opened issue [#22](https://github.com/VSpaceCode/vspacecode.github.io/issues/22) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
