@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/artipo/AdventOfCode_2019/issues/1) in [artipo/AdventOfCode_2019](https://github.com/artipo/AdventOfCode_2019)
-2. 💪 Opened PR [#1](https://github.com/artipo/AdventOfCode_2019/pull/1) in [artipo/AdventOfCode_2019](https://github.com/artipo/AdventOfCode_2019)
-3. 💪 Opened PR [#204](https://github.com/rust-unofficial/patterns/pull/204) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#87](https://github.com/rust-unofficial/patterns/issues/87) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🗣 Commented on [#185](https://github.com/rust-unofficial/patterns/issues/185) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#205](https://github.com/rust-unofficial/patterns/issues/205) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🎉 Merged PR [#205](https://github.com/rust-unofficial/patterns/pull/205) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#1](https://github.com/artipo/AdventOfCode_2019/issues/1) in [artipo/AdventOfCode_2019](https://github.com/artipo/AdventOfCode_2019)
+4. 💪 Opened PR [#1](https://github.com/artipo/AdventOfCode_2019/pull/1) in [artipo/AdventOfCode_2019](https://github.com/artipo/AdventOfCode_2019)
+5. 💪 Opened PR [#204](https://github.com/rust-unofficial/patterns/pull/204) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
