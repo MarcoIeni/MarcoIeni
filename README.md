@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#206](https://github.com/rust-unofficial/patterns/pull/206) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🗣 Commented on [#164](https://github.com/VSpaceCode/VSpaceCode/issues/164) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🎉 Merged PR [#164](https://github.com/VSpaceCode/VSpaceCode/pull/164) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#205](https://github.com/rust-unofficial/patterns/issues/205) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🎉 Merged PR [#205](https://github.com/rust-unofficial/patterns/pull/205) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 💪 Opened PR [#1747](https://github.com/rust-lang/this-week-in-rust/pull/1747) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+2. 💪 Opened PR [#206](https://github.com/rust-unofficial/patterns/pull/206) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#164](https://github.com/VSpaceCode/VSpaceCode/issues/164) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🎉 Merged PR [#164](https://github.com/VSpaceCode/VSpaceCode/pull/164) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#205](https://github.com/rust-unofficial/patterns/issues/205) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
