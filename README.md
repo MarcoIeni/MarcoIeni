@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#265](https://github.com/cargo-generate/cargo-generate/pull/265) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-2. 💪 Opened PR [#1747](https://github.com/rust-lang/this-week-in-rust/pull/1747) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-3. 💪 Opened PR [#206](https://github.com/rust-unofficial/patterns/pull/206) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#164](https://github.com/VSpaceCode/VSpaceCode/issues/164) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🎉 Merged PR [#164](https://github.com/VSpaceCode/VSpaceCode/pull/164) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#165](https://github.com/VSpaceCode/VSpaceCode/issues/165) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🗣 Commented on [#184](https://github.com/rust-unofficial/patterns/issues/184) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. ❗️ Opened issue [#207](https://github.com/rust-unofficial/patterns/issues/207) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. ❌ Closed PR [#265](https://github.com/cargo-generate/cargo-generate/pull/265) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+5. 💪 Opened PR [#1747](https://github.com/rust-lang/this-week-in-rust/pull/1747) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
 <!--END_SECTION:activity-->
   
 </details>
