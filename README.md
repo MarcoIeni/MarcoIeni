@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#165](https://github.com/VSpaceCode/VSpaceCode/issues/165) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#184](https://github.com/rust-unofficial/patterns/issues/184) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. ❗️ Opened issue [#207](https://github.com/rust-unofficial/patterns/issues/207) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. ❌ Closed PR [#265](https://github.com/cargo-generate/cargo-generate/pull/265) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-5. 💪 Opened PR [#1747](https://github.com/rust-lang/this-week-in-rust/pull/1747) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+2. 💪 Opened PR [#166](https://github.com/VSpaceCode/VSpaceCode/pull/166) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#165](https://github.com/VSpaceCode/VSpaceCode/issues/165) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#184](https://github.com/rust-unofficial/patterns/issues/184) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. ❗️ Opened issue [#207](https://github.com/rust-unofficial/patterns/issues/207) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
