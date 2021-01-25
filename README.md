@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/VSpaceCode/vspacecode.github.io/issues/30) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#7](https://github.com/avto-dev/markdown-lint/issues/7) in [avto-dev/markdown-lint](https://github.com/avto-dev/markdown-lint)
-3. ❗️ Opened issue [#30](https://github.com/VSpaceCode/vspacecode.github.io/issues/30) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🎉 Merged PR [#167](https://github.com/VSpaceCode/VSpaceCode/pull/167) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. ❗️ Closed issue [#161](https://github.com/VSpaceCode/VSpaceCode/issues/161) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🎉 Merged PR [#31](https://github.com/VSpaceCode/vspacecode.github.io/pull/31) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+2. ❗️ Closed issue [#30](https://github.com/VSpaceCode/vspacecode.github.io/issues/30) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. 💪 Opened PR [#31](https://github.com/VSpaceCode/vspacecode.github.io/pull/31) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+4. 🗣 Commented on [#192](https://github.com/rust-unofficial/patterns/issues/192) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🎉 Merged PR [#213](https://github.com/rust-unofficial/patterns/pull/213) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
