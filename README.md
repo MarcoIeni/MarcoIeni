@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ### Favourite Languages and Tools:
 
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://github.com/MarcoIeni/poke-speare)
+[<img align="left" alt="Rust" width="26px" src="icons/rust.svg" />](https://github.com/MarcoIeni/poke-speare)
 
-[<img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/MarcoIeni/accelerometer_game)
+[<img align="left" alt="cplusplus" width="26px" src="icons/cpp.svg" />](https://github.com/MarcoIeni/accelerometer_game)
 
-<img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
+<img align="left" alt="C" width="26px" src="icons/c.svg" />
 
 [<img align="left" alt="Java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />](https://bitbucket.org/GabrieleIannone/ps04/src/master/)
 
