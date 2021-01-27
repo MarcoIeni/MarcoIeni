@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/VSpaceCode/vspacecode.github.io/pull/35) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#33](https://github.com/VSpaceCode/vspacecode.github.io/issues/33) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-3. 🗣 Commented on [#169](https://github.com/VSpaceCode/VSpaceCode/issues/169) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. ❗️ Opened issue [#34](https://github.com/VSpaceCode/vspacecode.github.io/issues/34) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-5. 🗣 Commented on [#32](https://github.com/VSpaceCode/vspacecode.github.io/issues/32) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+1. 🗣 Commented on [#33](https://github.com/VSpaceCode/vspacecode.github.io/issues/33) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+2. 💪 Opened PR [#35](https://github.com/VSpaceCode/vspacecode.github.io/pull/35) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. 🗣 Commented on [#33](https://github.com/VSpaceCode/vspacecode.github.io/issues/33) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+4. 🗣 Commented on [#169](https://github.com/VSpaceCode/VSpaceCode/issues/169) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. ❗️ Opened issue [#34](https://github.com/VSpaceCode/vspacecode.github.io/issues/34) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
