@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/VSpaceCode/vspacecode.github.io/issues/36) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#36](https://github.com/VSpaceCode/vspacecode.github.io/issues/36) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-3. 🗣 Commented on [#131](https://github.com/rust-embedded/svd/issues/131) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
-4. 🗣 Commented on [#218](https://github.com/rust-unofficial/patterns/issues/218) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🎉 Merged PR [#218](https://github.com/rust-unofficial/patterns/pull/218) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#8](https://github.com/MarcoIeni/intellimacs/issues/8) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+2. ❗️ Closed issue [#36](https://github.com/VSpaceCode/vspacecode.github.io/issues/36) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. 🗣 Commented on [#36](https://github.com/VSpaceCode/vspacecode.github.io/issues/36) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+4. 🗣 Commented on [#131](https://github.com/rust-embedded/svd/issues/131) in [rust-embedded/svd](https://github.com/rust-embedded/svd)
+5. 🗣 Commented on [#218](https://github.com/rust-unofficial/patterns/issues/218) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
