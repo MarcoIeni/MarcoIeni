@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/cargo-generate/cargo-generate/issues/299) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-2. 🗣 Commented on [#244](https://github.com/rust-unofficial/patterns/issues/244) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🗣 Commented on [#299](https://github.com/cargo-generate/cargo-generate/issues/299) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-4. 🎉 Merged PR [#243](https://github.com/rust-unofficial/patterns/pull/243) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🗣 Commented on [#244](https://github.com/rust-unofficial/patterns/issues/244) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#177](https://github.com/VSpaceCode/VSpaceCode/issues/177) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 💪 Opened PR [#41](https://github.com/VSpaceCode/vspacecode.github.io/pull/41) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. ❗️ Opened issue [#181](https://github.com/VSpaceCode/VSpaceCode/issues/181) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#299](https://github.com/cargo-generate/cargo-generate/issues/299) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+5. 🗣 Commented on [#299](https://github.com/cargo-generate/cargo-generate/issues/299) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
