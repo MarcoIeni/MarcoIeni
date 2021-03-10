@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/VSpaceCode/VSpaceCode/issues/177) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 💪 Opened PR [#41](https://github.com/VSpaceCode/vspacecode.github.io/pull/41) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-3. ❗️ Opened issue [#181](https://github.com/VSpaceCode/VSpaceCode/issues/181) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#299](https://github.com/cargo-generate/cargo-generate/issues/299) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-5. 🗣 Commented on [#299](https://github.com/cargo-generate/cargo-generate/issues/299) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+1. 🗣 Commented on [#181](https://github.com/VSpaceCode/VSpaceCode/issues/181) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. ❗️ Closed issue [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. 🗣 Commented on [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+4. 🗣 Commented on [#246](https://github.com/rust-unofficial/patterns/issues/246) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
 </details>
