@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/VSpaceCode/VSpaceCode/issues/181) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. ❗️ Closed issue [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-3. 🗣 Commented on [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-4. 🗣 Commented on [#246](https://github.com/rust-unofficial/patterns/issues/246) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#246](https://github.com/rust-unofficial/patterns/issues/246) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🎉 Merged PR [#246](https://github.com/rust-unofficial/patterns/pull/246) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#181](https://github.com/VSpaceCode/VSpaceCode/issues/181) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. ❗️ Closed issue [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 5. 🗣 Commented on [#24](https://github.com/MarcoIeni/intellimacs/issues/24) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
