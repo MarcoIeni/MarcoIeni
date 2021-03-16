@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4785](https://github.com/VSCodeVim/Vim/issues/4785) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
-2. 🗣 Commented on [#28](https://github.com/MarcoIeni/intellimacs/issues/28) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-3. 🎉 Merged PR [#28](https://github.com/MarcoIeni/intellimacs/pull/28) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-4. 🎉 Merged PR [#23](https://github.com/MarcoIeni/intellimacs/pull/23) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-5. 🗣 Commented on [#23](https://github.com/MarcoIeni/intellimacs/issues/23) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+1. 🗣 Commented on [#25](https://github.com/MarcoIeni/intellimacs/issues/25) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+2. 🗣 Commented on [#4785](https://github.com/VSCodeVim/Vim/issues/4785) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+3. 🗣 Commented on [#28](https://github.com/MarcoIeni/intellimacs/issues/28) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+4. 🎉 Merged PR [#28](https://github.com/MarcoIeni/intellimacs/pull/28) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+5. 🎉 Merged PR [#23](https://github.com/MarcoIeni/intellimacs/pull/23) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
 </details>
