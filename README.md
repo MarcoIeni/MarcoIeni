@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/rust-github/template/issues/4) in [rust-github/template](https://github.com/rust-github/template)
-2. 🗣 Commented on [#26](https://github.com/MarcoIeni/intellimacs/issues/26) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-3. 🎉 Merged PR [#26](https://github.com/MarcoIeni/intellimacs/pull/26) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-4. 🗣 Commented on [#27](https://github.com/MarcoIeni/intellimacs/issues/27) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-5. 🎉 Merged PR [#27](https://github.com/MarcoIeni/intellimacs/pull/27) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+1. 🗣 Commented on [#29](https://github.com/MarcoIeni/intellimacs/issues/29) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+2. 🎉 Merged PR [#29](https://github.com/MarcoIeni/intellimacs/pull/29) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. ❗️ Opened issue [#4](https://github.com/rust-github/template/issues/4) in [rust-github/template](https://github.com/rust-github/template)
+4. 🗣 Commented on [#26](https://github.com/MarcoIeni/intellimacs/issues/26) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+5. 🎉 Merged PR [#26](https://github.com/MarcoIeni/intellimacs/pull/26) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
 </details>
