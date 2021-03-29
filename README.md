@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/MarcoIeni/intellimacs/issues/32) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-2. 🎉 Merged PR [#32](https://github.com/MarcoIeni/intellimacs/pull/32) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-3. 🗣 Commented on [#33](https://github.com/MarcoIeni/intellimacs/issues/33) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-4. 🎉 Merged PR [#33](https://github.com/MarcoIeni/intellimacs/pull/33) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-5. 🗣 Commented on [#34](https://github.com/MarcoIeni/intellimacs/issues/34) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+1. 🗣 Commented on [#35](https://github.com/MarcoIeni/intellimacs/issues/35) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+2. 🎉 Merged PR [#35](https://github.com/MarcoIeni/intellimacs/pull/35) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. 🗣 Commented on [#32](https://github.com/MarcoIeni/intellimacs/issues/32) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+4. 🎉 Merged PR [#32](https://github.com/MarcoIeni/intellimacs/pull/32) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+5. 🗣 Commented on [#33](https://github.com/MarcoIeni/intellimacs/issues/33) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
 </details>
