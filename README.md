@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/VSpaceCode/VSpaceCode/pull/188) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#249](https://github.com/rust-unofficial/patterns/issues/249) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 💪 Opened PR [#66](https://github.com/LukeMathWalker/wiremock-rs/pull/66) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+2. 🗣 Commented on [#255](https://github.com/cargo-generate/cargo-generate/issues/255) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 3. 🗣 Commented on [#249](https://github.com/rust-unofficial/patterns/issues/249) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#249](https://github.com/rust-unofficial/patterns/issues/249) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🎉 Merged PR [#188](https://github.com/VSpaceCode/VSpaceCode/pull/188) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 5. 🗣 Commented on [#249](https://github.com/rust-unofficial/patterns/issues/249) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
