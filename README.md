@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/colin-kiegel/rust-pretty-assertions/issues/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
-2. ❗️ Opened issue [#183](https://github.com/lu-zero/cargo-c/issues/183) in [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c)
-3. 💪 Opened PR [#72](https://github.com/colin-kiegel/rust-pretty-assertions/pull/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
-4. 💪 Opened PR [#1612](https://github.com/sharkdp/bat/pull/1612) in [sharkdp/bat](https://github.com/sharkdp/bat)
-5. 💪 Opened PR [#1848](https://github.com/BurntSushi/ripgrep/pull/1848) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+1. 🗣 Commented on [#1848](https://github.com/BurntSushi/ripgrep/issues/1848) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+2. 🗣 Commented on [#1612](https://github.com/sharkdp/bat/issues/1612) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🗣 Commented on [#72](https://github.com/colin-kiegel/rust-pretty-assertions/issues/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
+4. ❗️ Opened issue [#183](https://github.com/lu-zero/cargo-c/issues/183) in [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c)
+5. 💪 Opened PR [#72](https://github.com/colin-kiegel/rust-pretty-assertions/pull/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
 <!--END_SECTION:activity-->
   
 </details>
