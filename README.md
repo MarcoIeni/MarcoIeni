@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1848](https://github.com/BurntSushi/ripgrep/issues/1848) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-2. 🗣 Commented on [#1612](https://github.com/sharkdp/bat/issues/1612) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🗣 Commented on [#72](https://github.com/colin-kiegel/rust-pretty-assertions/issues/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
-4. ❗️ Opened issue [#183](https://github.com/lu-zero/cargo-c/issues/183) in [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c)
-5. 💪 Opened PR [#72](https://github.com/colin-kiegel/rust-pretty-assertions/pull/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
+1. 🗣 Commented on [#1612](https://github.com/sharkdp/bat/issues/1612) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 💪 Opened PR [#1](https://github.com/MarcoIeni/bat/pull/1) in [MarcoIeni/bat](https://github.com/MarcoIeni/bat)
+3. ❌ Closed PR [#72](https://github.com/colin-kiegel/rust-pretty-assertions/pull/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
+4. 🗣 Commented on [#72](https://github.com/colin-kiegel/rust-pretty-assertions/issues/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
+5. 🗣 Commented on [#1848](https://github.com/BurntSushi/ripgrep/issues/1848) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
 <!--END_SECTION:activity-->
   
 </details>
