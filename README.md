@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1612](https://github.com/sharkdp/bat/issues/1612) in [sharkdp/bat](https://github.com/sharkdp/bat)
-2. 💪 Opened PR [#1](https://github.com/MarcoIeni/bat/pull/1) in [MarcoIeni/bat](https://github.com/MarcoIeni/bat)
-3. ❌ Closed PR [#72](https://github.com/colin-kiegel/rust-pretty-assertions/pull/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
-4. 🗣 Commented on [#72](https://github.com/colin-kiegel/rust-pretty-assertions/issues/72) in [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions)
-5. 🗣 Commented on [#1848](https://github.com/BurntSushi/ripgrep/issues/1848) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+1. 💪 Opened PR [#3715](https://github.com/tokio-rs/tokio/pull/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+2. 💪 Opened PR [#2](https://github.com/MarcoIeni/tokio/pull/2) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+3. 💪 Opened PR [#1](https://github.com/MarcoIeni/tokio/pull/1) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+4. 🗣 Commented on [#331](https://github.com/CleverCloud/lapin/issues/331) in [CleverCloud/lapin](https://github.com/CleverCloud/lapin)
+5. 💪 Opened PR [#1246](https://github.com/seanmonstar/reqwest/pull/1246) in [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
 <!--END_SECTION:activity-->
   
 </details>
