@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3715](https://github.com/tokio-rs/tokio/issues/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-2. 🎉 Merged PR [#255](https://github.com/rust-unofficial/patterns/pull/255) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#3715](https://github.com/tokio-rs/tokio/pull/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-4. 💪 Opened PR [#2](https://github.com/MarcoIeni/tokio/pull/2) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
-5. 💪 Opened PR [#1](https://github.com/MarcoIeni/tokio/pull/1) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+1. 🗣 Commented on [#257](https://github.com/rust-unofficial/patterns/issues/257) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#3715](https://github.com/tokio-rs/tokio/issues/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+3. 🎉 Merged PR [#255](https://github.com/rust-unofficial/patterns/pull/255) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 💪 Opened PR [#3715](https://github.com/tokio-rs/tokio/pull/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+5. 💪 Opened PR [#2](https://github.com/MarcoIeni/tokio/pull/2) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
 <!--END_SECTION:activity-->
   
 </details>
