@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3715](https://github.com/tokio-rs/tokio/issues/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-2. 🗣 Commented on [#257](https://github.com/rust-unofficial/patterns/issues/257) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🗣 Commented on [#3715](https://github.com/tokio-rs/tokio/issues/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-4. 🎉 Merged PR [#255](https://github.com/rust-unofficial/patterns/pull/255) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 💪 Opened PR [#3715](https://github.com/tokio-rs/tokio/pull/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+2. 🗣 Commented on [#3715](https://github.com/tokio-rs/tokio/issues/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+3. 🗣 Commented on [#257](https://github.com/rust-unofficial/patterns/issues/257) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🗣 Commented on [#3715](https://github.com/tokio-rs/tokio/issues/3715) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+5. 🎉 Merged PR [#255](https://github.com/rust-unofficial/patterns/pull/255) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
