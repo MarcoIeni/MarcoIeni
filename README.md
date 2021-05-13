@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/rust-github/template/issues/7) in [rust-github/template](https://github.com/rust-github/template)
-2. ❗️ Opened issue [#6](https://github.com/rust-github/template/issues/6) in [rust-github/template](https://github.com/rust-github/template)
-3. ❗️ Opened issue [#3747](https://github.com/tokio-rs/tokio/issues/3747) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-4. 🗣 Commented on [#3746](https://github.com/tokio-rs/tokio/issues/3746) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-5. ❗️ Opened issue [#3746](https://github.com/tokio-rs/tokio/issues/3746) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+1. 🗣 Commented on [#34](https://github.com/VSpaceCode/vscode-which-key/issues/34) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+2. ❗️ Opened issue [#7](https://github.com/rust-github/template/issues/7) in [rust-github/template](https://github.com/rust-github/template)
+3. ❗️ Opened issue [#6](https://github.com/rust-github/template/issues/6) in [rust-github/template](https://github.com/rust-github/template)
+4. ❗️ Opened issue [#3747](https://github.com/tokio-rs/tokio/issues/3747) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+5. 🗣 Commented on [#3746](https://github.com/tokio-rs/tokio/issues/3746) in [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
 <!--END_SECTION:activity-->
   
 </details>
