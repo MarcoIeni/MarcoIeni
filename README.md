@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/VSpaceCode/vscode-which-key/issues/43) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. 🗣 Commented on [#40](https://github.com/VSpaceCode/vscode-which-key/issues/40) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+1. 🗣 Commented on [#41](https://github.com/VSpaceCode/vscode-which-key/issues/41) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+2. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 3. 🗣 Commented on [#43](https://github.com/VSpaceCode/vscode-which-key/issues/43) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#107](https://github.com/stm32-rs/stm32l4xx-hal/issues/107) in [stm32-rs/stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal)
-5. 🗣 Commented on [#193](https://github.com/VSpaceCode/VSpaceCode/issues/193) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#43](https://github.com/VSpaceCode/vscode-which-key/issues/43) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+5. 🗣 Commented on [#40](https://github.com/VSpaceCode/vscode-which-key/issues/40) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
