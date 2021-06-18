@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/VSpaceCode/vscode-which-key/issues/41) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+1. 🗣 Commented on [#260](https://github.com/rust-unofficial/patterns/issues/260) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 2. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 3. 🗣 Commented on [#43](https://github.com/VSpaceCode/vscode-which-key/issues/43) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#43](https://github.com/VSpaceCode/vscode-which-key/issues/43) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-5. 🗣 Commented on [#40](https://github.com/VSpaceCode/vscode-which-key/issues/40) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+4. 🗣 Commented on [#44](https://github.com/VSpaceCode/vspacecode.github.io/issues/44) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#41](https://github.com/VSpaceCode/vscode-which-key/issues/41) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
