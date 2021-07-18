@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/rust-github/template/pull/9) in [rust-github/template](https://github.com/rust-github/template)
-2. ❗️ Closed issue [#8](https://github.com/rust-github/template/issues/8) in [rust-github/template](https://github.com/rust-github/template)
-3. 💪 Opened PR [#9](https://github.com/rust-github/template/pull/9) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#7](https://github.com/rust-github/template/issues/7) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#262](https://github.com/rust-unofficial/patterns/pull/262) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🎉 Merged PR [#10](https://github.com/rust-github/template/pull/10) in [rust-github/template](https://github.com/rust-github/template)
+2. ❗️ Closed issue [#7](https://github.com/rust-github/template/issues/7) in [rust-github/template](https://github.com/rust-github/template)
+3. 💪 Opened PR [#10](https://github.com/rust-github/template/pull/10) in [rust-github/template](https://github.com/rust-github/template)
+4. 🎉 Merged PR [#9](https://github.com/rust-github/template/pull/9) in [rust-github/template](https://github.com/rust-github/template)
+5. ❗️ Closed issue [#8](https://github.com/rust-github/template/issues/8) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
