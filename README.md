@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-2. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-3. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🎉 Merged PR [#10](https://github.com/rust-github/template/pull/10) in [rust-github/template](https://github.com/rust-github/template)
-5. ❗️ Closed issue [#7](https://github.com/rust-github/template/issues/7) in [rust-github/template](https://github.com/rust-github/template)
+2. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+4. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+5. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
