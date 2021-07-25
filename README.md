@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-2. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+2. 🎉 Merged PR [#45](https://github.com/MarcoIeni/intellimacs/pull/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 3. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-4. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-5. 🗣 Commented on [#42](https://github.com/VSpaceCode/vscode-which-key/issues/42) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+4. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+5. 🗣 Commented on [#45](https://github.com/MarcoIeni/intellimacs/issues/45) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
 </details>
