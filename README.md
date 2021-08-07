@@ -94,9 +94,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 2. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🎉 Merged PR [#267](https://github.com/rust-unofficial/patterns/pull/267) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
