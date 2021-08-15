@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-2. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. ❗️ Closed issue [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+2. 🗣 Commented on [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+3. ❗️ Opened issue [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 4. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
