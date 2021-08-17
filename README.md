@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/rust-github/template/issues/11) in [rust-github/template](https://github.com/rust-github/template)
-2. 💪 Opened PR [#417](https://github.com/cargo-generate/cargo-generate/pull/417) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-3. 💪 Opened PR [#416](https://github.com/cargo-generate/cargo-generate/pull/416) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-4. ❗️ Closed issue [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-5. 🗣 Commented on [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+1. 🗣 Commented on [#2](https://github.com/yahyaozturk/game-of-pods/issues/2) in [yahyaozturk/game-of-pods](https://github.com/yahyaozturk/game-of-pods)
+2. ❗️ Opened issue [#11](https://github.com/rust-github/template/issues/11) in [rust-github/template](https://github.com/rust-github/template)
+3. 💪 Opened PR [#417](https://github.com/cargo-generate/cargo-generate/pull/417) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+4. 💪 Opened PR [#416](https://github.com/cargo-generate/cargo-generate/pull/416) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+5. ❗️ Closed issue [#401](https://github.com/cargo-generate/cargo-generate/issues/401) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
