@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/VSpaceCode/vscode-which-key/issues/51) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. ❗️ Closed issue [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#2](https://github.com/yahyaozturk/game-of-pods/issues/2) in [yahyaozturk/game-of-pods](https://github.com/yahyaozturk/game-of-pods)
-5. ❗️ Opened issue [#11](https://github.com/rust-github/template/issues/11) in [rust-github/template](https://github.com/rust-github/template)
+1. 💪 Opened PR [#424](https://github.com/cargo-generate/cargo-generate/pull/424) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+2. 🗣 Commented on [#220](https://github.com/VSpaceCode/VSpaceCode/issues/220) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#51](https://github.com/VSpaceCode/vscode-which-key/issues/51) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+4. ❗️ Closed issue [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#213](https://github.com/VSpaceCode/VSpaceCode/issues/213) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
