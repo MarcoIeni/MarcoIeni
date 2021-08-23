@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/cargo-generate/cargo-generate/issues/230) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-2. 🗣 Commented on [#18](https://github.com/cargo-generate/cargo-generate/issues/18) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-3. 💪 Opened PR [#426](https://github.com/cargo-generate/cargo-generate/pull/426) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-4. 🗣 Commented on [#220](https://github.com/VSpaceCode/VSpaceCode/issues/220) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 💪 Opened PR [#425](https://github.com/cargo-generate/cargo-generate/pull/425) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+1. 💪 Opened PR [#428](https://github.com/cargo-generate/cargo-generate/pull/428) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+2. 🗣 Commented on [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+3. ❗️ Closed issue [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+4. ❗️ Opened issue [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+5. 🗣 Commented on [#230](https://github.com/cargo-generate/cargo-generate/issues/230) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
