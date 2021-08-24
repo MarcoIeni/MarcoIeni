@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/cargo-generate/cargo-generate/issues/432) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-2. 💪 Opened PR [#428](https://github.com/cargo-generate/cargo-generate/pull/428) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-3. 🗣 Commented on [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-4. ❗️ Closed issue [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-5. ❗️ Opened issue [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+1. 🗣 Commented on [#230](https://github.com/cargo-generate/cargo-generate/issues/230) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+2. 🗣 Commented on [#432](https://github.com/cargo-generate/cargo-generate/issues/432) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+3. 💪 Opened PR [#428](https://github.com/cargo-generate/cargo-generate/pull/428) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+4. 🗣 Commented on [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+5. ❗️ Closed issue [#427](https://github.com/cargo-generate/cargo-generate/issues/427) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
