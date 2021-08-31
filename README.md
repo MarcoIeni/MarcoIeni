@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#226](https://github.com/VSpaceCode/VSpaceCode/issues/226) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#431](https://github.com/cargo-generate/cargo-generate/issues/431) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+2. 🗣 Commented on [#226](https://github.com/VSpaceCode/VSpaceCode/issues/226) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 3. 🗣 Commented on [#431](https://github.com/cargo-generate/cargo-generate/issues/431) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 4. 🗣 Commented on [#431](https://github.com/cargo-generate/cargo-generate/issues/431) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-5. 🗣 Commented on [#230](https://github.com/cargo-generate/cargo-generate/issues/230) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+5. 🗣 Commented on [#431](https://github.com/cargo-generate/cargo-generate/issues/431) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
 <!--END_SECTION:activity-->
   
 </details>
