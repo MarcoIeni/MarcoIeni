@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CKAD: 2021 tips, vimrc, bashrc and cheatsheet](https://www.marcoieni.com/2021/09/ckad-2021-tips-vimrc-bashrc-and-cheatsheet/)
 - [My 2020 Recap: Open Source, talks, meetups and more!](https://www.marcoieni.com/2021/01/my-2020-recap-open-source-talks-meetups-and-more/)
 - [Rust makes cross compilation child's play](https://www.marcoieni.com/2020/12/rust-makes-cross-compilation-childs-play/)
 - [📽 2 videos about rust code coverage in VSCode](https://www.marcoieni.com/2020/10/2-videos-about-rust-code-coverage-in-vscode/)
 - [Create an amazing Rust GitHub project in no time](https://www.marcoieni.com/2020/09/create-an-amazing-rust-github-project-in-no-time/)
-- [Continuous integration with VHDL](https://www.marcoieni.com/2020/04/continuous-integration-with-vhdl/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://marcoieni.com)
