@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/VSpaceCode/vspacecode.github.io/issues/48) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#47](https://github.com/VSpaceCode/vspacecode.github.io/issues/47) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🗣 Commented on [#226](https://github.com/VSpaceCode/VSpaceCode/issues/226) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
+2. 🗣 Commented on [#48](https://github.com/VSpaceCode/vspacecode.github.io/issues/48) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. 🗣 Commented on [#219](https://github.com/VSpaceCode/VSpaceCode/issues/219) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#47](https://github.com/VSpaceCode/vspacecode.github.io/issues/47) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 5. 🗣 Commented on [#226](https://github.com/VSpaceCode/VSpaceCode/issues/226) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
