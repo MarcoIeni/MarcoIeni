@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/VSpaceCode/vspacecode.github.io/pull/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-2. 🗣 Commented on [#49](https://github.com/VSpaceCode/vspacecode.github.io/issues/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-3. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
-4. 🗣 Commented on [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
+1. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+2. 🎉 Merged PR [#49](https://github.com/VSpaceCode/vspacecode.github.io/pull/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+3. 🗣 Commented on [#49](https://github.com/VSpaceCode/vspacecode.github.io/issues/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+4. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
 5. 🗣 Commented on [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
