@@ -94,9 +94,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
 2. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
-3. 🎉 Merged PR [#49](https://github.com/VSpaceCode/vspacecode.github.io/pull/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-4. 🗣 Commented on [#49](https://github.com/VSpaceCode/vspacecode.github.io/issues/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-5. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+3. 🗣 Commented on [#12328](https://github.com/syl20bnr/spacemacs/issues/12328) in [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+4. 🎉 Merged PR [#49](https://github.com/VSpaceCode/vspacecode.github.io/pull/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🗣 Commented on [#49](https://github.com/VSpaceCode/vspacecode.github.io/issues/49) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
 <!--END_SECTION:activity-->
   
 </details>
