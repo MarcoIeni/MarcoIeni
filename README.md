@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/MarcoIeni/intellimacs/issues/46) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-2. ❗️ Closed issue [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
-3. 🗣 Commented on [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#13](https://github.com/rust-github/template/issues/13) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#13](https://github.com/rust-github/template/pull/13) in [rust-github/template](https://github.com/rust-github/template)
+1. 💪 Opened PR [#275](https://github.com/rust-unofficial/patterns/pull/275) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#46](https://github.com/MarcoIeni/intellimacs/issues/46) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. ❗️ Closed issue [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
+4. 🗣 Commented on [#12](https://github.com/rust-github/template/issues/12) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#13](https://github.com/rust-github/template/issues/13) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
