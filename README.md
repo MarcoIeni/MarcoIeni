@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/VSpaceCode/VSpaceCode/pull/243) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#236](https://github.com/VSpaceCode/VSpaceCode/issues/236) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. ❗️ Opened issue [#16](https://github.com/rust-github/template/issues/16) in [rust-github/template](https://github.com/rust-github/template)
-4. ❗️ Opened issue [#15](https://github.com/rust-github/template/issues/15) in [rust-github/template](https://github.com/rust-github/template)
-5. ❗️ Opened issue [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
+1. ❗️ Closed issue [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+2. 🗣 Commented on [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🎉 Merged PR [#245](https://github.com/VSpaceCode/VSpaceCode/pull/245) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🎉 Merged PR [#51](https://github.com/VSpaceCode/vspacecode.github.io/pull/51) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+5. 🎉 Merged PR [#243](https://github.com/VSpaceCode/VSpaceCode/pull/243) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
