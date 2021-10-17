@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. 🗣 Commented on [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-3. 🎉 Merged PR [#245](https://github.com/VSpaceCode/VSpaceCode/pull/245) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🎉 Merged PR [#51](https://github.com/VSpaceCode/vspacecode.github.io/pull/51) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-5. 🎉 Merged PR [#243](https://github.com/VSpaceCode/VSpaceCode/pull/243) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#281](https://github.com/rust-unofficial/patterns/issues/281) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 💪 Opened PR [#282](https://github.com/rust-unofficial/patterns/pull/282) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#244](https://github.com/rust-unofficial/patterns/issues/244) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. ❗️ Closed issue [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+5. 🗣 Commented on [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
