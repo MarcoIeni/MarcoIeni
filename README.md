@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#281](https://github.com/rust-unofficial/patterns/issues/281) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 💪 Opened PR [#129](https://github.com/XAMPPRocky/octocrab/pull/129) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
 2. 🗣 Commented on [#281](https://github.com/rust-unofficial/patterns/issues/281) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#282](https://github.com/rust-unofficial/patterns/pull/282) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#244](https://github.com/rust-unofficial/patterns/issues/244) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. ❗️ Closed issue [#44](https://github.com/VSpaceCode/vscode-which-key/issues/44) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🗣 Commented on [#281](https://github.com/rust-unofficial/patterns/issues/281) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 💪 Opened PR [#282](https://github.com/rust-unofficial/patterns/pull/282) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#244](https://github.com/rust-unofficial/patterns/issues/244) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
