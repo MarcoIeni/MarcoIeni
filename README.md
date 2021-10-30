@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/rust-github/template/pull/17) in [rust-github/template](https://github.com/rust-github/template)
-2. ❗️ Opened issue [#3](https://github.com/VUnit/vunit_action/issues/3) in [VUnit/vunit_action](https://github.com/VUnit/vunit_action)
-3. 🗣 Commented on [#215](https://github.com/actions-rs/audit-check/issues/215) in [actions-rs/audit-check](https://github.com/actions-rs/audit-check)
-4. ❗️ Opened issue [#215](https://github.com/actions-rs/audit-check/issues/215) in [actions-rs/audit-check](https://github.com/actions-rs/audit-check)
-5. 🗣 Commented on [#56](https://github.com/actions-rs/audit-check/issues/56) in [actions-rs/audit-check](https://github.com/actions-rs/audit-check)
+1. 🗣 Commented on [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
+2. ❗️ Opened issue [#5](https://github.com/cargo-generate/cargo-generate-action/issues/5) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
+3. 💪 Opened PR [#17](https://github.com/rust-github/template/pull/17) in [rust-github/template](https://github.com/rust-github/template)
+4. ❗️ Opened issue [#3](https://github.com/VUnit/vunit_action/issues/3) in [VUnit/vunit_action](https://github.com/VUnit/vunit_action)
+5. 🗣 Commented on [#215](https://github.com/actions-rs/audit-check/issues/215) in [actions-rs/audit-check](https://github.com/actions-rs/audit-check)
 <!--END_SECTION:activity-->
   
 </details>
