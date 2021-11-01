@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
-2. 🎉 Merged PR [#17](https://github.com/rust-github/template/pull/17) in [rust-github/template](https://github.com/rust-github/template)
-3. 💪 Opened PR [#6](https://github.com/cargo-generate/cargo-generate-action/pull/6) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
-4. 🗣 Commented on [#5](https://github.com/cargo-generate/cargo-generate-action/issues/5) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
-5. 🗣 Commented on [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
+1. 🎉 Merged PR [#20](https://github.com/rust-github/template/pull/20) in [rust-github/template](https://github.com/rust-github/template)
+2. 💪 Opened PR [#20](https://github.com/rust-github/template/pull/20) in [rust-github/template](https://github.com/rust-github/template)
+3. 🎉 Merged PR [#19](https://github.com/rust-github/template/pull/19) in [rust-github/template](https://github.com/rust-github/template)
+4. 💪 Opened PR [#19](https://github.com/rust-github/template/pull/19) in [rust-github/template](https://github.com/rust-github/template)
+5. 🎉 Merged PR [#18](https://github.com/rust-github/template/pull/18) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
