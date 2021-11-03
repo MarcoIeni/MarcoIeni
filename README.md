@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#53](https://github.com/VSpaceCode/vscode-which-key/issues/53) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. 💪 Opened PR [#2558](https://github.com/rust-lang/this-week-in-rust/pull/2558) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-3. ❗️ Closed issue [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#20](https://github.com/rust-github/template/pull/20) in [rust-github/template](https://github.com/rust-github/template)
+2. 🗣 Commented on [#53](https://github.com/VSpaceCode/vscode-which-key/issues/53) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 💪 Opened PR [#2558](https://github.com/rust-lang/this-week-in-rust/pull/2558) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+4. ❗️ Closed issue [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#14](https://github.com/rust-github/template/issues/14) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
