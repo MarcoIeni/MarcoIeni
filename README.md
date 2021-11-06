@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/rust-github/template/issues/16) in [rust-github/template](https://github.com/rust-github/template)
-2. 🗣 Commented on [#16](https://github.com/rust-github/template/issues/16) in [rust-github/template](https://github.com/rust-github/template)
-3. 🗣 Commented on [#15](https://github.com/rust-github/template/issues/15) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#53](https://github.com/VSpaceCode/vscode-which-key/issues/53) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-5. 🗣 Commented on [#53](https://github.com/VSpaceCode/vscode-which-key/issues/53) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+1. 🗣 Commented on [#47](https://github.com/MarcoIeni/intellimacs/issues/47) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+2. 🎉 Merged PR [#47](https://github.com/MarcoIeni/intellimacs/pull/47) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. ❗️ Closed issue [#16](https://github.com/rust-github/template/issues/16) in [rust-github/template](https://github.com/rust-github/template)
+4. 🗣 Commented on [#16](https://github.com/rust-github/template/issues/16) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#15](https://github.com/rust-github/template/issues/15) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
