@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23](https://github.com/rust-github/template/pull/23) in [rust-github/template](https://github.com/rust-github/template)
-2. 🗣 Commented on [#5](https://github.com/cargo-generate/cargo-generate-action/issues/5) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
-3. 🎉 Merged PR [#24](https://github.com/rust-github/template/pull/24) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#5](https://github.com/cargo-generate/cargo-generate-action/issues/5) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
-5. 💪 Opened PR [#24](https://github.com/rust-github/template/pull/24) in [rust-github/template](https://github.com/rust-github/template)
+1. 🗣 Commented on [#280](https://github.com/rust-unofficial/patterns/issues/280) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. ❌ Closed PR [#23](https://github.com/rust-github/template/pull/23) in [rust-github/template](https://github.com/rust-github/template)
+3. 🗣 Commented on [#5](https://github.com/cargo-generate/cargo-generate-action/issues/5) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
+4. 🎉 Merged PR [#24](https://github.com/rust-github/template/pull/24) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#5](https://github.com/cargo-generate/cargo-generate-action/issues/5) in [cargo-generate/cargo-generate-action](https://github.com/cargo-generate/cargo-generate-action)
 <!--END_SECTION:activity-->
   
 </details>
