@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/rust-unofficial/patterns/issues/285) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🎉 Merged PR [#284](https://github.com/rust-unofficial/patterns/pull/284) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🎉 Merged PR [#49](https://github.com/MarcoIeni/intellimacs/pull/49) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-4. 🗣 Commented on [#48](https://github.com/MarcoIeni/intellimacs/issues/48) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+1. 🎉 Merged PR [#286](https://github.com/rust-unofficial/patterns/pull/286) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#285](https://github.com/rust-unofficial/patterns/issues/285) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🎉 Merged PR [#284](https://github.com/rust-unofficial/patterns/pull/284) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🎉 Merged PR [#49](https://github.com/MarcoIeni/intellimacs/pull/49) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 5. 🗣 Commented on [#48](https://github.com/MarcoIeni/intellimacs/issues/48) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
