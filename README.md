@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1145](https://github.com/googleapis/release-please/issues/1145) in [googleapis/release-please](https://github.com/googleapis/release-please)
-2. 💪 Opened PR [#1145](https://github.com/googleapis/release-please/pull/1145) in [googleapis/release-please](https://github.com/googleapis/release-please)
-3. 🎉 Merged PR [#286](https://github.com/rust-unofficial/patterns/pull/286) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#285](https://github.com/rust-unofficial/patterns/issues/285) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🎉 Merged PR [#284](https://github.com/rust-unofficial/patterns/pull/284) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. ❗️ Opened issue [#25](https://github.com/rust-github/template/issues/25) in [rust-github/template](https://github.com/rust-github/template)
+2. 🗣 Commented on [#348](https://github.com/google-github-actions/release-please-action/issues/348) in [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)
+3. 🗣 Commented on [#1145](https://github.com/googleapis/release-please/issues/1145) in [googleapis/release-please](https://github.com/googleapis/release-please)
+4. 💪 Opened PR [#1145](https://github.com/googleapis/release-please/pull/1145) in [googleapis/release-please](https://github.com/googleapis/release-please)
+5. 🎉 Merged PR [#286](https://github.com/rust-unofficial/patterns/pull/286) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
