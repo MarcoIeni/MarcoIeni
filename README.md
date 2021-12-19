@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#503](https://github.com/cargo-generate/cargo-generate/pull/503) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
-2. 🎉 Merged PR [#26](https://github.com/rust-github/template/pull/26) in [rust-github/template](https://github.com/rust-github/template)
-3. ❗️ Closed issue [#25](https://github.com/rust-github/template/issues/25) in [rust-github/template](https://github.com/rust-github/template)
-4. 💪 Opened PR [#26](https://github.com/rust-github/template/pull/26) in [rust-github/template](https://github.com/rust-github/template)
-5. 🗣 Commented on [#284](https://github.com/rust-unofficial/patterns/issues/284) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#82](https://github.com/LukeMathWalker/wiremock-rs/issues/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+2. 💪 Opened PR [#82](https://github.com/LukeMathWalker/wiremock-rs/pull/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+3. 🎉 Merged PR [#27](https://github.com/rust-github/template/pull/27) in [rust-github/template](https://github.com/rust-github/template)
+4. ❗️ Closed issue [#11](https://github.com/rust-github/template/issues/11) in [rust-github/template](https://github.com/rust-github/template)
+5. 💪 Opened PR [#27](https://github.com/rust-github/template/pull/27) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
