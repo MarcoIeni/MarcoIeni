@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/fasterthanlime/renovate-monorepo-test/pull/3) in [fasterthanlime/renovate-monorepo-test](https://github.com/fasterthanlime/renovate-monorepo-test)
-2. 🗣 Commented on [#3](https://github.com/fasterthanlime/renovate-monorepo-test/issues/3) in [fasterthanlime/renovate-monorepo-test](https://github.com/fasterthanlime/renovate-monorepo-test)
-3. 💪 Opened PR [#3](https://github.com/fasterthanlime/renovate-monorepo-test/pull/3) in [fasterthanlime/renovate-monorepo-test](https://github.com/fasterthanlime/renovate-monorepo-test)
-4. 💪 Opened PR [#2](https://github.com/MarcoIeni/renovate-monorepo-test/pull/2) in [MarcoIeni/renovate-monorepo-test](https://github.com/MarcoIeni/renovate-monorepo-test)
-5. 🗣 Commented on [#1](https://github.com/MarcoIeni/renovate-monorepo-test/issues/1) in [MarcoIeni/renovate-monorepo-test](https://github.com/MarcoIeni/renovate-monorepo-test)
+1. 💪 Opened PR [#503](https://github.com/cargo-generate/cargo-generate/pull/503) in [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate)
+2. 🎉 Merged PR [#26](https://github.com/rust-github/template/pull/26) in [rust-github/template](https://github.com/rust-github/template)
+3. ❗️ Closed issue [#25](https://github.com/rust-github/template/issues/25) in [rust-github/template](https://github.com/rust-github/template)
+4. 💪 Opened PR [#26](https://github.com/rust-github/template/pull/26) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#284](https://github.com/rust-unofficial/patterns/issues/284) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
