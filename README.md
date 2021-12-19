@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/rust-github/template/issues/25) in [rust-github/template](https://github.com/rust-github/template)
-2. 🗣 Commented on [#348](https://github.com/google-github-actions/release-please-action/issues/348) in [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)
-3. 🗣 Commented on [#1145](https://github.com/googleapis/release-please/issues/1145) in [googleapis/release-please](https://github.com/googleapis/release-please)
-4. 💪 Opened PR [#1145](https://github.com/googleapis/release-please/pull/1145) in [googleapis/release-please](https://github.com/googleapis/release-please)
-5. 🎉 Merged PR [#286](https://github.com/rust-unofficial/patterns/pull/286) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. ❌ Closed PR [#3](https://github.com/fasterthanlime/renovate-monorepo-test/pull/3) in [fasterthanlime/renovate-monorepo-test](https://github.com/fasterthanlime/renovate-monorepo-test)
+2. 🗣 Commented on [#3](https://github.com/fasterthanlime/renovate-monorepo-test/issues/3) in [fasterthanlime/renovate-monorepo-test](https://github.com/fasterthanlime/renovate-monorepo-test)
+3. 💪 Opened PR [#3](https://github.com/fasterthanlime/renovate-monorepo-test/pull/3) in [fasterthanlime/renovate-monorepo-test](https://github.com/fasterthanlime/renovate-monorepo-test)
+4. 💪 Opened PR [#2](https://github.com/MarcoIeni/renovate-monorepo-test/pull/2) in [MarcoIeni/renovate-monorepo-test](https://github.com/MarcoIeni/renovate-monorepo-test)
+5. 🗣 Commented on [#1](https://github.com/MarcoIeni/renovate-monorepo-test/issues/1) in [MarcoIeni/renovate-monorepo-test](https://github.com/MarcoIeni/renovate-monorepo-test)
 <!--END_SECTION:activity-->
   
 </details>
