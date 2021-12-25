@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/LukeMathWalker/wiremock-rs/issues/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
-2. 💪 Opened PR [#82](https://github.com/LukeMathWalker/wiremock-rs/pull/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
-3. 🎉 Merged PR [#27](https://github.com/rust-github/template/pull/27) in [rust-github/template](https://github.com/rust-github/template)
-4. ❗️ Closed issue [#11](https://github.com/rust-github/template/issues/11) in [rust-github/template](https://github.com/rust-github/template)
-5. 💪 Opened PR [#27](https://github.com/rust-github/template/pull/27) in [rust-github/template](https://github.com/rust-github/template)
+1. ❗️ Opened issue [#62](https://github.com/pksunkara/cargo-workspaces/issues/62) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
+2. ❗️ Opened issue [#61](https://github.com/pksunkara/cargo-workspaces/issues/61) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
+3. 🗣 Commented on [#82](https://github.com/LukeMathWalker/wiremock-rs/issues/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+4. 💪 Opened PR [#82](https://github.com/LukeMathWalker/wiremock-rs/pull/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+5. 🎉 Merged PR [#27](https://github.com/rust-github/template/pull/27) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
