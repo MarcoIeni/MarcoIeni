@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MarcoIeni/rust-workspace-example/pull/1) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-2. 🎉 Merged PR [#4](https://github.com/MarcoIeni/rust-workspace-example/pull/4) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. ❗️ Opened issue [#62](https://github.com/pksunkara/cargo-workspaces/issues/62) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
-4. ❗️ Opened issue [#61](https://github.com/pksunkara/cargo-workspaces/issues/61) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
-5. 🗣 Commented on [#82](https://github.com/LukeMathWalker/wiremock-rs/issues/82) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+1. 🎉 Merged PR [#2](https://github.com/MarcoIeni/rust-monorepo-example/pull/2) in [MarcoIeni/rust-monorepo-example](https://github.com/MarcoIeni/rust-monorepo-example)
+2. 💪 Opened PR [#2](https://github.com/MarcoIeni/rust-monorepo-example/pull/2) in [MarcoIeni/rust-monorepo-example](https://github.com/MarcoIeni/rust-monorepo-example)
+3. 🎉 Merged PR [#1](https://github.com/MarcoIeni/rust-monorepo-example/pull/1) in [MarcoIeni/rust-monorepo-example](https://github.com/MarcoIeni/rust-monorepo-example)
+4. 💪 Opened PR [#1](https://github.com/MarcoIeni/rust-monorepo-example/pull/1) in [MarcoIeni/rust-monorepo-example](https://github.com/MarcoIeni/rust-monorepo-example)
+5. 🎉 Merged PR [#1](https://github.com/MarcoIeni/rust-workspace-example/pull/1) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
