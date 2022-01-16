@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/rust-unofficial/patterns/pull/291) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. ❗️ Closed issue [#290](https://github.com/rust-unofficial/patterns/issues/290) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#186](https://github.com/XAMPPRocky/octocrab/pull/186) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
-4. ❌ Closed PR [#3](https://github.com/MarcoIeni/rust-monorepo-example/pull/3) in [MarcoIeni/rust-monorepo-example](https://github.com/MarcoIeni/rust-monorepo-example)
-5. 💪 Opened PR [#3](https://github.com/MarcoIeni/rust-monorepo-example/pull/3) in [MarcoIeni/rust-monorepo-example](https://github.com/MarcoIeni/rust-monorepo-example)
+1. 🗣 Commented on [#42](https://github.com/JanLikar/cargo-clone/issues/42) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+2. 💪 Opened PR [#43](https://github.com/JanLikar/cargo-clone/pull/43) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+3. 🎉 Merged PR [#291](https://github.com/rust-unofficial/patterns/pull/291) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. ❗️ Closed issue [#290](https://github.com/rust-unofficial/patterns/issues/290) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 💪 Opened PR [#186](https://github.com/XAMPPRocky/octocrab/pull/186) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
 <!--END_SECTION:activity-->
   
 </details>
