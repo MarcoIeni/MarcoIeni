@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/rust-github/rust-github.github.io/issues/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
-2. 🎉 Merged PR [#2](https://github.com/rust-github/rust-github.github.io/pull/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
-3. 🗣 Commented on [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#50](https://github.com/MarcoIeni/intellimacs/issues/50) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-5. ❗️ Opened issue [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
+1. 🎉 Merged PR [#11](https://github.com/MarcoIeni/rust-workspace-example/pull/11) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+2. 🗣 Commented on [#2](https://github.com/rust-github/rust-github.github.io/issues/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
+3. 🎉 Merged PR [#2](https://github.com/rust-github/rust-github.github.io/pull/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
+4. 🗣 Commented on [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#50](https://github.com/MarcoIeni/intellimacs/issues/50) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
 <!--END_SECTION:activity-->
   
 </details>
