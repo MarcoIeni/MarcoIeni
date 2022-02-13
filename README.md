@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/JanLikar/cargo-clone/issues/42) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 🎉 Merged PR [#11](https://github.com/MarcoIeni/rust-workspace-example/pull/11) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. 🗣 Commented on [#2](https://github.com/rust-github/rust-github.github.io/issues/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
-4. 🎉 Merged PR [#2](https://github.com/rust-github/rust-github.github.io/pull/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
-5. 🗣 Commented on [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
+1. 💪 Opened PR [#172](https://github.com/oli-obk/cargo_metadata/pull/172) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
+2. 🗣 Commented on [#42](https://github.com/JanLikar/cargo-clone/issues/42) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+3. 🎉 Merged PR [#11](https://github.com/MarcoIeni/rust-workspace-example/pull/11) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. 🗣 Commented on [#2](https://github.com/rust-github/rust-github.github.io/issues/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
+5. 🎉 Merged PR [#2](https://github.com/rust-github/rust-github.github.io/pull/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
 <!--END_SECTION:activity-->
   
 </details>
