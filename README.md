@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#172](https://github.com/oli-obk/cargo_metadata/pull/172) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
-2. 🗣 Commented on [#42](https://github.com/JanLikar/cargo-clone/issues/42) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-3. 🎉 Merged PR [#11](https://github.com/MarcoIeni/rust-workspace-example/pull/11) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-4. 🗣 Commented on [#2](https://github.com/rust-github/rust-github.github.io/issues/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
-5. 🎉 Merged PR [#2](https://github.com/rust-github/rust-github.github.io/pull/2) in [rust-github/rust-github.github.io](https://github.com/rust-github/rust-github.github.io)
+1. 💪 Opened PR [#6](https://github.com/MarcoIeni/tokio/pull/6) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+2. ❌ Closed PR [#5](https://github.com/MarcoIeni/tokio/pull/5) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+3. 💪 Opened PR [#5](https://github.com/MarcoIeni/tokio/pull/5) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+4. ❌ Closed PR [#4](https://github.com/MarcoIeni/tokio/pull/4) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+5. 💪 Opened PR [#4](https://github.com/MarcoIeni/tokio/pull/4) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
 <!--END_SECTION:activity-->
   
 </details>
