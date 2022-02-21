@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/oli-obk/cargo_metadata/issues/172) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
-2. 🎉 Merged PR [#12](https://github.com/MarcoIeni/rust-workspace-example/pull/12) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. 💪 Opened PR [#6](https://github.com/MarcoIeni/tokio/pull/6) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
-4. ❌ Closed PR [#5](https://github.com/MarcoIeni/tokio/pull/5) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
-5. 💪 Opened PR [#5](https://github.com/MarcoIeni/tokio/pull/5) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+1. 🎉 Merged PR [#15](https://github.com/MarcoIeni/release-plz/pull/15) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#16](https://github.com/MarcoIeni/release-plz/pull/16) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#17](https://github.com/MarcoIeni/release-plz/pull/17) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#18](https://github.com/MarcoIeni/release-plz/pull/18) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#19](https://github.com/MarcoIeni/release-plz/pull/19) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
