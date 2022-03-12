@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#305](https://github.com/rust-unofficial/patterns/pull/305) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 💪 Opened PR [#304](https://github.com/rust-unofficial/patterns/pull/304) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#303](https://github.com/rust-unofficial/patterns/pull/303) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 💪 Opened PR [#302](https://github.com/rust-unofficial/patterns/pull/302) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 🗣 Commented on [#13](https://github.com/MarcoIeni/release-plz/issues/13) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#66](https://github.com/orhun/git-cliff/pull/66) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+2. 💪 Opened PR [#305](https://github.com/rust-unofficial/patterns/pull/305) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 💪 Opened PR [#304](https://github.com/rust-unofficial/patterns/pull/304) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 💪 Opened PR [#303](https://github.com/rust-unofficial/patterns/pull/303) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 💪 Opened PR [#302](https://github.com/rust-unofficial/patterns/pull/302) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
