@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/orhun/git-cliff/pull/67) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-2. 🗣 Commented on [#13](https://github.com/MarcoIeni/release-plz/issues/13) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#9](https://github.com/MarcoIeni/release-plz/issues/9) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#66](https://github.com/orhun/git-cliff/pull/66) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-5. 💪 Opened PR [#305](https://github.com/rust-unofficial/patterns/pull/305) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🎉 Merged PR [#15](https://github.com/MarcoIeni/rust-workspace-example/pull/15) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+2. 🎉 Merged PR [#16](https://github.com/MarcoIeni/rust-workspace-example/pull/16) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+3. 💪 Opened PR [#67](https://github.com/orhun/git-cliff/pull/67) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+4. 🗣 Commented on [#13](https://github.com/MarcoIeni/release-plz/issues/13) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#9](https://github.com/MarcoIeni/release-plz/issues/9) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
