@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/MarcoIeni/release-plz/pull/70) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❌ Closed PR [#7](https://github.com/MarcoIeni/tokio/pull/7) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
-3. 💪 Opened PR [#7](https://github.com/MarcoIeni/tokio/pull/7) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
-4. 🗣 Commented on [#12](https://github.com/MarcoIeni/release-plz/issues/12) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. ❗️ Opened issue [#69](https://github.com/MarcoIeni/release-plz/issues/69) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#70](https://github.com/MarcoIeni/release-plz/pull/70) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. ❌ Closed PR [#8](https://github.com/MarcoIeni/tokio/pull/8) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+3. 💪 Opened PR [#8](https://github.com/MarcoIeni/tokio/pull/8) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+4. ❌ Closed PR [#6](https://github.com/MarcoIeni/tokio/pull/6) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+5. 💪 Opened PR [#70](https://github.com/MarcoIeni/release-plz/pull/70) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
