@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/MarcoIeni/release-plz/pull/75) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❗️ Opened issue [#76](https://github.com/MarcoIeni/release-plz/issues/76) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🎉 Merged PR [#74](https://github.com/MarcoIeni/release-plz/pull/74) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#75](https://github.com/MarcoIeni/release-plz/pull/75) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#74](https://github.com/MarcoIeni/release-plz/pull/74) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
+2. ❗️ Opened issue [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
+3. 🗣 Commented on [#298](https://github.com/crate-ci/cargo-release/issues/298) in [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release)
+4. 🎉 Merged PR [#75](https://github.com/MarcoIeni/release-plz/pull/75) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. ❗️ Opened issue [#76](https://github.com/MarcoIeni/release-plz/issues/76) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
