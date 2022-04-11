@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/MarcoIeni/rust-workspace-example/pull/28) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-2. ❌ Closed PR [#26](https://github.com/MarcoIeni/rust-workspace-example/pull/26) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. ❌ Closed PR [#27](https://github.com/MarcoIeni/rust-workspace-example/pull/27) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-4. ❌ Closed PR [#25](https://github.com/MarcoIeni/rust-workspace-example/pull/25) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-5. 💪 Opened PR [#25](https://github.com/MarcoIeni/rust-workspace-example/pull/25) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 💪 Opened PR [#70](https://github.com/MarcoIeni/release-plz/pull/70) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. ❌ Closed PR [#7](https://github.com/MarcoIeni/tokio/pull/7) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+3. 💪 Opened PR [#7](https://github.com/MarcoIeni/tokio/pull/7) in [MarcoIeni/tokio](https://github.com/MarcoIeni/tokio)
+4. 🗣 Commented on [#12](https://github.com/MarcoIeni/release-plz/issues/12) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. ❗️ Opened issue [#69](https://github.com/MarcoIeni/release-plz/issues/69) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
