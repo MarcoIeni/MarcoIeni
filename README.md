@@ -94,9 +94,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
 2. 🗣 Commented on [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
-3. ❗️ Opened issue [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
-4. 🗣 Commented on [#298](https://github.com/crate-ci/cargo-release/issues/298) in [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release)
-5. 🎉 Merged PR [#75](https://github.com/MarcoIeni/release-plz/pull/75) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
+4. ❗️ Opened issue [#69](https://github.com/pksunkara/cargo-workspaces/issues/69) in [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces)
+5. 🗣 Commented on [#298](https://github.com/crate-ci/cargo-release/issues/298) in [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release)
 <!--END_SECTION:activity-->
   
 </details>
