@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/oli-obk/cargo_metadata/issues/176) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
-2. 💪 Opened PR [#177](https://github.com/oli-obk/cargo_metadata/pull/177) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
-3. 💪 Opened PR [#176](https://github.com/oli-obk/cargo_metadata/pull/176) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
-4. 💪 Opened PR [#89](https://github.com/MarcoIeni/release-plz/pull/89) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#88](https://github.com/MarcoIeni/release-plz/pull/88) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#89](https://github.com/MarcoIeni/release-plz/pull/89) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#81](https://github.com/frewsxcv/rust-crates-index/pull/81) in [frewsxcv/rust-crates-index](https://github.com/frewsxcv/rust-crates-index)
+3. 💪 Opened PR [#80](https://github.com/frewsxcv/rust-crates-index/pull/80) in [frewsxcv/rust-crates-index](https://github.com/frewsxcv/rust-crates-index)
+4. 🗣 Commented on [#176](https://github.com/oli-obk/cargo_metadata/issues/176) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
+5. 💪 Opened PR [#177](https://github.com/oli-obk/cargo_metadata/pull/177) in [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata)
 <!--END_SECTION:activity-->
   
 </details>
