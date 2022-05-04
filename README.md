@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#107](https://github.com/stm32-rs/stm32l4xx-hal/issues/107) in [stm32-rs/stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal)
-2. 🗣 Commented on [#107](https://github.com/stm32-rs/stm32l4xx-hal/issues/107) in [stm32-rs/stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal)
-3. 💪 Opened PR [#110](https://github.com/MarcoIeni/release-plz/pull/110) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗️ Opened issue [#109](https://github.com/MarcoIeni/release-plz/issues/109) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#107](https://github.com/MarcoIeni/release-plz/pull/107) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#53](https://github.com/MarcoIeni/rust-workspace-example/pull/53) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+2. 🎉 Merged PR [#52](https://github.com/MarcoIeni/rust-workspace-example/pull/52) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+3. 💪 Opened PR [#52](https://github.com/MarcoIeni/rust-workspace-example/pull/52) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. 🎉 Merged PR [#51](https://github.com/MarcoIeni/rust-workspace-example/pull/51) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+5. 🎉 Merged PR [#49](https://github.com/MarcoIeni/rust-workspace-example/pull/49) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
