@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/MarcoIeni/release-plz/pull/116) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🎉 Merged PR [#115](https://github.com/MarcoIeni/release-plz/pull/115) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🎉 Merged PR [#117](https://github.com/MarcoIeni/release-plz/pull/117) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#118](https://github.com/MarcoIeni/release-plz/pull/118) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#56](https://github.com/MarcoIeni/rust-workspace-example/pull/56) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 🎉 Merged PR [#120](https://github.com/MarcoIeni/release-plz/pull/120) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#51](https://github.com/EmbarkStudios/cargo-deny-action/pull/51) in [EmbarkStudios/cargo-deny-action](https://github.com/EmbarkStudios/cargo-deny-action)
+3. 💪 Opened PR [#120](https://github.com/MarcoIeni/release-plz/pull/120) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. ❌ Closed PR [#119](https://github.com/MarcoIeni/release-plz/pull/119) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#119](https://github.com/MarcoIeni/release-plz/pull/119) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
