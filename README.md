@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308](https://github.com/rust-unofficial/patterns/issues/308) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 💪 Opened PR [#309](https://github.com/rust-unofficial/patterns/pull/309) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🗣 Commented on [#308](https://github.com/rust-unofficial/patterns/issues/308) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#696](https://github.com/killercup/cargo-edit/issues/696) in [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
-5. ❗️ Opened issue [#135](https://github.com/MarcoIeni/release-plz/issues/135) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#140](https://github.com/MarcoIeni/release-plz/pull/140) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. ❌ Reopened PR [#140](https://github.com/MarcoIeni/release-plz/pull/140) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. ❌ Closed PR [#140](https://github.com/MarcoIeni/release-plz/pull/140) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#308](https://github.com/rust-unofficial/patterns/pull/308) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#308](https://github.com/rust-unofficial/patterns/issues/308) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
