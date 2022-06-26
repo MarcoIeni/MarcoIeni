@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❗️ Opened issue [#95](https://github.com/orhun/git-cliff/issues/95) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-3. 🎉 Merged PR [#189](https://github.com/MarcoIeni/release-plz/pull/189) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#187](https://github.com/MarcoIeni/release-plz/pull/187) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. ❌ Closed PR [#181](https://github.com/MarcoIeni/release-plz/pull/181) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#193](https://github.com/MarcoIeni/release-plz/pull/193) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#3402](https://github.com/rust-lang/this-week-in-rust/pull/3402) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+3. ❗️ Opened issue [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. ❗️ Opened issue [#95](https://github.com/orhun/git-cliff/issues/95) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+5. 🎉 Merged PR [#189](https://github.com/MarcoIeni/release-plz/pull/189) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
