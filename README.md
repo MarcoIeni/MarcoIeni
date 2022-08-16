@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/rust-github/template/issues/35) in [rust-github/template](https://github.com/rust-github/template)
+1. 🎉 Merged PR [#235](https://github.com/MarcoIeni/release-plz/pull/235) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 2. 🗣 Commented on [#35](https://github.com/rust-github/template/issues/35) in [rust-github/template](https://github.com/rust-github/template)
-3. 🎉 Merged PR [#34](https://github.com/rust-github/template/pull/34) in [rust-github/template](https://github.com/rust-github/template)
-4. 🎉 Merged PR [#223](https://github.com/MarcoIeni/release-plz/pull/223) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#222](https://github.com/MarcoIeni/release-plz/pull/222) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#252](https://github.com/MarcoIeni/release-plz/pull/252) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#35](https://github.com/rust-github/template/issues/35) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#35](https://github.com/rust-github/template/issues/35) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
