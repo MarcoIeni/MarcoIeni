@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
-2. 🗣 Commented on [#37](https://github.com/rust-github/template/issues/37) in [rust-github/template](https://github.com/rust-github/template)
-3. 💪 Opened PR [#4061](https://github.com/prisma/prisma-examples/pull/4061) in [prisma/prisma-examples](https://github.com/prisma/prisma-examples)
-4. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-check/issues/67) in [obi1kenobi/cargo-semver-check](https://github.com/obi1kenobi/cargo-semver-check)
-5. 💪 Opened PR [#182](https://github.com/RustBeginners/awesome-rust-mentors/pull/182) in [RustBeginners/awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors)
+1. 🗣 Commented on [#280](https://github.com/MarcoIeni/release-plz/issues/280) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
+3. 🗣 Commented on [#37](https://github.com/rust-github/template/issues/37) in [rust-github/template](https://github.com/rust-github/template)
+4. 💪 Opened PR [#4061](https://github.com/prisma/prisma-examples/pull/4061) in [prisma/prisma-examples](https://github.com/prisma/prisma-examples)
+5. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-check/issues/67) in [obi1kenobi/cargo-semver-check](https://github.com/obi1kenobi/cargo-semver-check)
 <!--END_SECTION:activity-->
   
 </details>
