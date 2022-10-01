@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#100](https://github.com/LukeMathWalker/wiremock-rs/pull/100) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
-3. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
+2. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#100](https://github.com/LukeMathWalker/wiremock-rs/pull/100) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
 4. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
-5. 🗣 Commented on [#35](https://github.com/rust-github/template/issues/35) in [rust-github/template](https://github.com/rust-github/template)
+5. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
