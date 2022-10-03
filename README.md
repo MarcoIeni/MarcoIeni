@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#100](https://github.com/LukeMathWalker/wiremock-rs/pull/100) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
-4. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
-5. 🗣 Commented on [#36](https://github.com/rust-github/template/issues/36) in [rust-github/template](https://github.com/rust-github/template)
+1. 💪 Opened PR [#104](https://github.com/LukeMathWalker/wiremock-rs/pull/104) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+2. 💪 Opened PR [#103](https://github.com/LukeMathWalker/wiremock-rs/pull/103) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+3. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#100](https://github.com/LukeMathWalker/wiremock-rs/pull/100) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
 <!--END_SECTION:activity-->
   
 </details>
