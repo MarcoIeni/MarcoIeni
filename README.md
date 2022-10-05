@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#104](https://github.com/LukeMathWalker/wiremock-rs/pull/104) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
-4. 💪 Opened PR [#103](https://github.com/LukeMathWalker/wiremock-rs/pull/103) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
-5. 🗣 Commented on [#171](https://github.com/MarcoIeni/release-plz/issues/171) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#321](https://github.com/rust-unofficial/patterns/pull/321) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🎉 Merged PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#104](https://github.com/LukeMathWalker/wiremock-rs/pull/104) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+5. 💪 Opened PR [#103](https://github.com/LukeMathWalker/wiremock-rs/pull/103) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
 <!--END_SECTION:activity-->
   
 </details>
