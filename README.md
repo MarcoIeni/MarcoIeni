@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/lquerel/gcp-bigquery-client/issues/36) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
-2. 💪 Opened PR [#321](https://github.com/rust-unofficial/patterns/pull/321) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🎉 Merged PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#104](https://github.com/LukeMathWalker/wiremock-rs/pull/104) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+1. 💪 Opened PR [#37](https://github.com/lquerel/gcp-bigquery-client/pull/37) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
+2. ❗️ Opened issue [#36](https://github.com/lquerel/gcp-bigquery-client/issues/36) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
+3. 💪 Opened PR [#321](https://github.com/rust-unofficial/patterns/pull/321) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🎉 Merged PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#297](https://github.com/MarcoIeni/release-plz/pull/297) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
