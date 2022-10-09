@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/JanLikar/cargo-clone/issues/52) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 💪 Opened PR [#52](https://github.com/JanLikar/cargo-clone/pull/52) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-3. ❗️ Opened issue [#820](https://github.com/killercup/cargo-edit/issues/820) in [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
-4. 💪 Opened PR [#51](https://github.com/JanLikar/cargo-clone/pull/51) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-5. 💪 Opened PR [#50](https://github.com/JanLikar/cargo-clone/pull/50) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+1. ❗️ Closed issue [#696](https://github.com/killercup/cargo-edit/issues/696) in [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
+2. 🗣 Commented on [#696](https://github.com/killercup/cargo-edit/issues/696) in [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
+3. 🗣 Commented on [#52](https://github.com/JanLikar/cargo-clone/issues/52) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+4. 💪 Opened PR [#52](https://github.com/JanLikar/cargo-clone/pull/52) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+5. ❗️ Opened issue [#820](https://github.com/killercup/cargo-edit/issues/820) in [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
 <!--END_SECTION:activity-->
   
 </details>
