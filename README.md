@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/VSpaceCode/vscode-which-key/issues/71) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-2. 🗣 Commented on [#4061](https://github.com/prisma/prisma-examples/issues/4061) in [prisma/prisma-examples](https://github.com/prisma/prisma-examples)
+1. 🎉 Merged PR [#322](https://github.com/MarcoIeni/release-plz/pull/322) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#71](https://github.com/VSpaceCode/vscode-which-key/issues/71) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 3. 🗣 Commented on [#4061](https://github.com/prisma/prisma-examples/issues/4061) in [prisma/prisma-examples](https://github.com/prisma/prisma-examples)
-4. 🎉 Merged PR [#1](https://github.com/prisma/gcp-bigquery-client/pull/1) in [prisma/gcp-bigquery-client](https://github.com/prisma/gcp-bigquery-client)
-5. 💪 Opened PR [#1](https://github.com/prisma/gcp-bigquery-client/pull/1) in [prisma/gcp-bigquery-client](https://github.com/prisma/gcp-bigquery-client)
+4. 🗣 Commented on [#4061](https://github.com/prisma/prisma-examples/issues/4061) in [prisma/prisma-examples](https://github.com/prisma/prisma-examples)
+5. 🎉 Merged PR [#1](https://github.com/prisma/gcp-bigquery-client/pull/1) in [prisma/gcp-bigquery-client](https://github.com/prisma/gcp-bigquery-client)
 <!--END_SECTION:activity-->
   
 </details>
