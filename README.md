@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. ❗️ Opened issue [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#37](https://github.com/lquerel/gcp-bigquery-client/issues/37) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
-4. 💪 Opened PR [#8](https://github.com/TrueLayer/retry-policies/pull/8) in [TrueLayer/retry-policies](https://github.com/TrueLayer/retry-policies)
-5. 🗣 Commented on [#55](https://github.com/JanLikar/cargo-clone/issues/55) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+1. 🗣 Commented on [#37](https://github.com/lquerel/gcp-bigquery-client/issues/37) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
+2. 💪 Opened PR [#47](https://github.com/lquerel/gcp-bigquery-client/pull/47) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
+3. 🗣 Commented on [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. ❗️ Opened issue [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#37](https://github.com/lquerel/gcp-bigquery-client/issues/37) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
 <!--END_SECTION:activity-->
   
 </details>
