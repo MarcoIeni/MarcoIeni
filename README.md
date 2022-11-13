@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/lquerel/gcp-bigquery-client/issues/37) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
-2. 💪 Opened PR [#47](https://github.com/lquerel/gcp-bigquery-client/pull/47) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
-3. 🗣 Commented on [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. ❗️ Opened issue [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#37](https://github.com/lquerel/gcp-bigquery-client/issues/37) in [lquerel/gcp-bigquery-client](https://github.com/lquerel/gcp-bigquery-client)
+1. 🎉 Merged PR [#341](https://github.com/MarcoIeni/release-plz/pull/341) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#340](https://github.com/MarcoIeni/release-plz/pull/340) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#340](https://github.com/MarcoIeni/release-plz/pull/340) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. ❗️ Closed issue [#279](https://github.com/MarcoIeni/release-plz/issues/279) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#279](https://github.com/MarcoIeni/release-plz/issues/279) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
