@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1239](https://github.com/dandavison/delta/issues/1239) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 💪 Opened PR [#345](https://github.com/MarcoIeni/release-plz/pull/345) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#1239](https://github.com/dandavison/delta/pull/1239) in [dandavison/delta](https://github.com/dandavison/delta)
-4. 💪 Opened PR [#1238](https://github.com/dandavison/delta/pull/1238) in [dandavison/delta](https://github.com/dandavison/delta)
-5. 🗣 Commented on [#287](https://github.com/VSpaceCode/VSpaceCode/issues/287) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🎉 Merged PR [#346](https://github.com/MarcoIeni/release-plz/pull/346) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#346](https://github.com/MarcoIeni/release-plz/pull/346) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#38](https://github.com/rust-github/template/pull/38) in [rust-github/template](https://github.com/rust-github/template)
+4. 💪 Opened PR [#38](https://github.com/rust-github/template/pull/38) in [rust-github/template](https://github.com/rust-github/template)
+5. 💪 Opened PR [#4619](https://github.com/starship/starship/pull/4619) in [starship/starship](https://github.com/starship/starship)
 <!--END_SECTION:activity-->
   
 </details>
