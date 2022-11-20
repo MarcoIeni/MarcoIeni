@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/VSpaceCode/VSpaceCode/issues/290) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#349](https://github.com/MarcoIeni/release-plz/issues/349) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❗️ Closed issue [#330](https://github.com/MarcoIeni/release-plz/issues/330) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#349](https://github.com/MarcoIeni/release-plz/pull/349) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#348](https://github.com/MarcoIeni/release-plz/pull/348) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. ❗️ Opened issue [#295](https://github.com/VSpaceCode/VSpaceCode/issues/295) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 💪 Opened PR [#294](https://github.com/VSpaceCode/VSpaceCode/pull/294) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#291](https://github.com/VSpaceCode/VSpaceCode/issues/291) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 💪 Opened PR [#293](https://github.com/VSpaceCode/VSpaceCode/pull/293) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#289](https://github.com/VSpaceCode/VSpaceCode/issues/289) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
