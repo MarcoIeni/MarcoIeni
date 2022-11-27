@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/JanLikar/cargo-clone/pull/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 💪 Opened PR [#1](https://github.com/knoldus/pubsub-grafana-dashboard/pull/1) in [knoldus/pubsub-grafana-dashboard](https://github.com/knoldus/pubsub-grafana-dashboard)
-3. ❗️ Closed issue [#296](https://github.com/VSpaceCode/VSpaceCode/issues/296) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#296](https://github.com/VSpaceCode/VSpaceCode/issues/296) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#298](https://github.com/VSpaceCode/VSpaceCode/issues/298) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+1. 🗣 Commented on [#57](https://github.com/JanLikar/cargo-clone/issues/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+2. 🗣 Commented on [#1239](https://github.com/dandavison/delta/issues/1239) in [dandavison/delta](https://github.com/dandavison/delta)
+3. ❗️ Closed issue [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
+4. 🗣 Commented on [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
+5. 🎉 Merged PR [#39](https://github.com/rust-github/template/pull/39) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
