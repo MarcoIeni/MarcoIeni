@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/JanLikar/cargo-clone/issues/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 🗣 Commented on [#1239](https://github.com/dandavison/delta/issues/1239) in [dandavison/delta](https://github.com/dandavison/delta)
-3. ❗️ Closed issue [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
-4. 🗣 Commented on [#28](https://github.com/rust-github/template/issues/28) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#39](https://github.com/rust-github/template/pull/39) in [rust-github/template](https://github.com/rust-github/template)
+1. 🎉 Merged PR [#362](https://github.com/MarcoIeni/release-plz/pull/362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#362](https://github.com/MarcoIeni/release-plz/pull/362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#58](https://github.com/JanLikar/cargo-clone/pull/58) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+4. ❌ Closed PR [#57](https://github.com/JanLikar/cargo-clone/pull/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+5. 🗣 Commented on [#57](https://github.com/JanLikar/cargo-clone/issues/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
 <!--END_SECTION:activity-->
   
 </details>
