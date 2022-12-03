@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#362](https://github.com/MarcoIeni/release-plz/pull/362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#362](https://github.com/MarcoIeni/release-plz/pull/362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#58](https://github.com/JanLikar/cargo-clone/pull/58) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-4. ❌ Closed PR [#57](https://github.com/JanLikar/cargo-clone/pull/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-5. 🗣 Commented on [#57](https://github.com/JanLikar/cargo-clone/issues/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+1. 🗣 Commented on [#1248](https://github.com/dandavison/delta/issues/1248) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 🎉 Merged PR [#362](https://github.com/MarcoIeni/release-plz/pull/362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#362](https://github.com/MarcoIeni/release-plz/pull/362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#58](https://github.com/JanLikar/cargo-clone/pull/58) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+5. ❌ Closed PR [#57](https://github.com/JanLikar/cargo-clone/pull/57) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
 <!--END_SECTION:activity-->
   
 </details>
