@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/JanLikar/cargo-clone/pull/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 🗣 Commented on [#326](https://github.com/rust-unofficial/patterns/issues/326) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#59](https://github.com/JanLikar/cargo-clone/pull/59) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-4. ❗️ Opened issue [#532](https://github.com/time-rs/time/issues/532) in [time-rs/time](https://github.com/time-rs/time)
-5. 🗣 Commented on [#1248](https://github.com/dandavison/delta/issues/1248) in [dandavison/delta](https://github.com/dandavison/delta)
+1. 🗣 Commented on [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#5101](https://github.com/helix-editor/helix/pull/5101) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. 🗣 Commented on [#62](https://github.com/JanLikar/cargo-clone/issues/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+5. 💪 Opened PR [#62](https://github.com/JanLikar/cargo-clone/pull/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
 <!--END_SECTION:activity-->
   
 </details>
