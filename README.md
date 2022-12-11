@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#62](https://github.com/JanLikar/cargo-clone/issues/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
 2. 🗣 Commented on [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#5101](https://github.com/helix-editor/helix/pull/5101) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 🗣 Commented on [#62](https://github.com/JanLikar/cargo-clone/issues/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-5. 💪 Opened PR [#62](https://github.com/JanLikar/cargo-clone/pull/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+3. 🗣 Commented on [#190](https://github.com/MarcoIeni/release-plz/issues/190) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#5101](https://github.com/helix-editor/helix/pull/5101) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#62](https://github.com/JanLikar/cargo-clone/issues/62) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
 <!--END_SECTION:activity-->
   
 </details>
