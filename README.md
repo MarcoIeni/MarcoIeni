@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/MarcoIeni/rust-api-workshop/issues/2) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
-2. 💪 Opened PR [#381](https://github.com/MarcoIeni/release-plz/pull/381) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#334](https://github.com/rust-unofficial/patterns/pull/334) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 💪 Opened PR [#333](https://github.com/rust-unofficial/patterns/pull/333) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-5. 💪 Opened PR [#332](https://github.com/rust-unofficial/patterns/pull/332) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 🗣 Commented on [#300](https://github.com/VSpaceCode/VSpaceCode/issues/300) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. ❗️ Opened issue [#2](https://github.com/MarcoIeni/rust-api-workshop/issues/2) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
+3. 💪 Opened PR [#381](https://github.com/MarcoIeni/release-plz/pull/381) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#334](https://github.com/rust-unofficial/patterns/pull/334) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 💪 Opened PR [#333](https://github.com/rust-unofficial/patterns/pull/333) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
