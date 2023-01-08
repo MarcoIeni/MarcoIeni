@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/VSpaceCode/VSpaceCode/issues/302) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🎉 Merged PR [#415](https://github.com/MarcoIeni/release-plz/pull/415) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#415](https://github.com/MarcoIeni/release-plz/pull/415) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗️ Closed issue [#15](https://github.com/MarcoIeni/release-plz-action/issues/15) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 🎉 Merged PR [#16](https://github.com/MarcoIeni/release-plz-action/pull/16) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🗣 Commented on [#1250](https://github.com/dandavison/delta/issues/1250) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 💪 Opened PR [#108](https://github.com/LukeMathWalker/wiremock-rs/pull/108) in [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs)
+3. 🗣 Commented on [#302](https://github.com/VSpaceCode/VSpaceCode/issues/302) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#302](https://github.com/VSpaceCode/VSpaceCode/issues/302) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🎉 Merged PR [#415](https://github.com/MarcoIeni/release-plz/pull/415) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
