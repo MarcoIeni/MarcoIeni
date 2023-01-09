@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#422](https://github.com/MarcoIeni/release-plz/pull/422) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#421](https://github.com/MarcoIeni/release-plz/pull/421) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#302](https://github.com/VSpaceCode/VSpaceCode/issues/302) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 💪 Opened PR [#291](https://github.com/XAMPPRocky/octocrab/pull/291) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
-5. 🗣 Commented on [#286](https://github.com/XAMPPRocky/octocrab/issues/286) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
+1. 🗣 Commented on [#302](https://github.com/VSpaceCode/VSpaceCode/issues/302) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. ❗️ Opened issue [#423](https://github.com/MarcoIeni/release-plz/issues/423) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#418](https://github.com/MarcoIeni/release-plz/issues/418) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#422](https://github.com/MarcoIeni/release-plz/pull/422) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#421](https://github.com/MarcoIeni/release-plz/pull/421) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
