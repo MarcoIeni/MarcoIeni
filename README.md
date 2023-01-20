@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-checks/issues/67) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-2. 💪 Opened PR [#470](https://github.com/MarcoIeni/release-plz/pull/470) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❌ Closed PR [#422](https://github.com/MarcoIeni/release-plz/pull/422) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#420](https://github.com/MarcoIeni/release-plz/issues/420) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. ❗️ Closed issue [#420](https://github.com/MarcoIeni/release-plz/issues/420) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-checks/issues/67) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+3. 💪 Opened PR [#470](https://github.com/MarcoIeni/release-plz/pull/470) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. ❌ Closed PR [#422](https://github.com/MarcoIeni/release-plz/pull/422) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#420](https://github.com/MarcoIeni/release-plz/issues/420) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
