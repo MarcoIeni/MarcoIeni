@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-2. ❗️ Opened issue [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-3. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-checks/issues/67) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-4. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-checks/issues/67) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-5. 🗣 Commented on [#67](https://github.com/obi1kenobi/cargo-semver-checks/issues/67) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+2. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+3. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+4. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+5. ❗️ Opened issue [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
 <!--END_SECTION:activity-->
   
 </details>
