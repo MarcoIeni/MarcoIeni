@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-2. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-3. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-4. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-5. ❗️ Opened issue [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+1. 💪 Opened PR [#473](https://github.com/MarcoIeni/release-plz/pull/473) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#340](https://github.com/rust-unofficial/patterns/issues/340) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#311](https://github.com/obi1kenobi/cargo-semver-checks/issues/311) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+4. 💪 Opened PR [#314](https://github.com/obi1kenobi/cargo-semver-checks/pull/314) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+5. 🗣 Commented on [#309](https://github.com/obi1kenobi/cargo-semver-checks/issues/309) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
 <!--END_SECTION:activity-->
   
 </details>
