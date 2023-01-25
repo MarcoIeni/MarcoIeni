@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#6](https://github.com/MarcoIeni/marco-crate-example/pull/6) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
-2. ❌ Closed PR [#6](https://github.com/MarcoIeni/marco-crate-example/pull/6) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
-3. ❌ Closed PR [#429](https://github.com/MarcoIeni/release-plz/pull/429) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#40](https://github.com/rust-github/template/pull/40) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#478](https://github.com/MarcoIeni/release-plz/pull/478) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#470](https://github.com/MarcoIeni/release-plz/pull/470) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#280](https://github.com/MarcoIeni/release-plz/issues/280) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#115](https://github.com/MarcoIeni/rust-workspace-example/pull/115) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. ❌ Closed PR [#114](https://github.com/MarcoIeni/rust-workspace-example/pull/114) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+5. ❌ Reopened PR [#470](https://github.com/MarcoIeni/release-plz/pull/470) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
