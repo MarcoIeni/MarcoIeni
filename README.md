@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/JanLikar/cargo-clone/issues/63) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 🗣 Commented on [#495](https://github.com/MarcoIeni/release-plz/issues/495) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#314](https://github.com/obi1kenobi/cargo-semver-checks/issues/314) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-4. 🗣 Commented on [#452](https://github.com/MarcoIeni/release-plz/issues/452) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#499](https://github.com/MarcoIeni/release-plz/pull/499) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#495](https://github.com/MarcoIeni/release-plz/pull/495) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#63](https://github.com/JanLikar/cargo-clone/issues/63) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+3. 🗣 Commented on [#495](https://github.com/MarcoIeni/release-plz/issues/495) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#314](https://github.com/obi1kenobi/cargo-semver-checks/issues/314) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+5. 🗣 Commented on [#452](https://github.com/MarcoIeni/release-plz/issues/452) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
