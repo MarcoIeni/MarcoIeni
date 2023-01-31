@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/JanLikar/cargo-clone/pull/68) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
-2. 🎉 Merged PR [#502](https://github.com/MarcoIeni/release-plz/pull/502) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#502](https://github.com/MarcoIeni/release-plz/pull/502) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗️ Opened issue [#501](https://github.com/MarcoIeni/release-plz/issues/501) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#451](https://github.com/MarcoIeni/release-plz/issues/451) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. ❗️ Closed issue [#5](https://github.com/d-e-s-o/cargo-http-registry/issues/5) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
+2. 🗣 Commented on [#5](https://github.com/d-e-s-o/cargo-http-registry/issues/5) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
+3. 💪 Opened PR [#68](https://github.com/JanLikar/cargo-clone/pull/68) in [JanLikar/cargo-clone](https://github.com/JanLikar/cargo-clone)
+4. 🎉 Merged PR [#502](https://github.com/MarcoIeni/release-plz/pull/502) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#502](https://github.com/MarcoIeni/release-plz/pull/502) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
