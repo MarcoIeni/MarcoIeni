@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#452](https://github.com/MarcoIeni/release-plz/issues/452) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❗️ Opened issue [#507](https://github.com/MarcoIeni/release-plz/issues/507) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#452](https://github.com/MarcoIeni/release-plz/issues/452) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗️ Closed issue [#5](https://github.com/d-e-s-o/cargo-http-registry/issues/5) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
-5. 🗣 Commented on [#5](https://github.com/d-e-s-o/cargo-http-registry/issues/5) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
+2. 💪 Opened PR [#514](https://github.com/MarcoIeni/release-plz/pull/514) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. ❗️ Opened issue [#18](https://github.com/MarcoIeni/release-plz-action/issues/18) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+4. 🎉 Merged PR [#513](https://github.com/MarcoIeni/release-plz/pull/513) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#12](https://github.com/MarcoIeni/marco-crate-example/pull/12) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
 <!--END_SECTION:activity-->
   
 </details>
