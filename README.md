@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17694](https://github.com/prisma/prisma/issues/17694) in [prisma/prisma](https://github.com/prisma/prisma)
-2. 💪 Opened PR [#17694](https://github.com/prisma/prisma/pull/17694) in [prisma/prisma](https://github.com/prisma/prisma)
-3. 🗣 Commented on [#19](https://github.com/MarcoIeni/release-plz-action/issues/19) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🗣 Commented on [#419](https://github.com/MarcoIeni/release-plz/issues/419) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#452](https://github.com/MarcoIeni/release-plz/issues/452) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#17694](https://github.com/prisma/prisma/issues/17694) in [prisma/prisma](https://github.com/prisma/prisma)
+3. 💪 Opened PR [#17694](https://github.com/prisma/prisma/pull/17694) in [prisma/prisma](https://github.com/prisma/prisma)
+4. 🗣 Commented on [#19](https://github.com/MarcoIeni/release-plz-action/issues/19) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+5. 🗣 Commented on [#419](https://github.com/MarcoIeni/release-plz/issues/419) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
