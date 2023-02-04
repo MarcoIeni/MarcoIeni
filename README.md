@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#515](https://github.com/MarcoIeni/release-plz/issues/515) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#17694](https://github.com/prisma/prisma/issues/17694) in [prisma/prisma](https://github.com/prisma/prisma)
-3. 🗣 Commented on [#17694](https://github.com/prisma/prisma/issues/17694) in [prisma/prisma](https://github.com/prisma/prisma)
-4. 💪 Opened PR [#17694](https://github.com/prisma/prisma/pull/17694) in [prisma/prisma](https://github.com/prisma/prisma)
-5. 🗣 Commented on [#19](https://github.com/MarcoIeni/release-plz-action/issues/19) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+2. ❌ Closed PR [#516](https://github.com/MarcoIeni/release-plz/pull/516) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#516](https://github.com/MarcoIeni/release-plz/issues/516) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#515](https://github.com/MarcoIeni/release-plz/issues/515) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#17694](https://github.com/prisma/prisma/issues/17694) in [prisma/prisma](https://github.com/prisma/prisma)
 <!--END_SECTION:activity-->
   
 </details>
