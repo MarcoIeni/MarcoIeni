@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#280](https://github.com/MarcoIeni/release-plz/issues/280) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🎉 Merged PR [#530](https://github.com/MarcoIeni/release-plz/pull/530) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#530](https://github.com/MarcoIeni/release-plz/pull/530) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#68](https://github.com/VSpaceCode/vspacecode.github.io/issues/68) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
-5. 🎉 Merged PR [#68](https://github.com/VSpaceCode/vspacecode.github.io/pull/68) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+1. 💪 Opened PR [#531](https://github.com/MarcoIeni/release-plz/pull/531) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#529](https://github.com/MarcoIeni/release-plz/pull/529) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#119](https://github.com/MarcoIeni/rust-workspace-example/pull/119) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. ❗️ Closed issue [#280](https://github.com/MarcoIeni/release-plz/issues/280) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#530](https://github.com/MarcoIeni/release-plz/pull/530) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
