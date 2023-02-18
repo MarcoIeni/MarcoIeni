@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#545](https://github.com/MarcoIeni/release-plz/pull/545) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❗️ Closed issue [#544](https://github.com/MarcoIeni/release-plz/issues/544) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❗️ Closed issue [#305](https://github.com/VSpaceCode/VSpaceCode/issues/305) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🗣 Commented on [#305](https://github.com/VSpaceCode/VSpaceCode/issues/305) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🗣 Commented on [#539](https://github.com/MarcoIeni/release-plz/issues/539) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#546](https://github.com/MarcoIeni/release-plz/pull/546) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#547](https://github.com/MarcoIeni/release-plz/pull/547) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#546](https://github.com/MarcoIeni/release-plz/pull/546) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. ❗️ Closed issue [#418](https://github.com/MarcoIeni/release-plz/issues/418) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#539](https://github.com/MarcoIeni/release-plz/pull/539) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
