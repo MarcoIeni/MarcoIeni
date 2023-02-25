@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#306](https://github.com/VSpaceCode/VSpaceCode/issues/306) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#308](https://github.com/VSpaceCode/VSpaceCode/issues/308) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 💪 Opened PR [#398](https://github.com/obi1kenobi/cargo-semver-checks/pull/398) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-4. ❗️ Opened issue [#396](https://github.com/obi1kenobi/cargo-semver-checks/issues/396) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-5. 🗣 Commented on [#314](https://github.com/obi1kenobi/cargo-semver-checks/issues/314) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+1. 🗣 Commented on [#373](https://github.com/MarcoIeni/release-plz/issues/373) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. ❗️ Closed issue [#306](https://github.com/VSpaceCode/VSpaceCode/issues/306) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+3. 🗣 Commented on [#308](https://github.com/VSpaceCode/VSpaceCode/issues/308) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 💪 Opened PR [#398](https://github.com/obi1kenobi/cargo-semver-checks/pull/398) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+5. ❗️ Opened issue [#396](https://github.com/obi1kenobi/cargo-semver-checks/issues/396) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
 <!--END_SECTION:activity-->
   
 </details>
