@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/MarcoIeni/release-plz-action/pull/25) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-2. 🎉 Merged PR [#23](https://github.com/MarcoIeni/release-plz-action/pull/23) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-3. ❗️ Opened issue [#24](https://github.com/MarcoIeni/release-plz-action/issues/24) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🗣 Commented on [#398](https://github.com/obi1kenobi/cargo-semver-checks/issues/398) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-5. 🗣 Commented on [#373](https://github.com/MarcoIeni/release-plz/issues/373) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#132](https://github.com/MarcoIeni/rust-workspace-example/pull/132) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+2. ❌ Closed PR [#131](https://github.com/MarcoIeni/rust-workspace-example/pull/131) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+3. 💪 Opened PR [#131](https://github.com/MarcoIeni/rust-workspace-example/pull/131) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. 🎉 Merged PR [#130](https://github.com/MarcoIeni/rust-workspace-example/pull/130) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+5. 💪 Opened PR [#25](https://github.com/MarcoIeni/release-plz-action/pull/25) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
 <!--END_SECTION:activity-->
   
 </details>
