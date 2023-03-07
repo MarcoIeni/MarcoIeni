@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#327](https://github.com/MarcoIeni/release-plz/issues/327) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#327](https://github.com/MarcoIeni/release-plz/issues/327) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❗️ Opened issue [#587](https://github.com/MarcoIeni/release-plz/issues/587) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗️ Opened issue [#586](https://github.com/MarcoIeni/release-plz/issues/586) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#585](https://github.com/MarcoIeni/release-plz/pull/585) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. ❗️ Opened issue [#590](https://github.com/MarcoIeni/release-plz/issues/590) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#589](https://github.com/MarcoIeni/release-plz/pull/589) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#3](https://github.com/MarcoIeni/rust-api-workshop/pull/3) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
+4. ❗️ Closed issue [#327](https://github.com/MarcoIeni/release-plz/issues/327) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#327](https://github.com/MarcoIeni/release-plz/issues/327) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
