@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MarcoIeni/rust-api-workshop/pull/4) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
-2. 🎉 Merged PR [#137](https://github.com/MarcoIeni/rust-workspace-example/pull/137) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. ❌ Closed PR [#136](https://github.com/MarcoIeni/rust-workspace-example/pull/136) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-4. 🎉 Merged PR [#1](https://github.com/MarcoIeni/swapi/pull/1) in [MarcoIeni/swapi](https://github.com/MarcoIeni/swapi)
-5. 💪 Opened PR [#1](https://github.com/MarcoIeni/swapi/pull/1) in [MarcoIeni/swapi](https://github.com/MarcoIeni/swapi)
+1. ❗️ Opened issue [#5](https://github.com/MarcoIeni/rust-api-workshop/issues/5) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
+2. 🎉 Merged PR [#4](https://github.com/MarcoIeni/rust-api-workshop/pull/4) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
+3. 🎉 Merged PR [#137](https://github.com/MarcoIeni/rust-workspace-example/pull/137) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. ❌ Closed PR [#136](https://github.com/MarcoIeni/rust-workspace-example/pull/136) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+5. 🎉 Merged PR [#1](https://github.com/MarcoIeni/swapi/pull/1) in [MarcoIeni/swapi](https://github.com/MarcoIeni/swapi)
 <!--END_SECTION:activity-->
   
 </details>
