@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#410](https://github.com/MarcoIeni/release-plz/issues/410) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#642](https://github.com/MarcoIeni/release-plz/issues/642) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#319](https://github.com/XAMPPRocky/octocrab/pull/319) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
-4. ❌ Closed PR [#472](https://github.com/MarcoIeni/release-plz/pull/472) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#472](https://github.com/MarcoIeni/release-plz/issues/472) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. ❗️ Opened issue [#643](https://github.com/MarcoIeni/release-plz/issues/643) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#410](https://github.com/MarcoIeni/release-plz/issues/410) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#642](https://github.com/MarcoIeni/release-plz/issues/642) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#319](https://github.com/XAMPPRocky/octocrab/pull/319) in [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
+5. ❌ Closed PR [#472](https://github.com/MarcoIeni/release-plz/pull/472) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
