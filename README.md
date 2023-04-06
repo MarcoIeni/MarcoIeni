@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/VSpaceCode/community-configs/pull/4) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
-2. 🗣 Commented on [#4](https://github.com/VSpaceCode/community-configs/issues/4) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
-3. ❌ Closed PR [#658](https://github.com/MarcoIeni/release-plz/pull/658) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❌ Closed PR [#662](https://github.com/MarcoIeni/release-plz/pull/662) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. ❌ Closed PR [#663](https://github.com/MarcoIeni/release-plz/pull/663) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#133](https://github.com/near/borsh-rs/issues/133) in [near/borsh-rs](https://github.com/near/borsh-rs)
+2. ❗️ Closed issue [#637](https://github.com/MarcoIeni/release-plz/issues/637) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#637](https://github.com/MarcoIeni/release-plz/issues/637) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#672](https://github.com/MarcoIeni/release-plz/pull/672) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. ❗️ Opened issue [#673](https://github.com/MarcoIeni/release-plz/issues/673) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
