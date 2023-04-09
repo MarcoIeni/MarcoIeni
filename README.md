@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#417](https://github.com/MarcoIeni/release-plz/issues/417) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#417](https://github.com/MarcoIeni/release-plz/issues/417) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❗️ Opened issue [#680](https://github.com/MarcoIeni/release-plz/issues/680) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗️ Opened issue [#679](https://github.com/MarcoIeni/release-plz/issues/679) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. ❗️ Opened issue [#678](https://github.com/MarcoIeni/release-plz/issues/678) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#398](https://github.com/obi1kenobi/cargo-semver-checks/issues/398) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+2. 🗣 Commented on [#642](https://github.com/MarcoIeni/release-plz/issues/642) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. ❗️ Closed issue [#417](https://github.com/MarcoIeni/release-plz/issues/417) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#417](https://github.com/MarcoIeni/release-plz/issues/417) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. ❗️ Opened issue [#680](https://github.com/MarcoIeni/release-plz/issues/680) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
