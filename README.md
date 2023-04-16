@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/rust-italia/rust-italia.github.io/issues/8) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
-2. 🗣 Commented on [#7](https://github.com/rust-italia/rust-italia.github.io/issues/7) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
-3. ❗️ Opened issue [#7](https://github.com/rust-italia/rust-italia.github.io/issues/7) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
-4. ❗️ Opened issue [#6](https://github.com/rust-italia/rust-italia.github.io/issues/6) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
-5. ❗️ Opened issue [#5](https://github.com/rust-italia/rust-italia.github.io/issues/5) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
+1. ❗️ Closed issue [#688](https://github.com/MarcoIeni/release-plz/issues/688) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#695](https://github.com/MarcoIeni/release-plz/pull/695) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. ❗️ Opened issue [#8](https://github.com/rust-italia/rust-italia.github.io/issues/8) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
+4. 🗣 Commented on [#7](https://github.com/rust-italia/rust-italia.github.io/issues/7) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
+5. ❗️ Opened issue [#7](https://github.com/rust-italia/rust-italia.github.io/issues/7) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
 <!--END_SECTION:activity-->
   
 </details>
