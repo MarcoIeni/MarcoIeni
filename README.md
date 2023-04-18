@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#180](https://github.com/near/near-cli-rs/pull/180) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
-2. 🎉 Merged PR [#150](https://github.com/MarcoIeni/rust-workspace-example/pull/150) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. 🎉 Merged PR [#56](https://github.com/MarcoIeni/release-plz-action/pull/56) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 💪 Opened PR [#56](https://github.com/MarcoIeni/release-plz-action/pull/56) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 🎉 Merged PR [#149](https://github.com/MarcoIeni/rust-workspace-example/pull/149) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 🗣 Commented on [#180](https://github.com/near/near-cli-rs/issues/180) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+2. 🗣 Commented on [#704](https://github.com/MarcoIeni/release-plz/issues/704) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#180](https://github.com/near/near-cli-rs/issues/180) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+4. 💪 Opened PR [#180](https://github.com/near/near-cli-rs/pull/180) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+5. 🎉 Merged PR [#150](https://github.com/MarcoIeni/rust-workspace-example/pull/150) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
