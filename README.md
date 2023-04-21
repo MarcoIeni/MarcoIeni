@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#710](https://github.com/MarcoIeni/release-plz/issues/710) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#712](https://github.com/MarcoIeni/release-plz/pull/712) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#4](https://github.com/rust-italia/rust-italia.github.io/issues/4) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
-4. 💪 Opened PR [#708](https://github.com/MarcoIeni/release-plz/pull/708) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#704](https://github.com/MarcoIeni/release-plz/issues/704) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#713](https://github.com/MarcoIeni/release-plz/pull/713) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#711](https://github.com/MarcoIeni/release-plz/issues/711) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#710](https://github.com/MarcoIeni/release-plz/issues/710) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#711](https://github.com/MarcoIeni/release-plz/issues/711) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#707](https://github.com/MarcoIeni/release-plz/issues/707) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
