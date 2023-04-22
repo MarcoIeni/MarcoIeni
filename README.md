@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#706](https://github.com/MarcoIeni/release-plz/issues/706) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#185](https://github.com/near/near-cli-rs/pull/185) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
-3. 🎉 Merged PR [#21](https://github.com/MarcoIeni/marco-crate-example/pull/21) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
-4. 💪 Opened PR [#21](https://github.com/MarcoIeni/marco-crate-example/pull/21) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
-5. 🎉 Merged PR [#20](https://github.com/MarcoIeni/marco-crate-example/pull/20) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
+1. 🗣 Commented on [#582](https://github.com/MarcoIeni/release-plz/issues/582) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. ❗️ Closed issue [#706](https://github.com/MarcoIeni/release-plz/issues/706) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#706](https://github.com/MarcoIeni/release-plz/issues/706) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. ❗️ Closed issue [#586](https://github.com/MarcoIeni/release-plz/issues/586) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#703](https://github.com/MarcoIeni/release-plz/pull/703) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
