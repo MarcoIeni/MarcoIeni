@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#341](https://github.com/rust-unofficial/patterns/issues/341) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🎉 Merged PR [#366](https://github.com/rust-unofficial/patterns/pull/366) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🎉 Merged PR [#736](https://github.com/MarcoIeni/release-plz/pull/736) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#736](https://github.com/MarcoIeni/release-plz/pull/736) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#733](https://github.com/MarcoIeni/release-plz/pull/733) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#730](https://github.com/MarcoIeni/release-plz/issues/730) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#737](https://github.com/MarcoIeni/release-plz/pull/737) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#737](https://github.com/MarcoIeni/release-plz/pull/737) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#398](https://github.com/obi1kenobi/cargo-semver-checks/issues/398) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+5. ❗️ Closed issue [#341](https://github.com/rust-unofficial/patterns/issues/341) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 <!--END_SECTION:activity-->
   
 </details>
