@@ -93,10 +93,10 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#162](https://github.com/orhun/git-cliff/issues/162) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-2. 🎉 Merged PR [#745](https://github.com/MarcoIeni/release-plz/pull/745) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❌ Closed PR [#744](https://github.com/MarcoIeni/release-plz/pull/744) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#746](https://github.com/MarcoIeni/release-plz/pull/746) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#745](https://github.com/MarcoIeni/release-plz/pull/745) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#162](https://github.com/orhun/git-cliff/issues/162) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+3. ❗️ Closed issue [#319](https://github.com/VSpaceCode/VSpaceCode/issues/319) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🗣 Commented on [#162](https://github.com/orhun/git-cliff/issues/162) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+5. 🎉 Merged PR [#745](https://github.com/MarcoIeni/release-plz/pull/745) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
