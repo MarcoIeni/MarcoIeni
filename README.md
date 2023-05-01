@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#718](https://github.com/MarcoIeni/release-plz/issues/718) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#317](https://github.com/VSpaceCode/VSpaceCode/issues/317) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🗣 Commented on [#162](https://github.com/orhun/git-cliff/issues/162) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+1. 🗣 Commented on [#165](https://github.com/orhun/git-cliff/issues/165) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+2. 🗣 Commented on [#718](https://github.com/MarcoIeni/release-plz/issues/718) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#317](https://github.com/VSpaceCode/VSpaceCode/issues/317) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 4. 🗣 Commented on [#162](https://github.com/orhun/git-cliff/issues/162) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-5. ❗️ Closed issue [#319](https://github.com/VSpaceCode/VSpaceCode/issues/319) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🗣 Commented on [#162](https://github.com/orhun/git-cliff/issues/162) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
 <!--END_SECTION:activity-->
   
 </details>
