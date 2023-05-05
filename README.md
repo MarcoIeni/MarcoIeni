@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#753](https://github.com/MarcoIeni/release-plz/pull/753) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#753](https://github.com/MarcoIeni/release-plz/pull/753) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🎉 Merged PR [#752](https://github.com/MarcoIeni/release-plz/pull/752) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#752](https://github.com/MarcoIeni/release-plz/pull/752) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#398](https://github.com/obi1kenobi/cargo-semver-checks/issues/398) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+1. 💪 Opened PR [#3955](https://github.com/prisma/prisma-engines/pull/3955) in [prisma/prisma-engines](https://github.com/prisma/prisma-engines)
+2. 🎉 Merged PR [#753](https://github.com/MarcoIeni/release-plz/pull/753) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#753](https://github.com/MarcoIeni/release-plz/pull/753) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#752](https://github.com/MarcoIeni/release-plz/pull/752) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#752](https://github.com/MarcoIeni/release-plz/pull/752) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
