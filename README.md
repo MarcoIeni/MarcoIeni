@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#764](https://github.com/MarcoIeni/release-plz/pull/764) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❗️ Closed issue [#645](https://github.com/MarcoIeni/release-plz/issues/645) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🎉 Merged PR [#766](https://github.com/MarcoIeni/release-plz/pull/766) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#5](https://github.com/d-e-s-o/cargo-http-registry/issues/5) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
-5. ❗️ Opened issue [#8](https://github.com/d-e-s-o/cargo-http-registry/issues/8) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
+1. 🎉 Merged PR [#70](https://github.com/VSpaceCode/vspacecode.github.io/pull/70) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+2. 🎉 Merged PR [#764](https://github.com/MarcoIeni/release-plz/pull/764) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. ❗️ Closed issue [#645](https://github.com/MarcoIeni/release-plz/issues/645) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#766](https://github.com/MarcoIeni/release-plz/pull/766) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#5](https://github.com/d-e-s-o/cargo-http-registry/issues/5) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
 <!--END_SECTION:activity-->
   
 </details>
