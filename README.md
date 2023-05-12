@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3955](https://github.com/prisma/prisma-engines/issues/3955) in [prisma/prisma-engines](https://github.com/prisma/prisma-engines)
-2. 🎉 Merged PR [#158](https://github.com/MarcoIeni/rust-workspace-example/pull/158) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-3. 🎉 Merged PR [#157](https://github.com/MarcoIeni/rust-workspace-example/pull/157) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-4. 🎉 Merged PR [#65](https://github.com/MarcoIeni/release-plz-action/pull/65) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 💪 Opened PR [#65](https://github.com/MarcoIeni/release-plz-action/pull/65) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🗣 Commented on [#767](https://github.com/MarcoIeni/release-plz/issues/767) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#768](https://github.com/MarcoIeni/release-plz/issues/768) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#768](https://github.com/MarcoIeni/release-plz/issues/768) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#768](https://github.com/MarcoIeni/release-plz/issues/768) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#3955](https://github.com/prisma/prisma-engines/issues/3955) in [prisma/prisma-engines](https://github.com/prisma/prisma-engines)
 <!--END_SECTION:activity-->
   
 </details>
