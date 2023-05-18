@@ -92,10 +92,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#8](https://github.com/d-e-s-o/cargo-http-registry/issues/8) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
-4. 💪 Opened PR [#9](https://github.com/d-e-s-o/cargo-http-registry/pull/9) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
+1. ❗️ Opened issue [#778](https://github.com/MarcoIeni/release-plz/issues/778) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#777](https://github.com/MarcoIeni/release-plz/issues/777) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 5. 🗣 Commented on [#8](https://github.com/d-e-s-o/cargo-http-registry/issues/8) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
 <!--END_SECTION:activity-->
   
