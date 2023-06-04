@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/MarcoIeni/glimpse/pull/2) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 🗣 Commented on [#803](https://github.com/MarcoIeni/release-plz/issues/803) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#143](https://github.com/near/borsh-rs/issues/143) in [near/borsh-rs](https://github.com/near/borsh-rs)
-4. 🚀 Published release [v0.5.10](https://github.com/v0.5.10) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 🎉 Merged PR [#68](https://github.com/MarcoIeni/release-plz-action/pull/68) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🎉 Merged PR [#3](https://github.com/MarcoIeni/glimpse/pull/3) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. ❌ Closed PR [#2](https://github.com/MarcoIeni/glimpse/pull/2) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 🗣 Commented on [#803](https://github.com/MarcoIeni/release-plz/issues/803) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#143](https://github.com/near/borsh-rs/issues/143) in [near/borsh-rs](https://github.com/near/borsh-rs)
+5. 🚀 Published release [v0.5.10](https://github.com/v0.5.10) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
 <!--END_SECTION:activity-->
   
 </details>
