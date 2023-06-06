@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/MarcoIeni/glimpse/pull/7) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 🎉 Merged PR [#3](https://github.com/MarcoIeni/glimpse/pull/3) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. ❌ Closed PR [#2](https://github.com/MarcoIeni/glimpse/pull/2) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🗣 Commented on [#803](https://github.com/MarcoIeni/release-plz/issues/803) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#143](https://github.com/near/borsh-rs/issues/143) in [near/borsh-rs](https://github.com/near/borsh-rs)
+1. 🗣 Commented on [#1205](https://github.com/dandavison/delta/issues/1205) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 💪 Opened PR [#7](https://github.com/MarcoIeni/glimpse/pull/7) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 🎉 Merged PR [#3](https://github.com/MarcoIeni/glimpse/pull/3) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. ❌ Closed PR [#2](https://github.com/MarcoIeni/glimpse/pull/2) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 🗣 Commented on [#803](https://github.com/MarcoIeni/release-plz/issues/803) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
