@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#817](https://github.com/MarcoIeni/release-plz/pull/817) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#818](https://github.com/MarcoIeni/release-plz/pull/818) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🚀 Published release [v0.5.11](https://github.com/v0.5.11) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🎉 Merged PR [#165](https://github.com/MarcoIeni/rust-workspace-example/pull/165) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-5. ❌ Closed PR [#746](https://github.com/MarcoIeni/release-plz/pull/746) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#143](https://github.com/near/borsh-rs/issues/143) in [near/borsh-rs](https://github.com/near/borsh-rs)
+2. 🔒 Closed issue [#811](https://github.com/MarcoIeni/release-plz/issues/811) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#818](https://github.com/MarcoIeni/release-plz/pull/818) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🚀 Published release [v0.5.12](https://github.com/v0.5.12) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+5. 🎉 Merged PR [#152](https://github.com/MarcoIeni/rust-workspace-example/pull/152) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
