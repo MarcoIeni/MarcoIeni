@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1502](https://github.com/rust-unofficial/awesome-rust/pull/1502) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-2. ❗ Opened issue [#10](https://github.com/MarcoIeni/glimpse/issues/10) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 🎉 Merged PR [#46](https://github.com/rust-github/template/pull/46) in [rust-github/template](https://github.com/rust-github/template)
-4. 🚀 Published release [v0.5.13](https://github.com/v0.5.13) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 🎉 Merged PR [#71](https://github.com/MarcoIeni/release-plz-action/pull/71) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. ❌ Closed PR [#7](https://github.com/MarcoIeni/glimpse/pull/7) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. 💪 Opened PR [#1502](https://github.com/rust-unofficial/awesome-rust/pull/1502) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+3. ❗ Opened issue [#10](https://github.com/MarcoIeni/glimpse/issues/10) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 🎉 Merged PR [#46](https://github.com/rust-github/template/pull/46) in [rust-github/template](https://github.com/rust-github/template)
+5. 🚀 Published release [v0.5.13](https://github.com/v0.5.13) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
 <!--END_SECTION:activity-->
   
 </details>
