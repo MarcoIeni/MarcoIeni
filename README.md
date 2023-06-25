@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#704](https://github.com/MarcoIeni/release-plz/issues/704) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#831](https://github.com/MarcoIeni/release-plz/issues/831) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#827](https://github.com/MarcoIeni/release-plz/pull/827) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. ❗ Opened issue [#7](https://github.com/Schrodinger-Hat/sh-sessions/issues/7) in [Schrodinger-Hat/sh-sessions](https://github.com/Schrodinger-Hat/sh-sessions)
+2. 🔒 Closed issue [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#704](https://github.com/MarcoIeni/release-plz/issues/704) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#831](https://github.com/MarcoIeni/release-plz/issues/831) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
