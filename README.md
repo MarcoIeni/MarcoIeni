@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#831](https://github.com/MarcoIeni/release-plz/issues/831) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#827](https://github.com/MarcoIeni/release-plz/pull/827) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❗ Opened issue [#398](https://github.com/axodotdev/oranda/issues/398) in [axodotdev/oranda](https://github.com/axodotdev/oranda)
-4. 💪 Opened PR [#20](https://github.com/MarcoIeni/glimpse/pull/20) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. 🗣 Commented on [#389](https://github.com/axodotdev/oranda/issues/389) in [axodotdev/oranda](https://github.com/axodotdev/oranda)
+1. 🔒 Closed issue [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#770](https://github.com/MarcoIeni/release-plz/issues/770) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#704](https://github.com/MarcoIeni/release-plz/issues/704) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#831](https://github.com/MarcoIeni/release-plz/issues/831) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#827](https://github.com/MarcoIeni/release-plz/pull/827) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
