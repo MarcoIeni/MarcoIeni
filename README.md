@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/MarcoIeni/glimpse/issues/40) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. ❗ Opened issue [#39](https://github.com/MarcoIeni/glimpse/issues/39) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 🎉 Merged PR [#31](https://github.com/MarcoIeni/glimpse/pull/31) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🎉 Merged PR [#38](https://github.com/MarcoIeni/glimpse/pull/38) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. ❌ Closed PR [#20](https://github.com/MarcoIeni/glimpse/pull/20) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 🗣 Commented on [#5](https://github.com/rust-italia/rust-italia.github.io/issues/5) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
+2. ❗ Opened issue [#40](https://github.com/MarcoIeni/glimpse/issues/40) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. ❗ Opened issue [#39](https://github.com/MarcoIeni/glimpse/issues/39) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 🎉 Merged PR [#31](https://github.com/MarcoIeni/glimpse/pull/31) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 🎉 Merged PR [#38](https://github.com/MarcoIeni/glimpse/pull/38) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
