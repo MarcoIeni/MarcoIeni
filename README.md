@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 🗣 Commented on [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 💪 Opened PR [#47](https://github.com/MarcoIeni/glimpse/pull/47) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 💪 Opened PR [#325](https://github.com/VSpaceCode/VSpaceCode/pull/325) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. ❗ Opened issue [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. ❗ Opened issue [#48](https://github.com/MarcoIeni/glimpse/issues/48) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. 🗣 Commented on [#41](https://github.com/MarcoIeni/glimpse/issues/41) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 🔒 Closed issue [#45](https://github.com/MarcoIeni/glimpse/issues/45) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 🗣 Commented on [#45](https://github.com/MarcoIeni/glimpse/issues/45) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 🗣 Commented on [#7833](https://github.com/VSCodeVim/Vim/issues/7833) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 <!--END_SECTION:activity-->
   
 </details>
