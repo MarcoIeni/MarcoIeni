@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/MarcoIeni/glimpse/pull/47) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 💪 Opened PR [#325](https://github.com/VSpaceCode/VSpaceCode/pull/325) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. ❗ Opened issue [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🗣 Commented on [#44](https://github.com/MarcoIeni/glimpse/issues/44) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. 🚀 Published release [v0.0.6](https://github.com/v0.0.6) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 🔒 Closed issue [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. 🗣 Commented on [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 💪 Opened PR [#47](https://github.com/MarcoIeni/glimpse/pull/47) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 💪 Opened PR [#325](https://github.com/VSpaceCode/VSpaceCode/pull/325) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. ❗ Opened issue [#46](https://github.com/MarcoIeni/glimpse/issues/46) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
