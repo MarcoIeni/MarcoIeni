@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marco 👋</h1>
 <h3 align="center">A passionate developer from Italy 🇮🇹</h3>
 
-[![Website](https://img.shields.io/website?label=marcoieni.com&style=for-the-badge&url=https%3A%2F%2Fmarcoieni.com)](https://marcoieni.com)
+[![Website](https://img.shields.io/website?label=ieni.dev&style=for-the-badge&url=https%3A%2F%2Fieni.dev)](https://ieni.dev)
 
 <!--
 **MarcoIeni/MarcoIeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="marcoieni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ieni.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MarcoIeni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -60,17 +60,46 @@ Here are some ideas to get you started:
 
 ---
 
+### 🧙 Author and maintainer
+
+- **[MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)** Release Rust crates from CI
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/release-plz?style=social">
+- **[MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)** Spacemacs' like key bindings for IntelliJ platform.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/intellimacs?style=social">
+- **[rust-github/template](https://github.com/rust-github/template)** Template for a generic rust project hosted on GitHub.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rust-github/template?style=social">
+- **[MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)** Write a Rust HTTP API with TDD.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/rust-api-workshop?style=social">
+- **[MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)** Spacemacs' like key bindings for Eclipse.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/spaceclipse?style=social">
+- **[MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)** Mnemonic key bindings for VSCode.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/glimpse?style=social">
+- **[doc-org/doc-org](https://github.com/doc-org/doc-org)** org-mode + latex + docker = pdf.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/doc-org/doc-org?style=social">
+
+---
+
+### 🧝 Maintainer
+
+- **[rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)** A catalog of Rust design patterns, anti-patterns and idioms.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rust-unofficial/patterns?style=social">
+- **[VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)** Spacemacs like keybindings for Visual Studio Code.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/VSpaceCode/VSpaceCode?style=social">
+
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2022 recap, 2023 goals](https://www.marcoieni.com/2023/01/2022-recap-2023-goals/)
-- [Release-plz: release Rust packages from CI](https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/)
-- [CKAD: 2021 tips, vimrc, bashrc and cheatsheet](https://www.marcoieni.com/2021/09/ckad-2021-tips-vimrc-bashrc-and-cheatsheet/)
-- [My 2020 Recap: Open Source, talks, meetups and more!](https://www.marcoieni.com/2021/01/my-2020-recap-open-source-talks-meetups-and-more/)
-- [Rust makes cross compilation child&#39;s play](https://www.marcoieni.com/2020/12/rust-makes-cross-compilation-childs-play/)
+- [2022 recap, 2023 goals](https://www.ieni.dev/2023/01/2022-recap-2023-goals/)
+- [Release-plz: release Rust packages from CI](https://www.ieni.dev/2022/06/release-plz-release-rust-packages-from-ci/)
+- [CKAD: 2021 tips, vimrc, bashrc and cheatsheet](https://www.ieni.dev/2021/09/ckad-2021-tips-vimrc-bashrc-and-cheatsheet/)
+- [My 2020 Recap: Open Source, talks, meetups and more!](https://www.ieni.dev/2021/01/my-2020-recap-open-source-talks-meetups-and-more/)
+- [Rust makes cross compilation child&#39;s play](https://www.ieni.dev/2020/12/rust-makes-cross-compilation-childs-play/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://marcoieni.com)
+➡️ [more blog posts...](https://ieni.dev)
 
 ---
 
@@ -109,9 +138,9 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://marcoieni.com
+[website]: https://ieni.dev
 [twitter]: https://twitter.com/MarcoIeni
 [linkedin]: https://linkedin.com/in/MarcoIeni
-[rss]: https://www.marcoieni.com/posts/index.xml
+[rss]: https://www.ieni.dev/posts/index.xml
 [devto]: https://dev.to/marcoieni
 [youtube]: https://youtube.com/MarcoIeni
