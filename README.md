@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#59](https://github.com/MarcoIeni/glimpse/issues/59) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 2. 🎉 Merged PR [#2](https://github.com/MarcoIeni/MarcoIeni/pull/2) in [MarcoIeni/MarcoIeni](https://github.com/MarcoIeni/MarcoIeni)
-3. 🗣 Commented on [#841](https://github.com/MarcoIeni/release-plz/issues/841) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#841](https://github.com/MarcoIeni/release-plz/issues/841#issuecomment-1631446676) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 4. 💪 Opened PR [#2](https://github.com/MarcoIeni/MarcoIeni/pull/2) in [MarcoIeni/MarcoIeni](https://github.com/MarcoIeni/MarcoIeni)
 5. 💪 Opened PR [#58](https://github.com/MarcoIeni/glimpse/pull/58) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
