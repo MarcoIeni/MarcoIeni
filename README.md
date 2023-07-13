@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#59](https://github.com/MarcoIeni/glimpse/issues/59) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 🎉 Merged PR [#2](https://github.com/MarcoIeni/MarcoIeni/pull/2) in [MarcoIeni/MarcoIeni](https://github.com/MarcoIeni/MarcoIeni)
-3. 🗣 Commented on [#841](https://github.com/MarcoIeni/release-plz/issues/841#issuecomment-1631446676) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#2](https://github.com/MarcoIeni/MarcoIeni/pull/2) in [MarcoIeni/MarcoIeni](https://github.com/MarcoIeni/MarcoIeni)
-5. 💪 Opened PR [#58](https://github.com/MarcoIeni/glimpse/pull/58) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. ❗ Opened issue [#63](https://github.com/MarcoIeni/glimpse/issues/63) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. 💪 Opened PR [#62](https://github.com/MarcoIeni/glimpse/pull/62) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. ❗ Opened issue [#61](https://github.com/MarcoIeni/glimpse/issues/61) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. ❗ Opened issue [#60](https://github.com/MarcoIeni/glimpse/issues/60) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. ❗ Opened issue [#59](https://github.com/MarcoIeni/glimpse/issues/59) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
