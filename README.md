@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating successful open-source projects with @orhunp - RustShip #1](https://www.youtube.com/watch?v=SPbwlt1UlXQ)
 - [🦀 std::process::exit is evil - a Rust bug fixing story](https://www.youtube.com/watch?v=zQC8T71Y8e4)
 - [Rust: How to create an awesome GitHub project! 🦀🦑](https://www.youtube.com/watch?v=meAz2RQMHvM)
 - [How to stop using the mouse: Vim, Spacemacs, VSpaceCode and i3wm](https://www.youtube.com/watch?v=0aQGy0sQiUU)
 - [Automatic Rust code coverage in VSCode 🦀📊 [follow up]](https://www.youtube.com/watch?v=JEgrkmEAHjA)
-- [Rust code coverage in VSCode 🦀📊](https://www.youtube.com/watch?v=6pDku63JNYQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
