@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#329](https://github.com/VSpaceCode/VSpaceCode/issues/329#issuecomment-1646472332) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 💪 Opened PR [#88](https://github.com/MarcoIeni/glimpse/pull/88) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 🗣 Commented on [#87](https://github.com/MarcoIeni/glimpse/pull/87#issuecomment-1645112719) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🚀 Published release [v0.4.0](https://github.com/MarcoIeni/glimpse/releases/tag/v0.4.0) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. 🎉 Merged PR [#87](https://github.com/MarcoIeni/glimpse/pull/87) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 💪 Opened PR [#199](https://github.com/RustBeginners/awesome-rust-mentors/pull/199) in [RustBeginners/awesome-rust-mentors](https://github.com/RustBeginners/awesome-rust-mentors)
+2. 🔒 Closed issue [#7](https://github.com/rust-italia/rust-italia.github.io/issues/7) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
+3. 🗣 Commented on [#7](https://github.com/rust-italia/rust-italia.github.io/issues/7#issuecomment-1646538579) in [rust-italia/rust-italia.github.io](https://github.com/rust-italia/rust-italia.github.io)
+4. 🗣 Commented on [#329](https://github.com/VSpaceCode/VSpaceCode/issues/329#issuecomment-1646472332) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 💪 Opened PR [#88](https://github.com/MarcoIeni/glimpse/pull/88) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
