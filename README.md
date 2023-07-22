@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/MarcoIeni/glimpse/pull/88) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 🗣 Commented on [#87](https://github.com/MarcoIeni/glimpse/pull/87#issuecomment-1645112719) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 🚀 Published release [v0.4.0](https://github.com/MarcoIeni/glimpse/releases/tag/v0.4.0) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🎉 Merged PR [#87](https://github.com/MarcoIeni/glimpse/pull/87) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. 🗣 Commented on [#863](https://github.com/MarcoIeni/release-plz/pull/863#issuecomment-1644999674) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#329](https://github.com/VSpaceCode/VSpaceCode/issues/329#issuecomment-1646472332) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 💪 Opened PR [#88](https://github.com/MarcoIeni/glimpse/pull/88) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 🗣 Commented on [#87](https://github.com/MarcoIeni/glimpse/pull/87#issuecomment-1645112719) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 🚀 Published release [v0.4.0](https://github.com/MarcoIeni/glimpse/releases/tag/v0.4.0) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 🎉 Merged PR [#87](https://github.com/MarcoIeni/glimpse/pull/87) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
