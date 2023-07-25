@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/MarcoIeni/rust-api-workshop/pull/7) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
-2. 🎉 Merged PR [#864](https://github.com/MarcoIeni/release-plz/pull/864) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🎉 Merged PR [#866](https://github.com/MarcoIeni/release-plz/pull/866) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🔒 Closed issue [#70](https://github.com/MarcoIeni/glimpse/issues/70) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. 🔒 Closed issue [#50](https://github.com/MarcoIeni/glimpse/issues/50) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 🎉 Merged PR [#94](https://github.com/MarcoIeni/glimpse/pull/94) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. 💪 Opened PR [#7](https://github.com/MarcoIeni/rust-api-workshop/pull/7) in [MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)
+3. 🎉 Merged PR [#864](https://github.com/MarcoIeni/release-plz/pull/864) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#866](https://github.com/MarcoIeni/release-plz/pull/866) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🔒 Closed issue [#70](https://github.com/MarcoIeni/glimpse/issues/70) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
