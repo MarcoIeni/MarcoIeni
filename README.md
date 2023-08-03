@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/MarcoIeni/glimpse/pull/116#issuecomment-1663957253) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. 🚀 Published release [v0.12.0](https://github.com/MarcoIeni/glimpse/releases/tag/v0.12.0) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 🎉 Merged PR [#116](https://github.com/MarcoIeni/glimpse/pull/116) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🎉 Merged PR [#117](https://github.com/MarcoIeni/glimpse/pull/117) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. ❌ Closed PR [#114](https://github.com/MarcoIeni/glimpse/pull/114) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 💪 Opened PR [#890](https://github.com/MarcoIeni/release-plz/pull/890) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#116](https://github.com/MarcoIeni/glimpse/pull/116#issuecomment-1663957253) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 🚀 Published release [v0.12.0](https://github.com/MarcoIeni/glimpse/releases/tag/v0.12.0) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 🎉 Merged PR [#116](https://github.com/MarcoIeni/glimpse/pull/116) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 🎉 Merged PR [#117](https://github.com/MarcoIeni/glimpse/pull/117) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
