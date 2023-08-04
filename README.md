@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Packaging Rust binaries for Linux distributions with @orhunp](https://www.youtube.com/watch?v=1j4zuPN_8kU)
+- [Packaging Rust binaries for Linux distributions with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=1j4zuPN_8kU)
 - [Creativity and Open Source with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=sTEMWoIMBMY)
 - [Creating successful open source projects - with @orhunp - RustShip #1](https://www.youtube.com/watch?v=_xABF_H8b3g)
 - [🦀 std::process::exit is evil - a Rust bug fixing story](https://www.youtube.com/watch?v=zQC8T71Y8e4)
