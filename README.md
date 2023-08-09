@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dogfooding: use your own tools #shorts](https://www.youtube.com/watch?v=EPlX1ITjGoE)
 - [Open Source sustainability and burnout. With @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=2sHD3CCPt40)
 - [Packaging Rust binaries for Linux distributions with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=1j4zuPN_8kU)
 - [Creativity and Open Source with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=sTEMWoIMBMY)
 - [Creating successful open source projects - with @orhunp - RustShip #1](https://www.youtube.com/watch?v=_xABF_H8b3g)
-- [🦀 std::process::exit is evil - a Rust bug fixing story](https://www.youtube.com/watch?v=zQC8T71Y8e4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
