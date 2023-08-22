@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#924](https://github.com/MarcoIeni/release-plz/pull/924) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#923](https://github.com/MarcoIeni/release-plz/issues/923#issuecomment-1685308204) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❗ Opened issue [#923](https://github.com/MarcoIeni/release-plz/issues/923) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗ Opened issue [#51](https://github.com/taiki-e/upload-rust-binary-action/issues/51) in [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action)
-5. 💪 Opened PR [#922](https://github.com/MarcoIeni/release-plz/pull/922) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#922](https://github.com/MarcoIeni/release-plz/pull/922) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🔒 Closed issue [#549](https://github.com/MarcoIeni/release-plz/issues/549) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🔒 Closed issue [#918](https://github.com/MarcoIeni/release-plz/issues/918) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#924](https://github.com/MarcoIeni/release-plz/pull/924) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#4636](https://github.com/rust-lang/this-week-in-rust/pull/4636#issuecomment-1686871762) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
 <!--END_SECTION:activity-->
   
 </details>
