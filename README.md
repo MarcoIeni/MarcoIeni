@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Trustfall and cargo-semver-checks - Predrag Gruevski - RustShip #2](https://www.youtube.com/watch?v=bh6BaJhIrFM)
+- [Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip #2](https://www.youtube.com/watch?v=bh6BaJhIrFM)
 - [Dogfooding: use your own tools #shorts](https://www.youtube.com/watch?v=EPlX1ITjGoE)
 - [Open Source sustainability and burnout. With @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=2sHD3CCPt40)
 - [Packaging Rust binaries for Linux distributions with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=1j4zuPN_8kU)
