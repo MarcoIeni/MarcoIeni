@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Trustfall Query Engine with Predrag Gruevski](https://www.youtube.com/watch?v=dMIgeuQ9Yvk)
 - [Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip #2](https://www.youtube.com/watch?v=bh6BaJhIrFM)
 - [Dogfooding: use your own tools #shorts](https://www.youtube.com/watch?v=EPlX1ITjGoE)
 - [Open Source sustainability and burnout. With @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=2sHD3CCPt40)
 - [Packaging Rust binaries for Linux distributions with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=1j4zuPN_8kU)
-- [Creativity and Open Source with @orhunp - 🦀 RustShip](https://www.youtube.com/watch?v=sTEMWoIMBMY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
