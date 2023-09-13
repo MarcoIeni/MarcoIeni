@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Atuin - Shell history sync, search and backup - Ellie Huxtable](https://www.youtube.com/watch?v=nbZkjD64E5M)
 - [Maintaining an healthy open source Project - with Predrag Gruevski](https://www.youtube.com/watch?v=VgotXUsVaUU)
 - [Why choose #rustlang beyond performance](https://www.youtube.com/watch?v=SpBN7ASPiIc)
 - [Cargo-semver-checks with Predrag Gruevski](https://www.youtube.com/watch?v=0EAdtxIzGQE)
 - [Trustfall Query Engine with Predrag Gruevski](https://www.youtube.com/watch?v=dMIgeuQ9Yvk)
-- [Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip #2](https://www.youtube.com/watch?v=bh6BaJhIrFM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
