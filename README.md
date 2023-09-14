@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎙️ Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip](https://www.marcoieni.com/2023/09/%EF%B8%8F-trustfall-and-cargo-semver-checks-with-predrag-gruevski-rustship/)
 - [RustShip: a new Rust podcast](https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/)
 - [2022 recap, 2023 goals](https://www.marcoieni.com/2023/01/2022-recap-2023-goals/)
 - [Release-plz: release Rust packages from CI](https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/)
 - [CKAD: 2021 tips, vimrc, bashrc and cheatsheet](https://www.marcoieni.com/2021/09/ckad-2021-tips-vimrc-bashrc-and-cheatsheet/)
-- [My 2020 Recap: Open Source, talks, meetups and more!](https://www.marcoieni.com/2021/01/my-2020-recap-open-source-talks-meetups-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ieni.dev)
