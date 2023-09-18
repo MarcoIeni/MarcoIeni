@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#972](https://github.com/MarcoIeni/release-plz/pull/972) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🎉 Merged PR [#974](https://github.com/MarcoIeni/release-plz/pull/974) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 💪 Opened PR [#974](https://github.com/MarcoIeni/release-plz/pull/974) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#973](https://github.com/MarcoIeni/release-plz/pull/973) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#973](https://github.com/MarcoIeni/release-plz/pull/973) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🚀 Published release [v0.5.22](https://github.com/MarcoIeni/release-plz-action/releases/tag/v0.5.22) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+2. 🎉 Merged PR [#972](https://github.com/MarcoIeni/release-plz/pull/972) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#974](https://github.com/MarcoIeni/release-plz/pull/974) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#974](https://github.com/MarcoIeni/release-plz/pull/974) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#973](https://github.com/MarcoIeni/release-plz/pull/973) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
