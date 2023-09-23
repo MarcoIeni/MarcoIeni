@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#332](https://github.com/VSpaceCode/VSpaceCode/pull/332#issuecomment-1728841808) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#676](https://github.com/MarcoIeni/release-plz/issues/676#issuecomment-1728415305) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🚀 Published release [v0.5.22](https://github.com/MarcoIeni/release-plz-action/releases/tag/v0.5.22) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🎉 Merged PR [#972](https://github.com/MarcoIeni/release-plz/pull/972) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#974](https://github.com/MarcoIeni/release-plz/pull/974) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#970](https://github.com/MarcoIeni/release-plz/issues/970#issuecomment-1732392149) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#153](https://github.com/MarcoIeni/glimpse/pull/153) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. 🗣 Commented on [#333](https://github.com/VSpaceCode/VSpaceCode/pull/333#issuecomment-1732371713) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+4. 🎉 Merged PR [#333](https://github.com/VSpaceCode/VSpaceCode/pull/333) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🎉 Merged PR [#985](https://github.com/MarcoIeni/release-plz/pull/985) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
