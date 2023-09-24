@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/MarcoIeni/release-plz/pull/986) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#155](https://github.com/MarcoIeni/glimpse/pull/155) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. 💪 Opened PR [#154](https://github.com/MarcoIeni/glimpse/pull/154) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. 🎉 Merged PR [#153](https://github.com/MarcoIeni/glimpse/pull/153) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. 🗣 Commented on [#970](https://github.com/MarcoIeni/release-plz/issues/970#issuecomment-1732392149) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🚀 Published release [v0.1.13](https://github.com/MarcoIeni/marco-crate-example/releases/tag/v0.1.13) in [MarcoIeni/marco-crate-example](https://github.com/MarcoIeni/marco-crate-example)
+2. 🗣 Commented on [#987](https://github.com/MarcoIeni/release-plz/pull/987#issuecomment-1732541454) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#986](https://github.com/MarcoIeni/release-plz/pull/986) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#155](https://github.com/MarcoIeni/glimpse/pull/155) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 💪 Opened PR [#154](https://github.com/MarcoIeni/glimpse/pull/154) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
