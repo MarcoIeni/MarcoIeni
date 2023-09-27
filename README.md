@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ Atuin - Shell history sync, search and backup - Ellie Huxtable - RustShip 4](https://www.marcoieni.com/2023/09/%EF%B8%8F-atuin-shell-history-sync-search-and-backup-ellie-huxtable-rustship-4/)
+- [🎙️ Atuin - Shell history sync, search and backup - Ellie Huxtable - RustShip 3](https://www.marcoieni.com/2023/09/%EF%B8%8F-atuin-shell-history-sync-search-and-backup-ellie-huxtable-rustship-3/)
 - [🎙️ Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip](https://www.marcoieni.com/2023/09/%EF%B8%8F-trustfall-and-cargo-semver-checks-with-predrag-gruevski-rustship/)
 - [RustShip: a new Rust podcast](https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/)
 - [2022 recap, 2023 goals](https://www.marcoieni.com/2023/01/2022-recap-2023-goals/)
