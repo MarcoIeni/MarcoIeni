@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why #rustlang for Command Line Interfaces?](https://www.youtube.com/watch?v=H3Qw_-eh1a0)
 - [Graphite - Raster and Vector Graphics in Rust - Keavon Chambers, Dennis Kobert, @GraphiteEditor](https://www.youtube.com/watch?v=21jMY1Dt4vE)
 - [Atuin: Shell history sync, search and backup. with Ellie Huxtable](https://www.youtube.com/watch?v=-Vshi_wVlys)
 - [Atuin - Shell history sync, search and backup - Ellie Huxtable](https://www.youtube.com/watch?v=nbZkjD64E5M)
 - [Maintaining an healthy open source Project - with Predrag Gruevski](https://www.youtube.com/watch?v=VgotXUsVaUU)
-- [Why choose #rustlang beyond performance](https://www.youtube.com/watch?v=SpBN7ASPiIc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
