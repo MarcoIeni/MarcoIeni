@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/orhun/daktilo/issues/3#issuecomment-1747662181) in [orhun/daktilo](https://github.com/orhun/daktilo)
-2. 🗣 Commented on [#1018](https://github.com/MarcoIeni/release-plz/issues/1018#issuecomment-1747586419) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🔒 Closed issue [#999](https://github.com/MarcoIeni/release-plz/issues/999) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#999](https://github.com/MarcoIeni/release-plz/issues/999#issuecomment-1745528732) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#85](https://github.com/MarcoIeni/release-plz-action/pull/85#issuecomment-1745527214) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. ❗ Opened issue [#1020](https://github.com/MarcoIeni/release-plz/issues/1020) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#3](https://github.com/orhun/daktilo/issues/3#issuecomment-1747662181) in [orhun/daktilo](https://github.com/orhun/daktilo)
+3. 🗣 Commented on [#1018](https://github.com/MarcoIeni/release-plz/issues/1018#issuecomment-1747586419) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🔒 Closed issue [#999](https://github.com/MarcoIeni/release-plz/issues/999) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#999](https://github.com/MarcoIeni/release-plz/issues/999#issuecomment-1745528732) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
