@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/MarcoIeni/release-plz-action/issues/89#issuecomment-1760928759) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-2. 🗣 Commented on [#89](https://github.com/MarcoIeni/release-plz-action/issues/89#issuecomment-1755976208) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-3. 🗣 Commented on [#88](https://github.com/MarcoIeni/release-plz-action/issues/88#issuecomment-1755960975) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🎉 Merged PR [#1035](https://github.com/MarcoIeni/release-plz/pull/1035) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#1035](https://github.com/MarcoIeni/release-plz/pull/1035#issuecomment-1755954488) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#89](https://github.com/MarcoIeni/release-plz-action/issues/89#issuecomment-1763308696) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+2. 💪 Opened PR [#379](https://github.com/ipvm-wg/homestar/pull/379) in [ipvm-wg/homestar](https://github.com/ipvm-wg/homestar)
+3. 🔒 Closed issue [#89](https://github.com/MarcoIeni/release-plz-action/issues/89) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+4. 🎉 Merged PR [#1036](https://github.com/MarcoIeni/release-plz/pull/1036) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#1036](https://github.com/MarcoIeni/release-plz/pull/1036) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
