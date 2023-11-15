@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rust in Art with Lisa Passing - RustShip #6](https://www.youtube.com/watch?v=R9452H5DQ2s)
+- [lychee: async, stream-based link checker - Matthias Endler](https://www.youtube.com/watch?v=A9gKgJuYV8E)
 - [Corrode.dev Rust Consulting with Matthias Endler](https://www.youtube.com/watch?v=U533f1AsZTQ)
 - [Corrode.dev and lychee with Matthias Endler - RustShip #5](https://www.youtube.com/watch?v=EjrSbTa6SiI)
 - [How @GraphiteEditor welcomes new contributors - Keavon Chambers and Dennis Kobert](https://www.youtube.com/watch?v=clq3Nbnxp4w)
-- [@GraphiteEditor - Raster and Vector Graphics in Rust with Keavon Chambers and Dennis Kobert](https://www.youtube.com/watch?v=ZKCg7gSSrL8)
-- [Graphite - Raster and Vector Graphics in Rust - Keavon Chambers, Dennis Kobert, @GraphiteEditor](https://www.youtube.com/watch?v=21jMY1Dt4vE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
