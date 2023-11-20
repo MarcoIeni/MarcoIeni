@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jkomyno/workshop-rust-wasm/pull/1) in [jkomyno/workshop-rust-wasm](https://github.com/jkomyno/workshop-rust-wasm)
-2. 🎉 Merged PR [#343](https://github.com/VSpaceCode/VSpaceCode/pull/343) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🎉 Merged PR [#1078](https://github.com/MarcoIeni/release-plz/pull/1078) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#923](https://github.com/MarcoIeni/release-plz/issues/923#issuecomment-1815798071) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🔒 Closed issue [#923](https://github.com/MarcoIeni/release-plz/issues/923) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#869](https://github.com/MarcoIeni/release-plz/issues/869#issuecomment-1817972859) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🔒 Closed issue [#869](https://github.com/MarcoIeni/release-plz/issues/869) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#1079](https://github.com/MarcoIeni/release-plz/pull/1079) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#1079](https://github.com/MarcoIeni/release-plz/pull/1079#issuecomment-1817971234) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#1](https://github.com/jkomyno/workshop-rust-wasm/pull/1) in [jkomyno/workshop-rust-wasm](https://github.com/jkomyno/workshop-rust-wasm)
 <!--END_SECTION:activity-->
   
 </details>
