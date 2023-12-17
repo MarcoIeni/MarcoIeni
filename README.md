@@ -121,11 +121,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1138](https://github.com/MarcoIeni/release-plz/pull/1138) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1139](https://github.com/MarcoIeni/release-plz/issues/1139#issuecomment-1858943657) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🔒 Closed issue [#1139](https://github.com/MarcoIeni/release-plz/issues/1139) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#1143](https://github.com/MarcoIeni/release-plz/pull/1143) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#590](https://github.com/MarcoIeni/release-plz/issues/590#issuecomment-1858943498) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. ❗ Opened issue [#109](https://github.com/RazrFalcon/memmap2-rs/issues/109) in [RazrFalcon/memmap2-rs](https://github.com/RazrFalcon/memmap2-rs)
+2. 💪 Opened PR [#1145](https://github.com/MarcoIeni/release-plz/pull/1145) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#1138](https://github.com/MarcoIeni/release-plz/pull/1138) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#1139](https://github.com/MarcoIeni/release-plz/issues/1139#issuecomment-1858943657) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🔒 Closed issue [#1139](https://github.com/MarcoIeni/release-plz/issues/1139) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
