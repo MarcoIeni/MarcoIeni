@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/MarcoIeni/release-plz-action/pull/105) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-2. 🚀 Published release [v0.1.0](https://github.com/MarcoIeni/git-config/releases/tag/v0.1.0) in [MarcoIeni/git-config](https://github.com/MarcoIeni/git-config)
-3. 🔒 Closed issue [#345](https://github.com/VSpaceCode/VSpaceCode/issues/345) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-4. 🎉 Merged PR [#347](https://github.com/VSpaceCode/VSpaceCode/pull/347) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-5. 🎉 Merged PR [#1158](https://github.com/MarcoIeni/release-plz/pull/1158) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🚀 Published release [v0.1.0](https://github.com/MarcoIeni/cargo-assist/releases/tag/v0.1.0) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+2. 💪 Opened PR [#105](https://github.com/MarcoIeni/release-plz-action/pull/105) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+3. 🚀 Published release [v0.1.0](https://github.com/MarcoIeni/git-config/releases/tag/v0.1.0) in [MarcoIeni/git-config](https://github.com/MarcoIeni/git-config)
+4. 🔒 Closed issue [#345](https://github.com/VSpaceCode/VSpaceCode/issues/345) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🎉 Merged PR [#347](https://github.com/VSpaceCode/VSpaceCode/pull/347) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
 <!--END_SECTION:activity-->
   
 </details>
