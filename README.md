@@ -78,6 +78,8 @@ Here are some ideas to get you started:
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/doc-org/doc-org?style=social">
 - **[MarcoIeni/git-config](https://github.com/MarcoIeni/git-config)** GitHub action to configure the git user from a GitHub token.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/git-config?style=social">
+- **[MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)** GitHub action to automatically format Rust code and fix clippy lints.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
 
 ---
 
