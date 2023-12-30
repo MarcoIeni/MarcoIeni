@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872368711) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872347287) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872341556) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872338555) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#1169](https://github.com/MarcoIeni/release-plz/pull/1169) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#1168](https://github.com/MarcoIeni/release-plz/pull/1168) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#82](https://github.com/VSpaceCode/vscode-which-key/pull/82#issuecomment-1872535245) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+3. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872368711) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872347287) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#1168](https://github.com/MarcoIeni/release-plz/pull/1168#issuecomment-1872341556) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
