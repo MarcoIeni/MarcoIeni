@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MarcoIeni/cargo-assist/pull/1) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
-2. 💪 Opened PR [#1](https://github.com/MarcoIeni/cargo-assist/pull/1) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
-3. 💪 Opened PR [#1172](https://github.com/MarcoIeni/release-plz/pull/1172) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#105](https://github.com/MarcoIeni/release-plz-action/pull/105) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 🎉 Merged PR [#1167](https://github.com/MarcoIeni/release-plz/pull/1167) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#4](https://github.com/MarcoIeni/cargo-assist/pull/4) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+2. 💪 Opened PR [#4](https://github.com/MarcoIeni/cargo-assist/pull/4) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+3. 🎉 Merged PR [#181](https://github.com/MarcoIeni/rust-workspace-example/pull/181) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. 🎉 Merged PR [#3](https://github.com/MarcoIeni/cargo-assist/pull/3) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+5. 💪 Opened PR [#3](https://github.com/MarcoIeni/cargo-assist/pull/3) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
 <!--END_SECTION:activity-->
   
 </details>
