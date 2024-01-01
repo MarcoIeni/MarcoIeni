@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1172](https://github.com/MarcoIeni/release-plz/pull/1172) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🔒 Closed issue [#81](https://github.com/VSpaceCode/vscode-which-key/issues/81) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-3. 🎉 Merged PR [#82](https://github.com/VSpaceCode/vscode-which-key/pull/82) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🎉 Merged PR [#4](https://github.com/MarcoIeni/cargo-assist/pull/4) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
-5. 💪 Opened PR [#4](https://github.com/MarcoIeni/cargo-assist/pull/4) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+1. 💪 Opened PR [#1177](https://github.com/MarcoIeni/release-plz/pull/1177) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#5](https://github.com/MarcoIeni/cargo-assist/pull/5) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+3. 💪 Opened PR [#5](https://github.com/MarcoIeni/cargo-assist/pull/5) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+4. 🎉 Merged PR [#1172](https://github.com/MarcoIeni/release-plz/pull/1172) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🔒 Closed issue [#81](https://github.com/VSpaceCode/vscode-which-key/issues/81) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
 <!--END_SECTION:activity-->
   
 </details>
