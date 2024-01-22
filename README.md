@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1220](https://github.com/MarcoIeni/release-plz/pull/1220) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#6](https://github.com/MarcoIeni/cargo-assist/issues/6#issuecomment-1902548511) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
-3. 🗣 Commented on [#1219](https://github.com/MarcoIeni/release-plz/issues/1219#issuecomment-1902256222) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1219](https://github.com/MarcoIeni/release-plz/issues/1219#issuecomment-1902256030) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🔒 Closed issue [#1219](https://github.com/MarcoIeni/release-plz/issues/1219) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#1221](https://github.com/MarcoIeni/release-plz/issues/1221#issuecomment-1903926320) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#677](https://github.com/MarcoIeni/release-plz/issues/677#issuecomment-1903923503) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 💪 Opened PR [#1220](https://github.com/MarcoIeni/release-plz/pull/1220) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#6](https://github.com/MarcoIeni/cargo-assist/issues/6#issuecomment-1902548511) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
+5. 🗣 Commented on [#1219](https://github.com/MarcoIeni/release-plz/issues/1219#issuecomment-1902256222) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
