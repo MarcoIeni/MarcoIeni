@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1225](https://github.com/MarcoIeni/release-plz/pull/1225) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🎉 Merged PR [#1220](https://github.com/MarcoIeni/release-plz/pull/1220) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🔒 Closed issue [#1200](https://github.com/MarcoIeni/release-plz/issues/1200) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#1201](https://github.com/MarcoIeni/release-plz/pull/1201) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#187](https://github.com/MarcoIeni/rust-workspace-example/pull/187) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 🗣 Commented on [#678](https://github.com/MarcoIeni/release-plz/issues/678#issuecomment-1906801412) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#1225](https://github.com/MarcoIeni/release-plz/pull/1225) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#1220](https://github.com/MarcoIeni/release-plz/pull/1220) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🔒 Closed issue [#1200](https://github.com/MarcoIeni/release-plz/issues/1200) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🎉 Merged PR [#1201](https://github.com/MarcoIeni/release-plz/pull/1201) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
