@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1350](https://github.com/lycheeverse/lychee/pull/1350#issuecomment-1913289991) in [lycheeverse/lychee](https://github.com/lycheeverse/lychee)
-2. 💪 Opened PR [#466](https://github.com/orhun/git-cliff/pull/466) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-3. 🗣 Commented on [#1350](https://github.com/lycheeverse/lychee/pull/1350#issuecomment-1912726636) in [lycheeverse/lychee](https://github.com/lycheeverse/lychee)
-4. 🗣 Commented on [#1233](https://github.com/MarcoIeni/release-plz/issues/1233#issuecomment-1912632625) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#83](https://github.com/MarcoIeni/release-plz-action/issues/83#issuecomment-1912525664) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🗣 Commented on [#1006](https://github.com/MarcoIeni/release-plz/issues/1006#issuecomment-1913365306) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🔒 Closed issue [#1006](https://github.com/MarcoIeni/release-plz/issues/1006) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🔒 Closed issue [#1185](https://github.com/MarcoIeni/release-plz/issues/1185) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#1198](https://github.com/MarcoIeni/release-plz/pull/1198) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#1350](https://github.com/lycheeverse/lychee/pull/1350#issuecomment-1913289991) in [lycheeverse/lychee](https://github.com/lycheeverse/lychee)
 <!--END_SECTION:activity-->
   
 </details>
