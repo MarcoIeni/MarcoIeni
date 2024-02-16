@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/VSpaceCode/VSpaceCode/issues/354#issuecomment-1947363849) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🗣 Commented on [#1272](https://github.com/MarcoIeni/release-plz/pull/1272#issuecomment-1946529003) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❌ Closed PR [#1272](https://github.com/MarcoIeni/release-plz/pull/1272) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#1275](https://github.com/MarcoIeni/release-plz/pull/1275) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#1275](https://github.com/MarcoIeni/release-plz/pull/1275) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#1276](https://github.com/MarcoIeni/release-plz/issues/1276#issuecomment-1949000901) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#391](https://github.com/rust-unofficial/patterns/pull/391) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#391](https://github.com/rust-unofficial/patterns/pull/391#issuecomment-1948984853) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 💪 Opened PR [#5190](https://github.com/rust-lang/this-week-in-rust/pull/5190) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+5. 🗣 Commented on [#14366](https://github.com/pola-rs/polars/issues/14366#issuecomment-1948961332) in [pola-rs/polars](https://github.com/pola-rs/polars)
 <!--END_SECTION:activity-->
   
 </details>
