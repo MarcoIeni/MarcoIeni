@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1308](https://github.com/MarcoIeni/release-plz/issues/1308#issuecomment-1965872674) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🔒 Closed issue [#1310](https://github.com/MarcoIeni/release-plz/issues/1310) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1310](https://github.com/MarcoIeni/release-plz/issues/1310#issuecomment-1965868609) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#58](https://github.com/MarcoIeni/intellimacs/issues/58#issuecomment-1963491955) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
-5. 🔒 Closed issue [#58](https://github.com/MarcoIeni/intellimacs/issues/58) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+1. ❗ Opened issue [#1312](https://github.com/MarcoIeni/release-plz/issues/1312) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. ❗ Opened issue [#163](https://github.com/frewsxcv/rust-crates-index/issues/163) in [frewsxcv/rust-crates-index](https://github.com/frewsxcv/rust-crates-index)
+3. 🗣 Commented on [#1305](https://github.com/MarcoIeni/release-plz/pull/1305#issuecomment-1967436573) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#1308](https://github.com/MarcoIeni/release-plz/issues/1308#issuecomment-1965872674) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🔒 Closed issue [#1310](https://github.com/MarcoIeni/release-plz/issues/1310) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
