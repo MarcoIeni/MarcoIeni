@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1289](https://github.com/MarcoIeni/release-plz/issues/1289#issuecomment-1979824921) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🎉 Merged PR [#1326](https://github.com/MarcoIeni/release-plz/pull/1326) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1289](https://github.com/MarcoIeni/release-plz/issues/1289#issuecomment-1977549249) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1311](https://github.com/MarcoIeni/release-plz/issues/1311#issuecomment-1977541803) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#1318](https://github.com/MarcoIeni/release-plz/issues/1318#issuecomment-1977539613) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#5249](https://github.com/rust-lang/this-week-in-rust/pull/5249) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+2. 🗣 Commented on [#14366](https://github.com/pola-rs/polars/issues/14366#issuecomment-1981989685) in [pola-rs/polars](https://github.com/pola-rs/polars)
+3. 💪 Opened PR [#1329](https://github.com/MarcoIeni/release-plz/pull/1329) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#116](https://github.com/MarcoIeni/release-plz-action/pull/116) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+5. 🎉 Merged PR [#1321](https://github.com/MarcoIeni/release-plz/pull/1321) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
