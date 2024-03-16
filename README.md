@@ -110,11 +110,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rust Nation with Ernest Kissiedu](https://www.youtube.com/watch?v=fg-qL6XxcYo)
 - [Rust Nation with Ernest Kissiedu - RustShip #7](https://www.youtube.com/watch?v=ESOg1yTYTC0)
 - [Rust in Art with Lisa Passing](https://www.youtube.com/watch?v=jAXAWr5WfZ4)
 - [Rust in Art with Lisa Passing - RustShip #6](https://www.youtube.com/watch?v=R9452H5DQ2s)
 - [lychee: async, stream-based link checker - Matthias Endler](https://www.youtube.com/watch?v=A9gKgJuYV8E)
-- [Corrode.dev Rust Consulting with Matthias Endler](https://www.youtube.com/watch?v=U533f1AsZTQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
