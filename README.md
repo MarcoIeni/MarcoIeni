@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1356](https://github.com/MarcoIeni/release-plz/issues/1356#issuecomment-2016522531) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1356](https://github.com/MarcoIeni/release-plz/issues/1356#issuecomment-2016506341) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1356](https://github.com/MarcoIeni/release-plz/issues/1356#issuecomment-2016450248) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1305](https://github.com/MarcoIeni/release-plz/pull/1305#issuecomment-2015260347) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#2](https://github.com/mainmatter/cargo-autoinherit/issues/2#issuecomment-2012016335) in [mainmatter/cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit)
+1. 🗣 Commented on [#1356](https://github.com/MarcoIeni/release-plz/issues/1356#issuecomment-2016571370) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🔒 Closed issue [#1356](https://github.com/MarcoIeni/release-plz/issues/1356) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#1181](https://github.com/MarcoIeni/release-plz/issues/1181#issuecomment-2016571288) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#1356](https://github.com/MarcoIeni/release-plz/issues/1356#issuecomment-2016522531) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#1356](https://github.com/MarcoIeni/release-plz/issues/1356#issuecomment-2016506341) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
