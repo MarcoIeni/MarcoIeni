@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1362](https://github.com/MarcoIeni/release-plz/pull/1362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1360](https://github.com/MarcoIeni/release-plz/issues/1360#issuecomment-2016818354) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🚀 Published release [v0.5.48](https://github.com/MarcoIeni/release-plz-action/releases/tag/v0.5.48) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🎉 Merged PR [#123](https://github.com/MarcoIeni/release-plz-action/pull/123) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 💪 Opened PR [#123](https://github.com/MarcoIeni/release-plz-action/pull/123) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🎉 Merged PR [#2](https://github.com/MarcoIeni/marco-test-crate/pull/2) in [MarcoIeni/marco-test-crate](https://github.com/MarcoIeni/marco-test-crate)
+2. 🎉 Merged PR [#1](https://github.com/MarcoIeni/marco-test-crate/pull/1) in [MarcoIeni/marco-test-crate](https://github.com/MarcoIeni/marco-test-crate)
+3. 🗣 Commented on [#1360](https://github.com/MarcoIeni/release-plz/issues/1360#issuecomment-2016863525) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#1362](https://github.com/MarcoIeni/release-plz/pull/1362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 💪 Opened PR [#1362](https://github.com/MarcoIeni/release-plz/pull/1362) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
