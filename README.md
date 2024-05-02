@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1424](https://github.com/MarcoIeni/release-plz/issues/1424#issuecomment-2088152591) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1424](https://github.com/MarcoIeni/release-plz/issues/1424#issuecomment-2086243845) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🚀 Published release [v0.5.54](https://github.com/MarcoIeni/release-plz-action/releases/tag/v0.5.54) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🎉 Merged PR [#136](https://github.com/MarcoIeni/release-plz-action/pull/136) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 💪 Opened PR [#136](https://github.com/MarcoIeni/release-plz-action/pull/136) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. ❗ Opened issue [#1433](https://github.com/MarcoIeni/release-plz/issues/1433) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#198](https://github.com/MarcoIeni/rust-workspace-example/pull/198) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+3. 🎉 Merged PR [#1432](https://github.com/MarcoIeni/release-plz/pull/1432) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#1432](https://github.com/MarcoIeni/release-plz/pull/1432) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#1424](https://github.com/MarcoIeni/release-plz/issues/1424#issuecomment-2088152591) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
