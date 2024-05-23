@@ -110,11 +110,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rust Nation with Ernest Kissiedu - RustShip #7](https://www.youtube.com/watch?v=MbjYyq-kLB0)
+- [Rust in Art - Lisa Passing](https://www.youtube.com/watch?v=pYA9ysepM6k)
+- [Corrode.dev and lychee - Matthias Endler](https://www.youtube.com/watch?v=wnxRrNJoclw)
+- [Graphite - Raster and Vector Graphics in Rust - Keavon Chambers, Dennis Kobert](https://www.youtube.com/watch?v=mrSPHusvWjA)
 - [Rust London community with Ernest Kissiedu](https://www.youtube.com/watch?v=cY2ibrx2Vb4)
-- [Rust Nation with Ernest Kissiedu](https://www.youtube.com/watch?v=fg-qL6XxcYo)
-- [Rust Nation with Ernest Kissiedu - RustShip #7](https://www.youtube.com/watch?v=ESOg1yTYTC0)
-- [Rust in Art with Lisa Passing](https://www.youtube.com/watch?v=jAXAWr5WfZ4)
-- [Rust in Art with Lisa Passing - RustShip #6](https://www.youtube.com/watch?v=R9452H5DQ2s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
