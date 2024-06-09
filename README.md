@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#677](https://github.com/orhun/git-cliff/issues/677#issuecomment-2155192316) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-2. 🗣 Commented on [#1487](https://github.com/MarcoIeni/release-plz/issues/1487#issuecomment-2154122528) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1510](https://github.com/MarcoIeni/release-plz/issues/1510#issuecomment-2154050382) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1487](https://github.com/MarcoIeni/release-plz/issues/1487#issuecomment-2153443450) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#209](https://github.com/MarcoIeni/rust-workspace-example/pull/209) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 🎉 Merged PR [#1501](https://github.com/MarcoIeni/release-plz/pull/1501) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#59](https://github.com/MarcoIeni/intellimacs/issues/59#issuecomment-2156349351) in [MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)
+3. 🎉 Merged PR [#1512](https://github.com/MarcoIeni/release-plz/pull/1512) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 💪 Opened PR [#1512](https://github.com/MarcoIeni/release-plz/pull/1512) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#1507](https://github.com/MarcoIeni/release-plz/pull/1507#issuecomment-2156324998) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
