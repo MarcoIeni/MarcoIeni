@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#677](https://github.com/orhun/git-cliff/issues/677#issuecomment-2209201766) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-2. 🗣 Commented on [#677](https://github.com/orhun/git-cliff/issues/677#issuecomment-2208973923) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-3. 🗣 Commented on [#92](https://github.com/VSpaceCode/vscode-which-key/issues/92#issuecomment-2199229231) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🎉 Merged PR [#1536](https://github.com/MarcoIeni/release-plz/pull/1536) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🔒 Closed issue [#1534](https://github.com/MarcoIeni/release-plz/issues/1534) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#1539](https://github.com/MarcoIeni/release-plz/issues/1539#issuecomment-2210953655) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#677](https://github.com/orhun/git-cliff/issues/677#issuecomment-2209201766) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+3. 🗣 Commented on [#677](https://github.com/orhun/git-cliff/issues/677#issuecomment-2208973923) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+4. 🗣 Commented on [#92](https://github.com/VSpaceCode/vscode-which-key/issues/92#issuecomment-2199229231) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
+5. 🎉 Merged PR [#1536](https://github.com/MarcoIeni/release-plz/pull/1536) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
