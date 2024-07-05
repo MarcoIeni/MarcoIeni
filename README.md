@@ -110,11 +110,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rust on AWS Lambda with Luciano Mammino - RustShip #8](https://www.youtube.com/watch?v=Y0KZpoV5ebM)
 - [Rust on AWS Lambda with Luciano Mammino - RustShip #8](https://www.youtube.com/watch?v=Qx0XIP4LnYU)
 - [Rust Nation with Ernest Kissiedu - RustShip #7](https://www.youtube.com/watch?v=MbjYyq-kLB0)
 - [Rust in Art - Lisa Passing](https://www.youtube.com/watch?v=pYA9ysepM6k)
 - [Corrode.dev and lychee - Matthias Endler](https://www.youtube.com/watch?v=wnxRrNJoclw)
-- [Graphite - Raster and Vector Graphics in Rust - Keavon Chambers, Dennis Kobert](https://www.youtube.com/watch?v=mrSPHusvWjA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
