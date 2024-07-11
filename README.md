@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎙️ Rust on AWS Lambda with Luciano Mammino - RustShip 8](https://www.marcoieni.com/2024/07/%EF%B8%8F-rust-on-aws-lambda-with-luciano-mammino-rustship-8/)
+- [🎙️ Rust Nation with Ernest Kissiedu - RustShip 7](https://www.marcoieni.com/2024/04/%EF%B8%8F-rust-nation-with-ernest-kissiedu-rustship-7/)
 - [🎙️ Rust in Art with Lisa Passing - RustShip 6](https://www.marcoieni.com/2024/03/%EF%B8%8F-rust-in-art-with-lisa-passing-rustship-6/)
 - [🎙️ Corrode.dev and lychee with Matthias Endler - RustShip 5](https://www.marcoieni.com/2023/11/%EF%B8%8F-corrode.dev-and-lychee-with-matthias-endler-rustship-5/)
 - [🎙️ Graphite - Raster and Vector Graphics in Rust - RustShip 4](https://www.marcoieni.com/2023/10/%EF%B8%8F-graphite-raster-and-vector-graphics-in-rust-rustship-4/)
-- [🎙️ Atuin - Shell history sync, search and backup - Ellie Huxtable - RustShip 3](https://www.marcoieni.com/2023/09/%EF%B8%8F-atuin-shell-history-sync-search-and-backup-ellie-huxtable-rustship-3/)
-- [🎙️ Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip](https://www.marcoieni.com/2023/09/%EF%B8%8F-trustfall-and-cargo-semver-checks-with-predrag-gruevski-rustship/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ieni.dev)
