@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MichaelCurrin/workflow-builder/pull/1) in [MichaelCurrin/workflow-builder](https://github.com/MichaelCurrin/workflow-builder)
-2. 💪 Opened PR [#15](https://github.com/MichaelCurrin/code-cookbook/pull/15) in [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook)
-3. 💪 Opened PR [#166](https://github.com/rust-lang/relnotes/pull/166) in [rust-lang/relnotes](https://github.com/rust-lang/relnotes)
-4. 💪 Opened PR [#48](https://github.com/dsvensson/cc1101/pull/48) in [dsvensson/cc1101](https://github.com/dsvensson/cc1101)
-5. 🗣 Commented on [#48](https://github.com/rust-lang/rustc-hash/pull/48#issuecomment-2233195359) in [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash)
+1. 💪 Opened PR [#4](https://github.com/patrick-fitzgerald/actix-web-docker-example/pull/4) in [patrick-fitzgerald/actix-web-docker-example](https://github.com/patrick-fitzgerald/actix-web-docker-example)
+2. 💪 Opened PR [#1](https://github.com/MichaelCurrin/rust-project-template/pull/1) in [MichaelCurrin/rust-project-template](https://github.com/MichaelCurrin/rust-project-template)
+3. 💪 Opened PR [#1](https://github.com/MichaelCurrin/workflow-builder/pull/1) in [MichaelCurrin/workflow-builder](https://github.com/MichaelCurrin/workflow-builder)
+4. 💪 Opened PR [#15](https://github.com/MichaelCurrin/code-cookbook/pull/15) in [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook)
+5. 💪 Opened PR [#166](https://github.com/rust-lang/relnotes/pull/166) in [rust-lang/relnotes](https://github.com/rust-lang/relnotes)
 <!--END_SECTION:activity-->
   
 </details>
