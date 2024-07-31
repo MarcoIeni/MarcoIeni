@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1514](https://github.com/rust-lang/team/pull/1514) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#452](https://github.com/rust-lang/simpleinfra/pull/452) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. ❗ Opened issue [#4](https://github.com/MarcoIeni/infratk/issues/4) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
-4. ❗ Opened issue [#3](https://github.com/MarcoIeni/infratk/issues/3) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
-5. ❗ Opened issue [#2](https://github.com/MarcoIeni/infratk/issues/2) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
+1. 💪 Opened PR [#461](https://github.com/rust-lang/simpleinfra/pull/461) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#460](https://github.com/rust-lang/simpleinfra/pull/460) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🗣 Commented on [#1514](https://github.com/rust-lang/team/pull/1514#issuecomment-2260363098) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#1514](https://github.com/rust-lang/team/pull/1514) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#452](https://github.com/rust-lang/simpleinfra/pull/452) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
