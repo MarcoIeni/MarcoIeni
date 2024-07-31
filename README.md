@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/MarcoIeni/infratk/issues/4) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
-2. ❗ Opened issue [#3](https://github.com/MarcoIeni/infratk/issues/3) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
-3. ❗ Opened issue [#2](https://github.com/MarcoIeni/infratk/issues/2) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
-4. ❗ Opened issue [#1](https://github.com/MarcoIeni/infratk/issues/1) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
-5. 🗣 Commented on [#452](https://github.com/rust-lang/simpleinfra/pull/452#issuecomment-2258598225) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#1514](https://github.com/rust-lang/team/pull/1514) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🎉 Merged PR [#452](https://github.com/rust-lang/simpleinfra/pull/452) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. ❗ Opened issue [#4](https://github.com/MarcoIeni/infratk/issues/4) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
+4. ❗ Opened issue [#3](https://github.com/MarcoIeni/infratk/issues/3) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
+5. ❗ Opened issue [#2](https://github.com/MarcoIeni/infratk/issues/2) in [MarcoIeni/infratk](https://github.com/MarcoIeni/infratk)
 <!--END_SECTION:activity-->
   
 </details>
