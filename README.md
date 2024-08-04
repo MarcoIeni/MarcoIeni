@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1581](https://github.com/MarcoIeni/release-plz/issues/1581#issuecomment-2266747038) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1582](https://github.com/MarcoIeni/release-plz/issues/1582#issuecomment-2266744245) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#436](https://github.com/rust-lang/simpleinfra/issues/436#issuecomment-2265235047) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#469](https://github.com/rust-lang/simpleinfra/pull/469) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#468](https://github.com/rust-lang/simpleinfra/pull/468#issuecomment-2264803268) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#1582](https://github.com/MarcoIeni/release-plz/issues/1582#issuecomment-2267179599) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#1581](https://github.com/MarcoIeni/release-plz/issues/1581#issuecomment-2266747038) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#1582](https://github.com/MarcoIeni/release-plz/issues/1582#issuecomment-2266744245) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#436](https://github.com/rust-lang/simpleinfra/issues/436#issuecomment-2265235047) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#469](https://github.com/rust-lang/simpleinfra/pull/469) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
