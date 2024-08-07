@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/rust-lang/infra-team/issues/121#issuecomment-2272938066) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🎉 Merged PR [#1598](https://github.com/MarcoIeni/release-plz/pull/1598) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#84](https://github.com/MarcoIeni/release-plz-action/issues/84#issuecomment-2272695039) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-4. 🎉 Merged PR [#1597](https://github.com/MarcoIeni/release-plz/pull/1597) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#1597](https://github.com/MarcoIeni/release-plz/pull/1597) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#123](https://github.com/rust-lang/infra-team/pull/123) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🗣 Commented on [#123](https://github.com/rust-lang/infra-team/pull/123#issuecomment-2273468901) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 💪 Opened PR [#123](https://github.com/rust-lang/infra-team/pull/123) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. ❗ Opened issue [#123](https://github.com/rust-lang/bors/issues/123) in [rust-lang/bors](https://github.com/rust-lang/bors)
+5. ❗ Opened issue [#122](https://github.com/rust-lang/bors/issues/122) in [rust-lang/bors](https://github.com/rust-lang/bors)
 <!--END_SECTION:activity-->
   
 </details>
