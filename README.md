@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#803](https://github.com/orhun/git-cliff/issues/803#issuecomment-2297524264) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-2. ❗ Opened issue [#803](https://github.com/orhun/git-cliff/issues/803) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-3. 💪 Opened PR [#1630](https://github.com/MarcoIeni/release-plz/pull/1630) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#127](https://github.com/rust-lang/infra-team/pull/127) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. 🗣 Commented on [#14422](https://github.com/rust-lang/cargo/pull/14422#issuecomment-2296749031) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+1. 🗣 Commented on [#1521](https://github.com/rust-lang/team/pull/1521#issuecomment-2298161628) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 💪 Opened PR [#1527](https://github.com/rust-lang/team/pull/1527) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 💪 Opened PR [#1526](https://github.com/rust-lang/team/pull/1526) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#803](https://github.com/orhun/git-cliff/issues/803#issuecomment-2297524264) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+5. ❗ Opened issue [#803](https://github.com/orhun/git-cliff/issues/803) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
 <!--END_SECTION:activity-->
   
 </details>
