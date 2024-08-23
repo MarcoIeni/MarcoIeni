@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#128](https://github.com/rust-lang/infra-team/issues/128) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🎉 Merged PR [#1529](https://github.com/rust-lang/team/pull/1529) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#218](https://github.com/rust-lang/cmake-rs/pull/218#issuecomment-2306466739) in [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs)
-4. 🗣 Commented on [#1528](https://github.com/rust-lang/team/issues/1528#issuecomment-2306442621) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 💪 Opened PR [#1530](https://github.com/rust-lang/team/pull/1530) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#495](https://github.com/rust-lang/simpleinfra/pull/495#issuecomment-2306838600) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#495](https://github.com/rust-lang/simpleinfra/pull/495) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#1](https://github.com/MarcoIeni/mdbook-pr-preview/pull/1) in [MarcoIeni/mdbook-pr-preview](https://github.com/MarcoIeni/mdbook-pr-preview)
+4. ❗ Opened issue [#128](https://github.com/rust-lang/infra-team/issues/128) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🎉 Merged PR [#1529](https://github.com/rust-lang/team/pull/1529) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
