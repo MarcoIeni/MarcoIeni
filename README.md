@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#494](https://github.com/rust-lang/simpleinfra/pull/494) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#494](https://github.com/rust-lang/simpleinfra/pull/494) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#493](https://github.com/rust-lang/simpleinfra/pull/493) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#493](https://github.com/rust-lang/simpleinfra/pull/493) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#482](https://github.com/rust-lang/simpleinfra/pull/482#issuecomment-2305232504) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#1631](https://github.com/MarcoIeni/release-plz/issues/1631#issuecomment-2305469408) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#1631](https://github.com/MarcoIeni/release-plz/issues/1631#issuecomment-2305374039) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#1631](https://github.com/MarcoIeni/release-plz/issues/1631#issuecomment-2305368973) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#494](https://github.com/rust-lang/simpleinfra/pull/494) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#494](https://github.com/rust-lang/simpleinfra/pull/494) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
