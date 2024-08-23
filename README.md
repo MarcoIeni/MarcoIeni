@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1631](https://github.com/MarcoIeni/release-plz/issues/1631#issuecomment-2305469408) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1631](https://github.com/MarcoIeni/release-plz/issues/1631#issuecomment-2305374039) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1631](https://github.com/MarcoIeni/release-plz/issues/1631#issuecomment-2305368973) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🎉 Merged PR [#494](https://github.com/rust-lang/simpleinfra/pull/494) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#494](https://github.com/rust-lang/simpleinfra/pull/494) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. ❗ Opened issue [#128](https://github.com/rust-lang/infra-team/issues/128) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🎉 Merged PR [#1529](https://github.com/rust-lang/team/pull/1529) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🗣 Commented on [#218](https://github.com/rust-lang/cmake-rs/pull/218#issuecomment-2306466739) in [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs)
+4. 🗣 Commented on [#1528](https://github.com/rust-lang/team/issues/1528#issuecomment-2306442621) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 💪 Opened PR [#1530](https://github.com/rust-lang/team/pull/1530) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
