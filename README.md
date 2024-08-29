@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#540](https://github.com/rust-lang/simpleinfra/pull/540) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#539](https://github.com/rust-lang/simpleinfra/pull/539) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#538](https://github.com/rust-lang/simpleinfra/pull/538#issuecomment-2314972269) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#538](https://github.com/rust-lang/simpleinfra/pull/538) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🎉 Merged PR [#537](https://github.com/rust-lang/simpleinfra/pull/537) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#127](https://github.com/rust-lang/bors/pull/127) in [rust-lang/bors](https://github.com/rust-lang/bors)
+2. 🗣 Commented on [#8](https://github.com/MarcoIeni/renovate-playground/pull/8#issuecomment-2317295289) in [MarcoIeni/renovate-playground](https://github.com/MarcoIeni/renovate-playground)
+3. 💪 Opened PR [#126](https://github.com/rust-lang/bors/pull/126) in [rust-lang/bors](https://github.com/rust-lang/bors)
+4. 💪 Opened PR [#125](https://github.com/rust-lang/bors/pull/125) in [rust-lang/bors](https://github.com/rust-lang/bors)
+5. 💪 Opened PR [#540](https://github.com/rust-lang/simpleinfra/pull/540) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
