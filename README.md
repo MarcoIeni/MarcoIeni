@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/rust-lang/bors/pull/127) in [rust-lang/bors](https://github.com/rust-lang/bors)
-2. 🗣 Commented on [#8](https://github.com/MarcoIeni/renovate-playground/pull/8#issuecomment-2317295289) in [MarcoIeni/renovate-playground](https://github.com/MarcoIeni/renovate-playground)
-3. 💪 Opened PR [#126](https://github.com/rust-lang/bors/pull/126) in [rust-lang/bors](https://github.com/rust-lang/bors)
-4. 💪 Opened PR [#125](https://github.com/rust-lang/bors/pull/125) in [rust-lang/bors](https://github.com/rust-lang/bors)
-5. 💪 Opened PR [#540](https://github.com/rust-lang/simpleinfra/pull/540) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🎉 Merged PR [#131](https://github.com/rust-lang/infra-team/pull/131) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 💪 Opened PR [#131](https://github.com/rust-lang/infra-team/pull/131) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 🎉 Merged PR [#130](https://github.com/rust-lang/infra-team/pull/130) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 💪 Opened PR [#130](https://github.com/rust-lang/infra-team/pull/130) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🎉 Merged PR [#129](https://github.com/rust-lang/infra-team/pull/129) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
