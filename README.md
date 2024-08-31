@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/rust-lang/bors/pull/127#issuecomment-2322374853) in [rust-lang/bors](https://github.com/rust-lang/bors)
-2. 🎉 Merged PR [#521](https://github.com/rust-lang/simpleinfra/pull/521) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#521](https://github.com/rust-lang/simpleinfra/pull/521#issuecomment-2321445874) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🎉 Merged PR [#543](https://github.com/rust-lang/simpleinfra/pull/543) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#543](https://github.com/rust-lang/simpleinfra/pull/543) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#834](https://github.com/orhun/git-cliff/pull/834) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+2. 🗣 Commented on [#822](https://github.com/orhun/git-cliff/pull/822#issuecomment-2322813513) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+3. 🗣 Commented on [#78](https://github.com/VSpaceCode/vspacecode.github.io/pull/78#issuecomment-2322791475) in [VSpaceCode/vspacecode.github.io](https://github.com/VSpaceCode/vspacecode.github.io)
+4. 🗣 Commented on [#415](https://github.com/rust-unofficial/patterns/pull/415#issuecomment-2322790468) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#127](https://github.com/rust-lang/bors/pull/127#issuecomment-2322374853) in [rust-lang/bors](https://github.com/rust-lang/bors)
 <!--END_SECTION:activity-->
   
 </details>
