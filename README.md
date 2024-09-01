@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1645](https://github.com/MarcoIeni/release-plz/pull/1645) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 💪 Opened PR [#1645](https://github.com/MarcoIeni/release-plz/pull/1645) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. ❌ Closed PR [#1644](https://github.com/MarcoIeni/release-plz/pull/1644) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 💪 Opened PR [#1644](https://github.com/MarcoIeni/release-plz/pull/1644) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🎉 Merged PR [#1643](https://github.com/MarcoIeni/release-plz/pull/1643) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#834](https://github.com/orhun/git-cliff/pull/834#issuecomment-2323195667) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+2. 🗣 Commented on [#416](https://github.com/rust-unofficial/patterns/pull/416#issuecomment-2323193653) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#5](https://github.com/VSpaceCode/community-configs/issues/5#issuecomment-2323193104) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+4. 🔒 Closed issue [#5](https://github.com/VSpaceCode/community-configs/issues/5) in [VSpaceCode/community-configs](https://github.com/VSpaceCode/community-configs)
+5. 🎉 Merged PR [#1645](https://github.com/MarcoIeni/release-plz/pull/1645) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
