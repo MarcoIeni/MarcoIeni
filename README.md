@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#416](https://github.com/rust-unofficial/patterns/pull/416) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🗣 Commented on [#416](https://github.com/rust-unofficial/patterns/pull/416#issuecomment-2323288071) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 🗣 Commented on [#822](https://github.com/orhun/git-cliff/pull/822#issuecomment-2323287428) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-4. 🗣 Commented on [#834](https://github.com/orhun/git-cliff/pull/834#issuecomment-2323272509) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
-5. 🗣 Commented on [#834](https://github.com/orhun/git-cliff/pull/834#issuecomment-2323195667) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+1. 🗣 Commented on [#485](https://github.com/rust-lang/simpleinfra/pull/485#issuecomment-2324169313) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🎉 Merged PR [#416](https://github.com/rust-unofficial/patterns/pull/416) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#416](https://github.com/rust-unofficial/patterns/pull/416#issuecomment-2323288071) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+4. 🗣 Commented on [#822](https://github.com/orhun/git-cliff/pull/822#issuecomment-2323287428) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+5. 🗣 Commented on [#834](https://github.com/orhun/git-cliff/pull/834#issuecomment-2323272509) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
 <!--END_SECTION:activity-->
   
 </details>
