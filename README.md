@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/rust-lang/infra-team/pull/137) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 💪 Opened PR [#137](https://github.com/rust-lang/infra-team/pull/137) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🎉 Merged PR [#566](https://github.com/rust-lang/simpleinfra/pull/566) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#566](https://github.com/rust-lang/simpleinfra/pull/566) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#9408](https://github.com/rust-lang/crates.io/pull/9408) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+1. 🎉 Merged PR [#141](https://github.com/rust-lang/infra-team/pull/141) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 💪 Opened PR [#141](https://github.com/rust-lang/infra-team/pull/141) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. ❗ Opened issue [#140](https://github.com/rust-lang/infra-team/issues/140) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 🎉 Merged PR [#139](https://github.com/rust-lang/infra-team/pull/139) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 💪 Opened PR [#139](https://github.com/rust-lang/infra-team/pull/139) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
