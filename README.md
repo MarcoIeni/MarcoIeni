@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/rust-unofficial/patterns/pull/417#issuecomment-2336735440) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-2. 🗣 Commented on [#18](https://github.com/rust-lang/infra-team/issues/18#issuecomment-2336695669) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🔒 Closed issue [#18](https://github.com/rust-lang/infra-team/issues/18) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 🎉 Merged PR [#1663](https://github.com/MarcoIeni/release-plz/pull/1663) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#1659](https://github.com/MarcoIeni/release-plz/issues/1659#issuecomment-2335222251) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#417](https://github.com/rust-unofficial/patterns/pull/417#issuecomment-2339240763) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+2. 🗣 Commented on [#417](https://github.com/rust-unofficial/patterns/pull/417#issuecomment-2336735440) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+3. 🗣 Commented on [#18](https://github.com/rust-lang/infra-team/issues/18#issuecomment-2336695669) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 🔒 Closed issue [#18](https://github.com/rust-lang/infra-team/issues/18) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🎉 Merged PR [#1663](https://github.com/MarcoIeni/release-plz/pull/1663) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
