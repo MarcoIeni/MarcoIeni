@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/rust-lang/bors/pull/154) in [rust-lang/bors](https://github.com/rust-lang/bors)
-2. ❗ Opened issue [#153](https://github.com/rust-lang/bors/issues/153) in [rust-lang/bors](https://github.com/rust-lang/bors)
-3. 🗣 Commented on [#1549](https://github.com/MarcoIeni/release-plz/issues/1549#issuecomment-2357033090) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❌ Closed PR [#1699](https://github.com/MarcoIeni/release-plz/pull/1699) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 💪 Opened PR [#1699](https://github.com/MarcoIeni/release-plz/pull/1699) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#155](https://github.com/rust-lang/bors/pull/155) in [rust-lang/bors](https://github.com/rust-lang/bors)
+2. 🗣 Commented on [#154](https://github.com/rust-lang/bors/pull/154#issuecomment-2361163100) in [rust-lang/bors](https://github.com/rust-lang/bors)
+3. 💪 Opened PR [#154](https://github.com/rust-lang/bors/pull/154) in [rust-lang/bors](https://github.com/rust-lang/bors)
+4. ❗ Opened issue [#153](https://github.com/rust-lang/bors/issues/153) in [rust-lang/bors](https://github.com/rust-lang/bors)
+5. 🗣 Commented on [#1549](https://github.com/MarcoIeni/release-plz/issues/1549#issuecomment-2357033090) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
