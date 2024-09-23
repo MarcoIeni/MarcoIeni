@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#768](https://github.com/rust-lang/rust-forge/pull/768) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
-2. ❗ Opened issue [#145](https://github.com/rust-lang/infra-team/issues/145) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🔒 Closed issue [#572](https://github.com/rust-lang/simpleinfra/issues/572) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🎉 Merged PR [#573](https://github.com/rust-lang/simpleinfra/pull/573) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#573](https://github.com/rust-lang/simpleinfra/pull/573) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. ❗ Opened issue [#574](https://github.com/rust-lang/simpleinfra/issues/574) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🗣 Commented on [#571](https://github.com/rust-lang/simpleinfra/pull/571#issuecomment-2368141726) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🎉 Merged PR [#768](https://github.com/rust-lang/rust-forge/pull/768) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+4. 💪 Opened PR [#2074](https://github.com/rust-lang/rustc-dev-guide/pull/2074) in [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)
+5. 🗣 Commented on [#568](https://github.com/rust-lang/simpleinfra/issues/568#issuecomment-2368101593) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
