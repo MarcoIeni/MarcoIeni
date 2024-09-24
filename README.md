@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#577](https://github.com/rust-lang/simpleinfra/pull/577) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🎉 Merged PR [#149](https://github.com/rust-lang/infra-team/pull/149) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 💪 Opened PR [#149](https://github.com/rust-lang/infra-team/pull/149) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 🎉 Merged PR [#576](https://github.com/rust-lang/simpleinfra/pull/576) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#576](https://github.com/rust-lang/simpleinfra/pull/576) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🎉 Merged PR [#154](https://github.com/rust-lang/infra-team/pull/154) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 💪 Opened PR [#154](https://github.com/rust-lang/infra-team/pull/154) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. ❗ Opened issue [#86](https://github.com/rust-lang/rust-log-analyzer/issues/86) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+4. 🎉 Merged PR [#153](https://github.com/rust-lang/infra-team/pull/153) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 💪 Opened PR [#153](https://github.com/rust-lang/infra-team/pull/153) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
