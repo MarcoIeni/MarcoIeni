@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/rust-lang/infra-team/pull/154) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 💪 Opened PR [#154](https://github.com/rust-lang/infra-team/pull/154) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. ❗ Opened issue [#86](https://github.com/rust-lang/rust-log-analyzer/issues/86) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
-4. 🎉 Merged PR [#153](https://github.com/rust-lang/infra-team/pull/153) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. 💪 Opened PR [#153](https://github.com/rust-lang/infra-team/pull/153) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. 🗣 Commented on [#1703](https://github.com/MarcoIeni/release-plz/pull/1703#issuecomment-2373072665) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🎉 Merged PR [#154](https://github.com/rust-lang/infra-team/pull/154) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 💪 Opened PR [#154](https://github.com/rust-lang/infra-team/pull/154) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. ❗ Opened issue [#86](https://github.com/rust-lang/rust-log-analyzer/issues/86) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+5. 🎉 Merged PR [#153](https://github.com/rust-lang/infra-team/pull/153) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
