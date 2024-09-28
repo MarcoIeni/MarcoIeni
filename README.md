@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/rust-lang/infra-team/pull/157) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 💪 Opened PR [#740](https://github.com/rust-lang/crater/pull/740) in [rust-lang/crater](https://github.com/rust-lang/crater)
-3. 🎉 Merged PR [#588](https://github.com/rust-lang/simpleinfra/pull/588) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#588](https://github.com/rust-lang/simpleinfra/pull/588) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🎉 Merged PR [#587](https://github.com/rust-lang/simpleinfra/pull/587) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#1706](https://github.com/MarcoIeni/release-plz/pull/1706#issuecomment-2379724324) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 💪 Opened PR [#157](https://github.com/rust-lang/infra-team/pull/157) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 💪 Opened PR [#740](https://github.com/rust-lang/crater/pull/740) in [rust-lang/crater](https://github.com/rust-lang/crater)
+4. 🎉 Merged PR [#588](https://github.com/rust-lang/simpleinfra/pull/588) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#588](https://github.com/rust-lang/simpleinfra/pull/588) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
