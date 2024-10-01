@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1701](https://github.com/MarcoIeni/release-plz/issues/1701) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🎉 Merged PR [#1703](https://github.com/MarcoIeni/release-plz/pull/1703) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1703](https://github.com/MarcoIeni/release-plz/pull/1703#issuecomment-2384989868) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1703](https://github.com/MarcoIeni/release-plz/pull/1703#issuecomment-2384951448) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#1703](https://github.com/MarcoIeni/release-plz/pull/1703#issuecomment-2384893264) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 💪 Opened PR [#595](https://github.com/rust-lang/simpleinfra/pull/595) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#594](https://github.com/rust-lang/simpleinfra/pull/594) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🗣 Commented on [#79](https://github.com/rust-lang/miri-test-libstd/pull/79#issuecomment-2385402328) in [rust-lang/miri-test-libstd](https://github.com/rust-lang/miri-test-libstd)
+4. 🗣 Commented on [#79](https://github.com/rust-lang/miri-test-libstd/pull/79#issuecomment-2385399878) in [rust-lang/miri-test-libstd](https://github.com/rust-lang/miri-test-libstd)
+5. 🎉 Merged PR [#593](https://github.com/rust-lang/simpleinfra/pull/593) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
