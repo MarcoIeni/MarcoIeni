@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#595](https://github.com/rust-lang/simpleinfra/pull/595) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#594](https://github.com/rust-lang/simpleinfra/pull/594) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#79](https://github.com/rust-lang/miri-test-libstd/pull/79#issuecomment-2385402328) in [rust-lang/miri-test-libstd](https://github.com/rust-lang/miri-test-libstd)
-4. 🗣 Commented on [#79](https://github.com/rust-lang/miri-test-libstd/pull/79#issuecomment-2385399878) in [rust-lang/miri-test-libstd](https://github.com/rust-lang/miri-test-libstd)
-5. 🎉 Merged PR [#593](https://github.com/rust-lang/simpleinfra/pull/593) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#596](https://github.com/rust-lang/simpleinfra/pull/596) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🗣 Commented on [#742](https://github.com/rust-lang/crater/pull/742#issuecomment-2385969066) in [rust-lang/crater](https://github.com/rust-lang/crater)
+3. 💪 Opened PR [#742](https://github.com/rust-lang/crater/pull/742) in [rust-lang/crater](https://github.com/rust-lang/crater)
+4. 🗣 Commented on [#740](https://github.com/rust-lang/crater/pull/740#issuecomment-2385891228) in [rust-lang/crater](https://github.com/rust-lang/crater)
+5. 🗣 Commented on [#741](https://github.com/rust-lang/crater/pull/741#issuecomment-2385883807) in [rust-lang/crater](https://github.com/rust-lang/crater)
 <!--END_SECTION:activity-->
   
 </details>
