@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#596](https://github.com/rust-lang/simpleinfra/pull/596) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🗣 Commented on [#742](https://github.com/rust-lang/crater/pull/742#issuecomment-2385969066) in [rust-lang/crater](https://github.com/rust-lang/crater)
-3. 💪 Opened PR [#742](https://github.com/rust-lang/crater/pull/742) in [rust-lang/crater](https://github.com/rust-lang/crater)
-4. 🗣 Commented on [#740](https://github.com/rust-lang/crater/pull/740#issuecomment-2385891228) in [rust-lang/crater](https://github.com/rust-lang/crater)
-5. 🗣 Commented on [#741](https://github.com/rust-lang/crater/pull/741#issuecomment-2385883807) in [rust-lang/crater](https://github.com/rust-lang/crater)
+1. 🎉 Merged PR [#161](https://github.com/MarcoIeni/release-plz-action/pull/161) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+2. 💪 Opened PR [#161](https://github.com/MarcoIeni/release-plz-action/pull/161) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+3. 🎉 Merged PR [#1726](https://github.com/MarcoIeni/release-plz/pull/1726) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🎉 Merged PR [#1727](https://github.com/MarcoIeni/release-plz/pull/1727) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#740](https://github.com/rust-lang/crater/pull/740#issuecomment-2386504175) in [rust-lang/crater](https://github.com/rust-lang/crater)
 <!--END_SECTION:activity-->
   
 </details>
