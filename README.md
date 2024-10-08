@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#741](https://github.com/rust-lang/crater/pull/741#issuecomment-2399339711) in [rust-lang/crater](https://github.com/rust-lang/crater)
-2. 🗣 Commented on [#597](https://github.com/rust-lang/simpleinfra/issues/597#issuecomment-2399274481) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#574](https://github.com/rust-lang/simpleinfra/issues/574#issuecomment-2399270659) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🔒 Closed issue [#574](https://github.com/rust-lang/simpleinfra/issues/574) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🎉 Merged PR [#163](https://github.com/rust-lang/infra-team/pull/163) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. ❗ Opened issue [#10](https://github.com/mainmatter/eurorust-2024-impl-Room/issues/10) in [mainmatter/eurorust-2024-impl-Room](https://github.com/mainmatter/eurorust-2024-impl-Room)
+2. 🗣 Commented on [#741](https://github.com/rust-lang/crater/pull/741#issuecomment-2399339711) in [rust-lang/crater](https://github.com/rust-lang/crater)
+3. 🗣 Commented on [#597](https://github.com/rust-lang/simpleinfra/issues/597#issuecomment-2399274481) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🗣 Commented on [#574](https://github.com/rust-lang/simpleinfra/issues/574#issuecomment-2399270659) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🔒 Closed issue [#574](https://github.com/rust-lang/simpleinfra/issues/574) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
