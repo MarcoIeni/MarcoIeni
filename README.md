@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/rust-lang/sync-team/issues/84#issuecomment-2405253651) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-2. ❗ Opened issue [#87](https://github.com/rust-lang/sync-team/issues/87) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-3. 🗣 Commented on [#612](https://github.com/rust-lang/simpleinfra/pull/612#issuecomment-2405191146) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#1740](https://github.com/MarcoIeni/release-plz/issues/1740#issuecomment-2405187072) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#10](https://github.com/mainmatter/eurorust-2024-impl-Room/issues/10#issuecomment-2405180174) in [mainmatter/eurorust-2024-impl-Room](https://github.com/mainmatter/eurorust-2024-impl-Room)
+1. ❗ Opened issue [#166](https://github.com/MarcoIeni/release-plz-action/issues/166) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+2. ❗ Opened issue [#165](https://github.com/MarcoIeni/release-plz-action/issues/165) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+3. 🗣 Commented on [#231](https://github.com/rust-lang/async-book/pull/231#issuecomment-2405426828) in [rust-lang/async-book](https://github.com/rust-lang/async-book)
+4. 🗣 Commented on [#84](https://github.com/rust-lang/sync-team/issues/84#issuecomment-2405253651) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. ❗ Opened issue [#87](https://github.com/rust-lang/sync-team/issues/87) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
 <!--END_SECTION:activity-->
   
 </details>
