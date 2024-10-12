@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1388](https://github.com/ratatui/ratatui/issues/1388#issuecomment-2407435932) in [ratatui/ratatui](https://github.com/ratatui/ratatui)
-2. ❗ Opened issue [#1767](https://github.com/MarcoIeni/release-plz/issues/1767) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🎉 Merged PR [#162](https://github.com/rust-lang/bors/pull/162) in [rust-lang/bors](https://github.com/rust-lang/bors)
-4. 🎉 Merged PR [#161](https://github.com/rust-lang/bors/pull/161) in [rust-lang/bors](https://github.com/rust-lang/bors)
-5. 🗣 Commented on [#84](https://github.com/rust-lang/bors/issues/84#issuecomment-2407032665) in [rust-lang/bors](https://github.com/rust-lang/bors)
+1. 🗣 Commented on [#1767](https://github.com/MarcoIeni/release-plz/issues/1767#issuecomment-2407923373) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🗣 Commented on [#169](https://github.com/rust-lang/infra-team/issues/169#issuecomment-2407685394) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 🗣 Commented on [#1740](https://github.com/MarcoIeni/release-plz/issues/1740#issuecomment-2407679306) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#1388](https://github.com/ratatui/ratatui/issues/1388#issuecomment-2407435932) in [ratatui/ratatui](https://github.com/ratatui/ratatui)
+5. ❗ Opened issue [#1767](https://github.com/MarcoIeni/release-plz/issues/1767) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
