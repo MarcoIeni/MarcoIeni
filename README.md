@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/rust-lang/async-book/pull/231#issuecomment-2406645256) in [rust-lang/async-book](https://github.com/rust-lang/async-book)
-2. 🗣 Commented on [#10](https://github.com/mainmatter/eurorust-2024-impl-Room/issues/10#issuecomment-2406118067) in [mainmatter/eurorust-2024-impl-Room](https://github.com/mainmatter/eurorust-2024-impl-Room)
-3. ❗ Opened issue [#1766](https://github.com/MarcoIeni/release-plz/issues/1766) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. ❗ Opened issue [#166](https://github.com/MarcoIeni/release-plz-action/issues/166) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. ❗ Opened issue [#165](https://github.com/MarcoIeni/release-plz-action/issues/165) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🎉 Merged PR [#162](https://github.com/rust-lang/bors/pull/162) in [rust-lang/bors](https://github.com/rust-lang/bors)
+2. 🎉 Merged PR [#161](https://github.com/rust-lang/bors/pull/161) in [rust-lang/bors](https://github.com/rust-lang/bors)
+3. 🗣 Commented on [#84](https://github.com/rust-lang/bors/issues/84#issuecomment-2407032665) in [rust-lang/bors](https://github.com/rust-lang/bors)
+4. 🗣 Commented on [#87](https://github.com/rust-lang/sync-team/issues/87#issuecomment-2406883569) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🗣 Commented on [#231](https://github.com/rust-lang/async-book/pull/231#issuecomment-2406645256) in [rust-lang/async-book](https://github.com/rust-lang/async-book)
 <!--END_SECTION:activity-->
   
 </details>
