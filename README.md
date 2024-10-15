@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MarcoIeni/cargo-assist/pull/7) in [MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)
-2. ❗ Opened issue [#171](https://github.com/rust-lang/infra-team/issues/171) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🎉 Merged PR [#170](https://github.com/rust-lang/infra-team/pull/170) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 💪 Opened PR [#170](https://github.com/rust-lang/infra-team/pull/170) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. 🗣 Commented on [#1367](https://github.com/MarcoIeni/release-plz/issues/1367#issuecomment-2410220343) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#1772](https://github.com/MarcoIeni/release-plz/pull/1772) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+2. 🔒 Closed issue [#1030](https://github.com/MarcoIeni/release-plz/issues/1030) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🎉 Merged PR [#1761](https://github.com/MarcoIeni/release-plz/pull/1761) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🚀 Published release [marco-test-two-v0.5.8](https://github.com/MarcoIeni/rust-workspace-example/releases/tag/marco-test-two-v0.5.8) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+5. 🚀 Published release [marco-test-one-v0.3.23](https://github.com/MarcoIeni/rust-workspace-example/releases/tag/marco-test-one-v0.3.23) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
