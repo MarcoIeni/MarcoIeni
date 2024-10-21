@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1791](https://github.com/MarcoIeni/release-plz/issues/1791#issuecomment-2424233356) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. ❌ Closed PR [#1790](https://github.com/MarcoIeni/release-plz/pull/1790) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#1790](https://github.com/MarcoIeni/release-plz/pull/1790#issuecomment-2423652678) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🚀 Published release [v0.5.80](https://github.com/MarcoIeni/release-plz-action/releases/tag/v0.5.80) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
-5. 🎉 Merged PR [#172](https://github.com/MarcoIeni/release-plz-action/pull/172) in [MarcoIeni/release-plz-action](https://github.com/MarcoIeni/release-plz-action)
+1. 🗣 Commented on [#89](https://github.com/rust-lang/sync-team/pull/89#issuecomment-2426531732) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🔒 Closed issue [#87](https://github.com/rust-lang/sync-team/issues/87) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 🎉 Merged PR [#89](https://github.com/rust-lang/sync-team/pull/89) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+4. 🗣 Commented on [#84](https://github.com/rust-lang/sync-team/issues/84#issuecomment-2426521000) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🎉 Merged PR [#580](https://github.com/rust-lang/hashbrown/pull/580) in [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown)
 <!--END_SECTION:activity-->
   
 </details>
