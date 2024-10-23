@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3981](https://github.com/rust-lang/miri/pull/3981) in [rust-lang/miri](https://github.com/rust-lang/miri)
-2. 🎉 Merged PR [#818](https://github.com/rust-lang/chalk/pull/818) in [rust-lang/chalk](https://github.com/rust-lang/chalk)
-3. 🎉 Merged PR [#1582](https://github.com/rust-lang/team/pull/1582) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#1582](https://github.com/rust-lang/team/pull/1582#issuecomment-2428465563) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 💪 Opened PR [#1794](https://github.com/MarcoIeni/release-plz/pull/1794) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🗣 Commented on [#1587](https://github.com/rust-lang/team/pull/1587#issuecomment-2429256874) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🎉 Merged PR [#1587](https://github.com/rust-lang/team/pull/1587) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#18372](https://github.com/rust-lang/rust-analyzer/pull/18372) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+4. 🗣 Commented on [#620](https://github.com/rust-lang/simpleinfra/pull/620#issuecomment-2429176013) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🎉 Merged PR [#1583](https://github.com/rust-lang/team/pull/1583) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
