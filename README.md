@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#377](https://github.com/VSpaceCode/VSpaceCode/issues/377#issuecomment-2440189461) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-2. 🎉 Merged PR [#378](https://github.com/VSpaceCode/VSpaceCode/pull/378) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🎉 Merged PR [#1804](https://github.com/MarcoIeni/release-plz/pull/1804) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-4. 🗣 Commented on [#1030](https://github.com/MarcoIeni/release-plz/issues/1030#issuecomment-2440031592) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. ❗ Opened issue [#1805](https://github.com/MarcoIeni/release-plz/issues/1805) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+1. 🎉 Merged PR [#626](https://github.com/rust-lang/simpleinfra/pull/626) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#626](https://github.com/rust-lang/simpleinfra/pull/626) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🎉 Merged PR [#625](https://github.com/rust-lang/simpleinfra/pull/625) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 💪 Opened PR [#625](https://github.com/rust-lang/simpleinfra/pull/625) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🎉 Merged PR [#624](https://github.com/rust-lang/simpleinfra/pull/624) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
