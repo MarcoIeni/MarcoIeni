@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#155](https://github.com/rust-lang/infra-team/issues/155) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🎉 Merged PR [#613](https://github.com/rust-lang/simpleinfra/pull/613) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#627](https://github.com/rust-lang/simpleinfra/pull/627) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#627](https://github.com/rust-lang/simpleinfra/pull/627) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#82](https://github.com/rust-lang/sync-team/pull/82#issuecomment-2441346337) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+1. ❌ Closed PR [#136](https://github.com/MarcoIeni/glimpse/pull/136) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. ❌ Closed PR [#172](https://github.com/MarcoIeni/glimpse/pull/172) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. ❌ Closed PR [#380](https://github.com/MarcoIeni/glimpse/pull/380) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. ❌ Closed PR [#431](https://github.com/MarcoIeni/glimpse/pull/431) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. ❌ Closed PR [#433](https://github.com/MarcoIeni/glimpse/pull/433) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
