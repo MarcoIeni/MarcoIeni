@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#136](https://github.com/MarcoIeni/glimpse/pull/136) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-2. ❌ Closed PR [#172](https://github.com/MarcoIeni/glimpse/pull/172) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-3. ❌ Closed PR [#380](https://github.com/MarcoIeni/glimpse/pull/380) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. ❌ Closed PR [#431](https://github.com/MarcoIeni/glimpse/pull/431) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. ❌ Closed PR [#433](https://github.com/MarcoIeni/glimpse/pull/433) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 🗣 Commented on [#132316](https://github.com/rust-lang/rust/pull/132316#issuecomment-2443813162) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#132316](https://github.com/rust-lang/rust/pull/132316#issuecomment-2443602157) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#132316](https://github.com/rust-lang/rust/pull/132316#issuecomment-2443574479) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 💪 Opened PR [#132316](https://github.com/rust-lang/rust/pull/132316) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. ❌ Closed PR [#136](https://github.com/MarcoIeni/glimpse/pull/136) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
