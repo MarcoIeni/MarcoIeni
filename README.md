@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132316](https://github.com/rust-lang/rust/pull/132316#issuecomment-2449541937) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#132396](https://github.com/rust-lang/rust/pull/132396#issuecomment-2449533081) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 💪 Opened PR [#132396](https://github.com/rust-lang/rust/pull/132396) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#132316](https://github.com/rust-lang/rust/pull/132316#issuecomment-2449429553) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 💪 Opened PR [#229](https://github.com/MarcoIeni/rust-workspace-example/pull/229) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 🗣 Commented on [#88](https://github.com/rust-lang/sync-team/pull/88#issuecomment-2449771346) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. ❌ Closed PR [#88](https://github.com/rust-lang/sync-team/pull/88) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 🗣 Commented on [#746](https://github.com/rust-lang/crater/pull/746#issuecomment-2449752198) in [rust-lang/crater](https://github.com/rust-lang/crater)
+4. 🗣 Commented on [#132396](https://github.com/rust-lang/rust/pull/132396#issuecomment-2449624511) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#132316](https://github.com/rust-lang/rust/pull/132316#issuecomment-2449541937) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
