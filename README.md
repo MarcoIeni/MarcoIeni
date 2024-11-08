@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#746](https://github.com/rust-lang/crater/pull/746) in [rust-lang/crater](https://github.com/rust-lang/crater)
-2. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2462035108) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 💪 Opened PR [#132721](https://github.com/rust-lang/rust/pull/132721) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#1816](https://github.com/MarcoIeni/release-plz/issues/1816#issuecomment-2462002181) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-5. 🗣 Commented on [#746](https://github.com/rust-lang/crater/pull/746#issuecomment-2461993021) in [rust-lang/crater](https://github.com/rust-lang/crater)
+1. 🎉 Merged PR [#1592](https://github.com/rust-lang/team/pull/1592) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#1604](https://github.com/rust-lang/team/pull/1604#issuecomment-2462683091) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#746](https://github.com/rust-lang/crater/pull/746) in [rust-lang/crater](https://github.com/rust-lang/crater)
+4. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2462035108) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 💪 Opened PR [#132721](https://github.com/rust-lang/rust/pull/132721) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
