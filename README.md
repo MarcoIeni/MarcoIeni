@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1433](https://github.com/MarcoIeni/release-plz/issues/1433#issuecomment-2476851033) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-2. 🗣 Commented on [#1739](https://github.com/MarcoIeni/release-plz/issues/1739#issuecomment-2476849633) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
-3. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2476839219) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2476836177) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2476829701) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2477020647) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#1433](https://github.com/MarcoIeni/release-plz/issues/1433#issuecomment-2476851033) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+3. 🗣 Commented on [#1739](https://github.com/MarcoIeni/release-plz/issues/1739#issuecomment-2476849633) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+4. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2476839219) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2476836177) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
