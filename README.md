@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2485144352) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#1576](https://github.com/rust-lang/team/pull/1576#issuecomment-2485125172) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#1576](https://github.com/rust-lang/team/pull/1576) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#132721](https://github.com/rust-lang/rust/pull/132721#issuecomment-2485066430) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#1576](https://github.com/rust-lang/team/pull/1576#issuecomment-2485020093) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#94](https://github.com/rust-lang/sync-team/pull/94) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🗣 Commented on [#133190](https://github.com/rust-lang/rust/pull/133190#issuecomment-2485339735) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#133190](https://github.com/rust-lang/rust/pull/133190#issuecomment-2485294722) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#1763](https://github.com/MarcoIeni/release-plz/issues/1763#issuecomment-2485208040) in [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)
+5. 🗣 Commented on [#133175](https://github.com/rust-lang/rust/pull/133175#issuecomment-2485203413) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
