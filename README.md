@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1859](https://github.com/release-plz/release-plz/pull/1859) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 💪 Opened PR [#1859](https://github.com/release-plz/release-plz/pull/1859) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🎉 Merged PR [#2](https://github.com/marco-test-org/rust-ci-workshop24-marco/pull/2) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
-4. 💪 Opened PR [#2](https://github.com/marco-test-org/rust-ci-workshop24-marco/pull/2) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
-5. 🎉 Merged PR [#1](https://github.com/MarcoIeni/rust-ci-workshop24-marco/pull/1) in [MarcoIeni/rust-ci-workshop24-marco](https://github.com/MarcoIeni/rust-ci-workshop24-marco)
+1. 🎉 Merged PR [#1860](https://github.com/release-plz/release-plz/pull/1860) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#1860](https://github.com/release-plz/release-plz/pull/1860) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#1859](https://github.com/release-plz/release-plz/pull/1859) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 💪 Opened PR [#1859](https://github.com/release-plz/release-plz/pull/1859) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#2](https://github.com/marco-test-org/rust-ci-workshop24-marco/pull/2) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
 <!--END_SECTION:activity-->
   
 </details>
