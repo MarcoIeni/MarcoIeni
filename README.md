@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MarcoIeni/rust-ci-workshop24-marco/pull/1) in [MarcoIeni/rust-ci-workshop24-marco](https://github.com/MarcoIeni/rust-ci-workshop24-marco)
-2. 🎉 Merged PR [#1853](https://github.com/release-plz/release-plz/pull/1853) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#1843](https://github.com/release-plz/release-plz/pull/1843#issuecomment-2491889170) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🔒 Closed issue [#1763](https://github.com/release-plz/release-plz/issues/1763) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#1843](https://github.com/release-plz/release-plz/pull/1843) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🎉 Merged PR [#2](https://github.com/marco-test-org/rust-ci-workshop24-marco/pull/2) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
+2. 💪 Opened PR [#2](https://github.com/marco-test-org/rust-ci-workshop24-marco/pull/2) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
+3. 🎉 Merged PR [#1](https://github.com/MarcoIeni/rust-ci-workshop24-marco/pull/1) in [MarcoIeni/rust-ci-workshop24-marco](https://github.com/MarcoIeni/rust-ci-workshop24-marco)
+4. 💪 Opened PR [#1](https://github.com/MarcoIeni/rust-ci-workshop24-marco/pull/1) in [MarcoIeni/rust-ci-workshop24-marco](https://github.com/MarcoIeni/rust-ci-workshop24-marco)
+5. 🎉 Merged PR [#1853](https://github.com/release-plz/release-plz/pull/1853) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
