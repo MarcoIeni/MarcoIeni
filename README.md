@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1857](https://github.com/release-plz/release-plz/issues/1857#issuecomment-2496277182) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🔒 Closed issue [#1857](https://github.com/release-plz/release-plz/issues/1857) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#1857](https://github.com/release-plz/release-plz/issues/1857#issuecomment-2496275881) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#1847](https://github.com/release-plz/release-plz/pull/1847) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#1861](https://github.com/release-plz/release-plz/pull/1861#issuecomment-2496253941) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#1857](https://github.com/release-plz/release-plz/issues/1857#issuecomment-2497125427) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#1857](https://github.com/release-plz/release-plz/issues/1857#issuecomment-2496277182) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🔒 Closed issue [#1857](https://github.com/release-plz/release-plz/issues/1857) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#1857](https://github.com/release-plz/release-plz/issues/1857#issuecomment-2496275881) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#1847](https://github.com/release-plz/release-plz/pull/1847) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
