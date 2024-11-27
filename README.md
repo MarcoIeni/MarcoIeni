@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1683](https://github.com/rust-lang/stdarch/pull/1683) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
-2. 🗣 Commented on [#1497](https://github.com/release-plz/release-plz/pull/1497#issuecomment-2503123363) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#469](https://github.com/MarcoIeni/glimpse/pull/469#issuecomment-2501672201) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-4. ❌ Closed PR [#438](https://github.com/MarcoIeni/glimpse/pull/438) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
-5. ❌ Closed PR [#437](https://github.com/MarcoIeni/glimpse/pull/437) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+1. 🗣 Commented on [#231](https://github.com/rust-lang/async-book/pull/231#issuecomment-2503925964) in [rust-lang/async-book](https://github.com/rust-lang/async-book)
+2. 🗣 Commented on [#168](https://github.com/rust-lang/bors/issues/168#issuecomment-2503896957) in [rust-lang/bors](https://github.com/rust-lang/bors)
+3. 💪 Opened PR [#1683](https://github.com/rust-lang/stdarch/pull/1683) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+4. 🗣 Commented on [#1497](https://github.com/release-plz/release-plz/pull/1497#issuecomment-2503123363) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#469](https://github.com/MarcoIeni/glimpse/pull/469#issuecomment-2501672201) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
 <!--END_SECTION:activity-->
   
 </details>
