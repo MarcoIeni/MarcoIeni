@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133256](https://github.com/rust-lang/rust/pull/133256#issuecomment-2501063716) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#571](https://github.com/rust-lang/simpleinfra/pull/571#issuecomment-2500521744) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#1866](https://github.com/release-plz/release-plz/issues/1866#issuecomment-2500286777) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 💪 Opened PR [#133492](https://github.com/rust-lang/rust/pull/133492) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#1866](https://github.com/release-plz/release-plz/issues/1866#issuecomment-2498700819) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#469](https://github.com/MarcoIeni/glimpse/pull/469#issuecomment-2501672201) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+2. ❌ Closed PR [#438](https://github.com/MarcoIeni/glimpse/pull/438) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+3. ❌ Closed PR [#437](https://github.com/MarcoIeni/glimpse/pull/437) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+4. 💪 Opened PR [#469](https://github.com/MarcoIeni/glimpse/pull/469) in [MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)
+5. 🗣 Commented on [#133256](https://github.com/rust-lang/rust/pull/133256#issuecomment-2501063716) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
