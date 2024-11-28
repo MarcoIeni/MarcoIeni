@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1683](https://github.com/rust-lang/stdarch/pull/1683#issuecomment-2504157133) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
-2. 💪 Opened PR [#1615](https://github.com/rust-lang/team/pull/1615) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#1683](https://github.com/rust-lang/stdarch/pull/1683#issuecomment-2504122113) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
-4. 🗣 Commented on [#133256](https://github.com/rust-lang/rust/pull/133256#issuecomment-2504082090) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#181](https://github.com/rust-lang/bors/pull/181#issuecomment-2504032162) in [rust-lang/bors](https://github.com/rust-lang/bors)
+1. 🗣 Commented on [#1683](https://github.com/rust-lang/stdarch/pull/1683#issuecomment-2504535285) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+2. 🗣 Commented on [#1497](https://github.com/release-plz/release-plz/pull/1497#issuecomment-2504533347) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#1683](https://github.com/rust-lang/stdarch/pull/1683#issuecomment-2504530064) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+4. 🗣 Commented on [#1683](https://github.com/rust-lang/stdarch/pull/1683#issuecomment-2504360723) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+5. 🗣 Commented on [#1683](https://github.com/rust-lang/stdarch/pull/1683#issuecomment-2504157133) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
 <!--END_SECTION:activity-->
   
 </details>
