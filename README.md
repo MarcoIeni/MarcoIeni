@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 
 ### 🧙 Author and maintainer
 
-- **[release-plz/release-plz](https://github.com/MarcoIeni/release-plz)** Release Rust crates from CI
-  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/release-plz?style=social">
+- **[release-plz/release-plz](https://github.com/release-plz/release-plz)** Release Rust crates from CI
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/release-plz/release-plz?style=social">
 - **[MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)** Spacemacs' like key bindings for IntelliJ platform.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/intellimacs?style=social">
 - **[rust-github/template](https://github.com/rust-github/template)** Template for a generic rust project hosted on GitHub.
