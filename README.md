@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ### 🧙 Author and maintainer
 
-- **[MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz)** Release Rust crates from CI
+- **[release-plz/release-plz](https://github.com/MarcoIeni/release-plz)** Release Rust crates from CI
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/release-plz?style=social">
 - **[MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)** Spacemacs' like key bindings for IntelliJ platform.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/intellimacs?style=social">
