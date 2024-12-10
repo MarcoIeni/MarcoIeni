@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#183](https://github.com/rust-lang/infra-team/issues/183) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2528124385) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. ❗ Opened issue [#96](https://github.com/rust-lang/sync-team/issues/96) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-4. 🗣 Commented on [#134071](https://github.com/rust-lang/rust/pull/134071#issuecomment-2527983172) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#1899](https://github.com/release-plz/release-plz/pull/1899#issuecomment-2527977168) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#96](https://github.com/rust-lang/sync-team/issues/96#issuecomment-2528905424) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🔒 Closed issue [#96](https://github.com/rust-lang/sync-team/issues/96) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 🗣 Commented on [#1900](https://github.com/release-plz/release-plz/issues/1900#issuecomment-2528827660) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#183](https://github.com/rust-lang/infra-team/issues/183#issuecomment-2528794681) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. ❗ Opened issue [#183](https://github.com/rust-lang/infra-team/issues/183) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
