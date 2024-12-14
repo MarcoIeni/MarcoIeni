@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2541181299) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🎉 Merged PR [#649](https://github.com/rust-lang/simpleinfra/pull/649) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 💪 Opened PR [#649](https://github.com/rust-lang/simpleinfra/pull/649) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2540939624) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#134124](https://github.com/rust-lang/rust/pull/134124#issuecomment-2540846099) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2541726038) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 💪 Opened PR [#2](https://github.com/rust-lang/aws-runners-test/pull/2) in [rust-lang/aws-runners-test](https://github.com/rust-lang/aws-runners-test)
+3. ❌ Closed PR [#1](https://github.com/rust-lang/aws-runners-test/pull/1) in [rust-lang/aws-runners-test](https://github.com/rust-lang/aws-runners-test)
+4. 🎉 Merged PR [#651](https://github.com/rust-lang/simpleinfra/pull/651) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#651](https://github.com/rust-lang/simpleinfra/pull/651) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
