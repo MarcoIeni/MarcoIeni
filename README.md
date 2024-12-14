@@ -110,11 +110,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Teaching and Learning Rust with @timClicks - RustShip #10](https://www.youtube.com/watch?v=0PUmmr-PCCs)
 - [Teaching and learning Rust with Tim McNamara - RustShip #10](https://www.youtube.com/watch?v=M1csdWGk9BQ)
 - [Adding release-plz to ratatui 🤖🐁](https://www.youtube.com/watch?v=cxIumpVggnI)
 - [Binsider with Orhun Parmaksiz - RustShip #9](https://www.youtube.com/watch?v=5t5mIghMk8c)
 - [Rust on AWS Lambda with Luciano Mammino - RustShip #8](https://www.youtube.com/watch?v=Y0KZpoV5ebM)
-- [Rust on AWS Lambda with Luciano Mammino - RustShip #8](https://www.youtube.com/watch?v=Qx0XIP4LnYU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
