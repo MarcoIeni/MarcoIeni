@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2557281068) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🔒 Closed issue [#182](https://github.com/rust-lang/infra-team/issues/182) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🗣 Commented on [#653](https://github.com/rust-lang/simpleinfra/pull/653#issuecomment-2557178014) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#653](https://github.com/rust-lang/simpleinfra/pull/653#issuecomment-2557133551) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🎉 Merged PR [#653](https://github.com/rust-lang/simpleinfra/pull/653) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🎉 Merged PR [#1930](https://github.com/release-plz/release-plz/pull/1930) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#1930](https://github.com/release-plz/release-plz/pull/1930) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#231](https://github.com/MarcoIeni/rust-workspace-example/pull/231) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+4. 🗣 Commented on [#51](https://github.com/rustls/ktls/issues/51#issuecomment-2557464440) in [rustls/ktls](https://github.com/rustls/ktls)
+5. 🎉 Merged PR [#230](https://github.com/MarcoIeni/rust-workspace-example/pull/230) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
