@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1930](https://github.com/release-plz/release-plz/pull/1930) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 💪 Opened PR [#1930](https://github.com/release-plz/release-plz/pull/1930) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🎉 Merged PR [#231](https://github.com/MarcoIeni/rust-workspace-example/pull/231) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
-4. 🗣 Commented on [#51](https://github.com/rustls/ktls/issues/51#issuecomment-2557464440) in [rustls/ktls](https://github.com/rustls/ktls)
-5. 🎉 Merged PR [#230](https://github.com/MarcoIeni/rust-workspace-example/pull/230) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
+1. 🔒 Closed issue [#1900](https://github.com/release-plz/release-plz/issues/1900) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#1900](https://github.com/release-plz/release-plz/issues/1900#issuecomment-2558084831) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#1930](https://github.com/release-plz/release-plz/pull/1930) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 💪 Opened PR [#1930](https://github.com/release-plz/release-plz/pull/1930) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#231](https://github.com/MarcoIeni/rust-workspace-example/pull/231) in [MarcoIeni/rust-workspace-example](https://github.com/MarcoIeni/rust-workspace-example)
 <!--END_SECTION:activity-->
   
 </details>
