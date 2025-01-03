@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 💪 Opened PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🎉 Merged PR [#1954](https://github.com/release-plz/release-plz/pull/1954) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 💪 Opened PR [#1954](https://github.com/release-plz/release-plz/pull/1954) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#1937](https://github.com/release-plz/release-plz/pull/1937#issuecomment-2568002301) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#382](https://github.com/VSpaceCode/VSpaceCode/issues/382#issuecomment-2569488952) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+2. 🎉 Merged PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 💪 Opened PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🎉 Merged PR [#1954](https://github.com/release-plz/release-plz/pull/1954) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 💪 Opened PR [#1954](https://github.com/release-plz/release-plz/pull/1954) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
