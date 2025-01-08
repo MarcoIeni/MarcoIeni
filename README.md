@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1967](https://github.com/release-plz/release-plz/issues/1967) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#1966](https://github.com/release-plz/release-plz/pull/1966) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 💪 Opened PR [#1966](https://github.com/release-plz/release-plz/pull/1966) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#1964](https://github.com/release-plz/release-plz/pull/1964) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 💪 Opened PR [#1964](https://github.com/release-plz/release-plz/pull/1964) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#1872](https://github.com/release-plz/release-plz/pull/1872#issuecomment-2576874062) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. ❗ Opened issue [#1967](https://github.com/release-plz/release-plz/issues/1967) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#1966](https://github.com/release-plz/release-plz/pull/1966) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 💪 Opened PR [#1966](https://github.com/release-plz/release-plz/pull/1966) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#1964](https://github.com/release-plz/release-plz/pull/1964) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
