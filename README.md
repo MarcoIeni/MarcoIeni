@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6263](https://github.com/rust-lang/this-week-in-rust/pull/6263) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
-2. 🗣 Commented on [#382](https://github.com/VSpaceCode/VSpaceCode/issues/382#issuecomment-2569488952) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
-3. 🎉 Merged PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 💪 Opened PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#1954](https://github.com/release-plz/release-plz/pull/1954) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#195](https://github.com/rust-lang/bors/pull/195) in [rust-lang/bors](https://github.com/rust-lang/bors)
+2. 🗣 Commented on [#134916](https://github.com/rust-lang/rust/issues/134916#issuecomment-2575603008) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 💪 Opened PR [#6263](https://github.com/rust-lang/this-week-in-rust/pull/6263) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+4. 🗣 Commented on [#382](https://github.com/VSpaceCode/VSpaceCode/issues/382#issuecomment-2569488952) in [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)
+5. 🎉 Merged PR [#1955](https://github.com/release-plz/release-plz/pull/1955) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
