@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1974](https://github.com/release-plz/release-plz/issues/1974) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🔒 Closed issue [#59](https://github.com/rust-github/template/issues/59) in [rust-github/template](https://github.com/rust-github/template)
-3. 🔒 Closed issue [#95](https://github.com/VSpaceCode/vscode-which-key/issues/95) in [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key)
-4. 🗣 Commented on [#59](https://github.com/rust-github/template/issues/59#issuecomment-2585261847) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#1640](https://github.com/rust-lang/team/pull/1640) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#1975](https://github.com/release-plz/release-plz/pull/1975) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🎉 Merged PR [#1977](https://github.com/release-plz/release-plz/pull/1977) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#1975](https://github.com/release-plz/release-plz/pull/1975#issuecomment-2585850472) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🎉 Merged PR [#1979](https://github.com/release-plz/release-plz/pull/1979) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 💪 Opened PR [#1979](https://github.com/release-plz/release-plz/pull/1979) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
