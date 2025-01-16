@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#135530](https://github.com/rust-lang/rust/pull/135530) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2592102108) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 💪 Opened PR [#2523](https://github.com/rust-lang/mdBook/pull/2523) in [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
-4. 🗣 Commented on [#135483](https://github.com/rust-lang/rust/pull/135483#issuecomment-2591823435) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🚀 Published release [v0.5.88](https://github.com/release-plz/action/releases/tag/v0.5.88) in [release-plz/action](https://github.com/release-plz/action)
+1. 💪 Opened PR [#1368](https://github.com/rust-lang/cc-rs/pull/1368) in [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
+2. 💪 Opened PR [#135530](https://github.com/rust-lang/rust/pull/135530) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#133912](https://github.com/rust-lang/rust/pull/133912#issuecomment-2592102108) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 💪 Opened PR [#2523](https://github.com/rust-lang/mdBook/pull/2523) in [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+5. 🗣 Commented on [#135483](https://github.com/rust-lang/rust/pull/135483#issuecomment-2591823435) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
