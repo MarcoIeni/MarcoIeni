@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1865](https://github.com/release-plz/release-plz/issues/1865#issuecomment-2614273952) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🔒 Closed issue [#1788](https://github.com/release-plz/release-plz/issues/1788) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🎉 Merged PR [#1861](https://github.com/release-plz/release-plz/pull/1861) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2005](https://github.com/release-plz/release-plz/pull/2005) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#1497](https://github.com/release-plz/release-plz/pull/1497#issuecomment-2614062652) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#189](https://github.com/rust-lang/infra-team/issues/189#issuecomment-2615393763) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🔒 Closed issue [#316](https://github.com/rust-lang/portable-simd/issues/316) in [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd)
+3. 🔒 Closed issue [#9](https://github.com/rust-lang/testing-devex-team/issues/9) in [rust-lang/testing-devex-team](https://github.com/rust-lang/testing-devex-team)
+4. 🗣 Commented on [#1865](https://github.com/release-plz/release-plz/issues/1865#issuecomment-2614273952) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🔒 Closed issue [#1788](https://github.com/release-plz/release-plz/issues/1788) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
