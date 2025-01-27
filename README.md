@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/rust-lang/infra-team/issues/189#issuecomment-2615393763) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🔒 Closed issue [#316](https://github.com/rust-lang/portable-simd/issues/316) in [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd)
-3. 🔒 Closed issue [#9](https://github.com/rust-lang/testing-devex-team/issues/9) in [rust-lang/testing-devex-team](https://github.com/rust-lang/testing-devex-team)
-4. 🗣 Commented on [#1865](https://github.com/release-plz/release-plz/issues/1865#issuecomment-2614273952) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🔒 Closed issue [#1788](https://github.com/release-plz/release-plz/issues/1788) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#136136](https://github.com/rust-lang/rust/pull/136136#issuecomment-2616082650) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 💪 Opened PR [#136136](https://github.com/rust-lang/rust/pull/136136) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#135834](https://github.com/rust-lang/rust/pull/135834#issuecomment-2615910979) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#189](https://github.com/rust-lang/infra-team/issues/189#issuecomment-2615393763) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🔒 Closed issue [#316](https://github.com/rust-lang/portable-simd/issues/316) in [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd)
 <!--END_SECTION:activity-->
   
 </details>
